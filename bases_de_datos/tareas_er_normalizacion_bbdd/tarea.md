@@ -84,6 +84,18 @@ Normalizacion/ → Ejercicios de normalización hasta 3FN para diferentes casos 
 
 ---
 
+### 📚 Recursos
+
+- Durante la realización de estas tareas, he utilizado los siguientes recursos:
+
+- Temario de estudio: Material sobre normalización y modelado E/R, que me ayudó a comprender cómo estructurar correctamente las bases de datos y aplicar las reglas de integridad.
+
+- Programa de diseño: Dia, utilizado para crear los diagramas E/R y el modelo relacional, lo que permitió visualizar claramente las relaciones entre entidades, atributos y restricciones antes de implementarlas en SQL.
+
+> Estos recursos fueron esenciales para entender el proceso completo, desde el análisis conceptual hasta la implementación práctica en SQL, fortaleciendo mis conocimientos en diseño y gestión de bases de datos.
+
+---
+
 ### 💡 Reflexión final
 
 > Realizando estos ejercicios he aprendido que el modelado de bases de datos no es solo una tarea técnica, sino un proceso de análisis del mundo real, donde cada entidad, relación y restricción debe reflejar fielmente la información que queremos gestionar.
