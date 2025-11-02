@@ -12,6 +12,12 @@
 
 ---
 
+> Realice tareas extras de normalización para afianzar conceptos.
+
+[![Tarea de normalizacion extra](img/tareas_normalizacion_extra)](docs/tarea_normalizacion_extra.pdf)
+
+---
+
 ## 📝 Lo que he aprendido realizando estas tareas:
 
 - Diseño de modelos E/R
