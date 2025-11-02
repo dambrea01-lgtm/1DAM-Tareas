@@ -1,18 +1,14 @@
-# Álbum de Cartas Educativo 
+# Álbum de Cartas Educativo
 
-[↩️ Volver al inicio](../../README.md) 
+[↩️ Volver al inicio](../../README.md)
 
 ---
 
-¡Hola! 👋 
+- Este proyecto representa una forma práctica de aplicar todo lo que he aprendido durante el primer curso de Desarrollo de Aplicaciones Multiplataforma (DAM), especialmente en la asignatura de Lenguajes de Marcas.
 
-> Aquí explico qué es, qué he aprendido mientras lo desarrollaba, cómo se puede probar y cuáles son mis planes de futuro.
+- Durante el curso he estudiado tecnologías como HTML, CSS, JavaScript, JSON y Bootstrap, y este proyecto me ha servido para poner en práctica todo ese conocimiento de manera creativa y funcional.
 
-> Este proyecto representa una forma práctica de aplicar todo lo que he aprendido durante el primer curso de Desarrollo de Aplicaciones Multiplataforma (DAM), especialmente en la asignatura de Lenguajes de Marcas.
-
-> Durante el curso he estudiado tecnologías como HTML, CSS, JavaScript, JSON y Bootstrap, y este proyecto me ha servido para poner en práctica todo ese conocimiento de manera creativa y funcional.
-
-> He querido ir más allá de los ejercicios del aula y crear algo que realmente me motive, donde pueda integrar conceptos de desarrollo web, diseño y lógica de programación.
+- He querido ir más allá de los ejercicios del aula y crear algo que realmente me motive, donde pueda integrar conceptos de desarrollo web, diseño y lógica de programación.
 
 ---
 
@@ -25,29 +21,63 @@
 
 - Interfaz responsive construída con HTML5 y CSS3 (diseño propio inspirándome en conceptos de Bootstrap).
 
-- Lógica en JavaScript (vanilla):
+![Texto alternativo](img/imgReadme/imgGUI-01.png)
 
-- Apertura de sobres (normales y premium) en mi juego educativo. 
+> Lógica en JavaScript (vanilla):
+
+- Apertura de sobres (normales y premium) en mi juego educativo.
+
+![Texto alternativo](img/imgReadme/imgGUI-02.png)
 
 - Añadir cartas al álbum y marcar como nuevas.
 
+![Texto alternativo](img/imgReadme/imgGUI-03.png)
+
 - Modal para ver carta ampliada.
+
+![Texto alternativo](img/imgReadme/imgGUI-04.png)
 
 - Trivia con preguntas cargadas desde preguntas.json.
 
+![Texto alternativo](img/imgReadme/imgGUI-05.png)
+
 - Ruleta de premios tras completar desafíos.
 
-- Sonidos y música (música de fondo / música de trivia / efectos).
+![Texto alternativo](img/imgReadme/imgGUI-06.png)
+
+- Sonidos y música (música de fondo / música de trivia / efectos). La opción de desactivar y activar la música pulsando sobre el icono.
+
+![Texto alternativo](img/imgReadme/imgGUI-09.png)
+
+![Puedes ver la carpeta donde escuchar las musica y efectos](sound/)
 
 - Guardado y carga de progreso en localStorage.
 
-- Paginación y agrupado de cartas por colecciones.
+![Texto alternativo](img/imgReadme/imgGUI-07.png)
 
-- Sistema de objetivos (actualmente desactivado / “en desarrollo”).
+![Texto alternativo](img/imgReadme/imgGUI-08.png)
+
+- Paginación del álbum y agrupado de 20 cartas por colecciones.
+
+![Texto alternativo](img/imgReadme/imgGUI-10.png)
+
+- Sistema de objetivos (actualmente desactivado / “en desarrollo” ya lo tengo completado, haciendole pruebas).Los objetivos basicamente consiste en encontrar la carta con la mismo triggers o descripción, darle a usar y si coinciden se premiara al usuario con una carta premium (tienen las misma probabilidad de que salgan las cartas del nivel 0 al nivel 19, las cartas normales tienes mayor probabilidad que salgan cartas del nivel 0 y mas dificil el nivel 19)
+
+![Texto alternativo](img/imgReadme/imgGUI-11.png)
 
 - Datos de cartas y preguntas almacenados en JSON (cards.json, preguntas.json).
 
-- Uso de técnicas de UX (animaciones CSS para cartas nuevas, transiciones, feedback visual).
+En cards.json tenemos los datos de las cartas (tengo que agregar los text/trigger a todas las cartas en desarrollo)
+
+![Texto alternativo](img/imgReadme/imgGUI-12.png)
+
+En preguntas.json tengo todas las preguntas de mi trivial, donde tendra que el usuario acertar 3 veces seguidas para poder conseguir una tirada en la ruleta y conseguir sobres normales o premium
+
+![Texto alternativo](img/imgReadme/imgGUI-13.png)
+
+- Uso de técnicas de UX (animaciones CSS para cartas nuevas, transiciones, feedback visual). Por ejemplo la animación de movimiento de la ruleta al pulsar tirar, junto con sonido de la ruleta, ... el objetivo hacer atractivo la GUI.
+
+![Texto alternativo](img/imgReadme/imgGUI-14.png)
 
 ---
 
@@ -102,7 +132,8 @@ A lo largo de la asignatura y creando este proyecto he aprendido y puesto en pr�
 > Bootstrap (conceptos)
 
 - En la asignatura aprendí Bootstrap y utilicé los conceptos de diseño y utilidades (espaciados, tipografías y grid).
-En este proyecto actual he construido estilos propios para aprender más en profundidad el CSS, pero mis decisiones de diseño y de estructura están fundamentadas en lo aprendido con Bootstrap. En futuros pasos integraré utilidades o componentes de Bootstrap cuando el proyecto requiera prototipado rápido.
+
+- En este proyecto actual he construido estilos propios para aprender más en profundidad el CSS, pero mis decisiones de diseño y de estructura están fundamentadas en lo aprendido con Bootstrap. En futuros pasos integraré utilidades o componentes de Bootstrap cuando el proyecto requiera prototipado rápido.
 
 ---
 
@@ -124,7 +155,7 @@ En este proyecto actual he construido estilos propios para aprender más en prof
 
 > Actualmente guardo el progreso en localStorage (partidas y estado del álbum).
 
-    - Sé que esto no es una solución sostenible para un producto real (no es multiusuario, se pierde si se borran datos del navegador, no sincroniza entre dispositivos).
+- Sé que esto no es una solución sostenible para un producto real (no es multiusuario, se pierde si se borran datos del navegador, no sincroniza entre dispositivos).
 
 > Mi plan: aprender PHP y pasar a un backend que guarde en una base de datos relacional (MySQL/PostgreSQL). También estoy valorando Node/Express como alternativa, pero dado que en el grado/curso estudiaré PHP, quiero implementar la versión con PHP + BBDD para practicar lo visto en clase y asegurar compatibilidad con hosting tradicional.
 
@@ -134,23 +165,23 @@ En este proyecto actual he construido estilos propios para aprender más en prof
 
 > Crear una API REST (en PHP inicialmente) que permita:
 
-    - Autenticación básica (usuarios).
+- Autenticación básica (usuarios).
 
-    - CRUD de cartas y paquetes (crear cartas a partir de mi material de estudio).
+- CRUD de cartas y paquetes (crear cartas a partir de mi material de estudio).
 
-    - Gestionar preguntas del trivial y su nivel de dificultad.
+- Gestionar preguntas del trivial y su nivel de dificultad.
 
-    - Guardar progreso de usuario en la base de datos.
+- Guardar progreso de usuario en la base de datos.
 
-    - Generar sobres dinamicamente según probabilidades / rarity pools.
+- Generar sobres dinamicamente según probabilidades / rarity pools.
 
 > Con esto el proyecto ganará:
 
-    - Persistencia robusta (progreso, cuentas).
+- Persistencia robusta (progreso, cuentas).
 
-    - Posibilidad de que los usuarios creen álbumes públicos/privados.
+- Posibilidad de que los usuarios creen álbumes públicos/privados.
 
-    - Backend para generar contenido automáticamente a partir de material de estudio (subida de imágenes, texto y preguntas).
+- Backend para generar contenido automáticamente a partir de material de estudio (subida de imágenes, texto y preguntas).
 
 ---
 
@@ -186,29 +217,29 @@ En este proyecto actual he construido estilos propios para aprender más en prof
 
 > Opciones recomendadas:
 
-    - Usando Visual Studio Code
+- Usando Visual Studio Code
 
-    - Instalar la extensión Live Server (Ritwick Dey).
+- Instalar la extensión Live Server (Ritwick Dey).
 
-    - Abrir la carpeta del proyecto en VSCode.
+- Abrir la carpeta del proyecto en VSCode.
 
-    - Hacer clic derecho en index.html → Open with Live Server.
+- Hacer clic derecho en index.html → Open with Live Server.
 
-    - La app abrirá en http://127.0.0.1:5500/ (u otro puerto).
+- La app abrirá en http://127.0.0.1:5500/ (u otro puerto).
 
 > Alternativa: servidor HTTP con Python (si tienes Python)
 
-    - Desde la carpeta del proyecto ejecuta:
+- Desde la carpeta del proyecto ejecuta:
 
-    - Python 3:
+- Python 3:
 
-    - python -m http.server 8000
+- python -m http.server 8000
 
-    - Y abre en el navegador http://localhost:8000.
+- Y abre en el navegador http://localhost:8000.
 
 ---
 
-## Notas técnicas relevantes 
+## Notas técnicas relevantes
 
 > Con este proyecto he consiguido adquirir practicas y conocimientos sobre:
 
@@ -232,15 +263,15 @@ En este proyecto actual he construido estilos propios para aprender más en prof
 
 > Si revisas este repositorio y quieres colaborar:
 
-    - Abre un issue con sugerencias (p. ej. "modularizar audio", "mover fetch de JSON a API").
+- Abre un issue con sugerencias (p. ej. "modularizar audio", "mover fetch de JSON a API").
 
-    - Pull requests: prefiero PRs pequeños y documentados (añadir tests o mejorar documentación).
+- Pull requests: prefiero PRs pequeños y documentados (añadir tests o mejorar documentación).
 
-    - Comentarios sobre arquitectura y escalabilidad son bienvenidos — estoy aprendiendo buenas prácticas y agradezco el feedback de profesionales.
+- Comentarios sobre arquitectura y escalabilidad son bienvenidos — estoy aprendiendo buenas prácticas y agradezco el feedback de profesionales.
 
 ---
 
-## Qué estoy buscando 
+## Qué estoy buscando
 
 - Practicar en frontend / fullstack donde pueda aplicar lo aprendido y continuar con la parte de backend (PHP + BBDD).
 

@@ -6,8 +6,8 @@
     "probability": 0.3,
     "rarity": "comun",
     "group": "ANDR001",
-    "text": "¡Bienvenido al Mundo de C#! 🌍✨\nC# es un lenguaje mágico 🧙‍♂️ que te permite crear casi cualquier cosa 🎮📱🖥️. Se ejecuta sobre .NET, un ecosistema poderoso que respalda todo 💪.",
-    "triggers": ["lenguaje 💬", ".NET ⚙️", "propósito general 🌐"]
+    "text": "📜 Empieza el viaje al mundo Android 📱✨. El profe te da el enlace para descargar Android Studio 💻⬇️ — ¡tu nave para crear apps increíbles! 🌍💡",
+    "triggers": ["🎯 https://developer.android.com/studio 🚀"]
   },
   {
     "id": "ANDR001-01",
