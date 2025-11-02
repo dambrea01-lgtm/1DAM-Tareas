@@ -1,10 +1,14 @@
 ## 🧩 Ejercicio de Bases de Datos — Consultas SQL
 
-📄 [![Ver Enunciado](img/enunciado.png)](docs/enunciado.pdf)
+[↩️ Volver al inicio](../../README.md)
 
 ---
 
-📘 [![Ver Soluciones](img/soluciones.png)](docs/soluciones.pdf)
+[![Ver Enunciado](img/enunciado.png)](docs/enunciado.pdf)
+
+---
+
+[![Ver Soluciones](img/soluciones.png)](docs/soluciones.pdf)
 
 ---
 
