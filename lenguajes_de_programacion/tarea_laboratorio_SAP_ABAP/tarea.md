@@ -4,7 +4,7 @@
 
 ---
 
-[![Ver Diagrama Automoviles](img/laboratorio_ABAP_SAP.png)](docs/laboratorio_ABAP_SAP.pdf)
+[![Laboratorio SAP ABAP](img/laboratorio_SAP_ABAP.png)](docs/laboratorio_SAP_ABAP.pdf)
 
 ---
 
