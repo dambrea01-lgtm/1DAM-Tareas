@@ -1,4 +1,18 @@
-## 1DAM-Tareas
+# 1DAM-Tareas
+
+## 📚 Asignaturas del curso
+
+- 👨‍💻 **[Lenguajes de Programación](LenguajesProgramacion/)**
+
+- 🗄️ **[Bases de Datos](BasesDatos/)**
+
+  - 📘 [Tareas sobre sentencias SQL](Bases%20Datos/Tareas%20sobre%20sentencias%20SQL/tareas.md)
+
+- 📝 **[Lenguajes de Marcas](LenguajesMarcas/)**
+- ⚙️ **[Entornos de Desarrollo](EntornosDesarrollo/)**
+- 💻 **[Sistemas Informáticos](SistemasInformaticos/)**
+
+---
 
 - Este repositorio tiene como objetivo recoger todos los ejercicios, prácticas y proyectos que realicé durante el primer curso de Formación Profesional de Desarrollo de Aplicaciones Multiplataformas (DAM).
 
@@ -97,30 +111,3 @@
 ---
 
 Este repositorio será actualizado progresivamente con nuevas prácticas y ejercicios relacionados con estas materias, reflejando mi crecimiento como desarrollador y mi aprendizaje continuo.
-
----
-
-```text
-1DAM-Tareas/
-├── README.md ← Explica el propósito y la estructura del repositorio
-├── LenguajesProgramacion/
-│   ├── 01-EstructurasControl/
-│   ├── 02-POO/
-│   └── ...
-├── BasesDatos/
-│   ├── 01-ModeloER/
-│   ├── 02-ConsultasSQL/
-│   └── ...
-├── LenguajesMarcas/
-│   ├── 01-HTMLCSS/
-│   ├── 02-XMLJSON/
-│   └── ...
-├── EntornosDesarrollo/
-│   ├── 01-GitYVersionado/
-│   ├── 02-Depuracion/
-│   └── ...
-└── SistemasInformaticos/
-    ├── 01-LinuxComandos/
-    ├── 02-Virtualizacion/
-    └── ...
-```
