@@ -4,7 +4,7 @@
 
 ---
 
-Estas tareas recogen **mi aprendizaje práctico sobre bases de datos** a través de ejercicios con MariaDB y la gestión de usuarios y permisos. El objetivo principal ha sido aplicar conceptos teóricos de SQL, modelado relacional y administración de SGBD en un entorno real.
+> Estas tareas recogen **mi aprendizaje práctico sobre bases de datos** a través de ejercicios con MariaDB y la gestión de usuarios y permisos. El objetivo principal ha sido aplicar conceptos teóricos de SQL, modelado relacional y administración de SGBD en un entorno real.
 
 ---
 

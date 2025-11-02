@@ -9,6 +9,7 @@
   - 📘 [Tareas sobre sentencias SQL](bases_de_datos/tareas_sobre_sentencias_SQL/tarea.md)
   - 📘 [Tareas SQL de Automoviles](bases_de_datos/tareas_sql_automoviles/tarea.md)
   - 📘 [Tarea Laboratorio MariaDB](bases_de_datos/tareas_laboratorio_madiadb/tarea.md)
+  - 📘 [Tareas sobre diseño ER y normalización de BBDD](bases_de_datos/tareas_er_normalizacion/tarea.md)
 
 - 📝 **[Lenguajes de Marcas]**
 - ⚙️ **[Entornos de Desarrollo]**
