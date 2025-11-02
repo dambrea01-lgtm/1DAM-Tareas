@@ -4,7 +4,7 @@
 
 - 👨‍💻 **[Lenguajes de Programación]**
 
-  - 📘 [Tareas laboratorio SAP ABAP](lenguaje_de_programacion/tarea_laboratorio_SAP_ABAP/tarea.md)
+  - 📘 [Tareas laboratorio SAP ABAP](lenguajes_de_programacion/tarea_laboratorio_SAP_ABAP/tarea.md)
 
 - 🗄️ **[Bases de Datos]**
 
