@@ -1,0 +1,2672 @@
+[
+  {
+    "question": "🚀 ¿Qué programa necesitamos descargar para empezar a crear apps Android?",
+    "answers": [
+      "🧰 Eclipse",
+      "📘 Android Studio",
+      "💠 NetBeans",
+      "⚙️ IntelliJ IDEA"
+    ],
+    "correctAnswer": "📘 Android Studio"
+  },
+  {
+    "question": "💾 ¿Desde qué enlace oficial se descarga Android Studio?",
+    "answers": [
+      "🌍 https://developer.android.com/studio?hl=es-419",
+      "💻 https://android.google.com/sdk",
+      "🧠 https://studio.android.dev",
+      "🔧 https://download.androidsdk.com"
+    ],
+    "correctAnswer": "🌍 https://developer.android.com/studio?hl=es-419"
+  },
+  {
+    "question": "☕ ¿Qué lenguaje clásico se usa para programar Android?",
+    "answers": ["🟣 Kotlin", "🟤 Java", "🧩 C++", "💠 C#"],
+    "correctAnswer": "🟤 Java"
+  },
+  {
+    "question": "🟣 ¿Qué lenguaje moderno y más corto se puede usar en Android Studio?",
+    "answers": ["💬 Kotlin", "☕ Java", "⚙️ Dart", "💠 C#"],
+    "correctAnswer": "💬 Kotlin"
+  },
+  {
+    "question": "💡 ¿Por qué Kotlin se considera más fácil que Java?",
+    "answers": [
+      "📦 Requiere menos líneas de código",
+      "🚀 Es más rápido",
+      "📚 Usa menos memoria",
+      "💻 No necesita IDE"
+    ],
+    "correctAnswer": "📦 Requiere menos líneas de código"
+  },
+  {
+    "question": "🧩 ¿Qué es Android Studio?",
+    "answers": [
+      "📱 Un sistema operativo",
+      "🧰 Un entorno de desarrollo (IDE) para apps Android",
+      "🪶 Un framework de diseño",
+      "💬 Un lenguaje de programación"
+    ],
+    "correctAnswer": "🧰 Un entorno de desarrollo (IDE) para apps Android"
+  },
+  {
+    "question": "💬 ¿Qué otro IDE se puede usar con extensiones para Android, aunque no sea el oficial?",
+    "answers": [
+      "💠 Visual Studio Code",
+      "⚙️ NetBeans",
+      "☕ IntelliJ",
+      "🧱 Eclipse"
+    ],
+    "correctAnswer": "💠 Visual Studio Code"
+  },
+  {
+    "question": "⚠️ ¿Por qué se recomienda usar Android Studio en lugar de otros IDEs?",
+    "answers": [
+      "🔧 Es más rápido al compilar",
+      "🧰 Es oficial y evita errores de configuración",
+      "📱 Permite apps iOS",
+      "💬 Consume menos RAM"
+    ],
+    "correctAnswer": "🧰 Es oficial y evita errores de configuración"
+  },
+  {
+    "question": "☁️ ¿Qué versión experimental permite programar Android desde el navegador?",
+    "answers": [
+      "💻 Android Studio Cloud",
+      "🌩️ Kotlin Web IDE",
+      "☕ Java Web Studio",
+      "🧠 Android Online Lab"
+    ],
+    "correctAnswer": "💻 Android Studio Cloud"
+  },
+  {
+    "question": "🧪 ¿Qué se recomienda sobre Android Studio Cloud a nivel profesional?",
+    "answers": [
+      "⚙️ Usarla siempre",
+      "⛔ No usarla todavía, es experimental",
+      "💡 Solo para probar código Java",
+      "📚 Es más estable que la versión normal"
+    ],
+    "correctAnswer": "⛔ No usarla todavía, es experimental"
+  },
+  {
+    "question": "🤖 ¿Cómo se llama la inteligencia artificial integrada en Android Studio?",
+    "answers": ["🧠 Copilot", "🤖 Gemini", "💬 ChatGPT", "⚙️ StudioAI"],
+    "correctAnswer": "🤖 Gemini"
+  },
+  {
+    "question": "🧠 ¿Qué puede hacer Gemini dentro de Android Studio?",
+    "answers": [
+      "🧩 Crear interfaces automáticamente",
+      "✏️ Corregir y explicar código",
+      "📚 Traducir documentación",
+      "🎨 Diseñar logos"
+    ],
+    "correctAnswer": "✏️ Corregir y explicar código"
+  },
+  {
+    "question": "💾 ¿Por qué Android Studio puede ir lento en algunos PCs?",
+    "answers": [
+      "🧠 Usa muchos recursos del ordenador",
+      "🔋 Consume poca memoria",
+      "🌐 Requiere internet constante",
+      "📘 No es compatible con Windows"
+    ],
+    "correctAnswer": "🧠 Usa muchos recursos del ordenador"
+  },
+  {
+    "question": "🔥 ¿Qué recurso consume más el emulador de Android?",
+    "answers": ["💾 RAM y CPU", "📶 Internet", "💡 GPU", "🎧 Sonido"],
+    "correctAnswer": "💾 RAM y CPU"
+  },
+  {
+    "question": "🧱 ¿Qué es un emulador en Android Studio?",
+    "answers": [
+      "📱 Un simulador de teléfono Android",
+      "🧩 Un lenguaje de programación",
+      "💬 Una base de datos",
+      "⚙️ Un sistema operativo"
+    ],
+    "correctAnswer": "📱 Un simulador de teléfono Android"
+  },
+  {
+    "question": "🔍 ¿Qué significa 'depurar' una app?",
+    "answers": [
+      "👀 Revisar el código paso a paso para encontrar errores",
+      "⚙️ Ejecutar el programa rápidamente",
+      "🧠 Traducir el código",
+      "📘 Crear interfaces"
+    ],
+    "correctAnswer": "👀 Revisar el código paso a paso para encontrar errores"
+  },
+  {
+    "question": "🚀 ¿Para qué sirve el Android Emulator Hypervisor Driver?",
+    "answers": [
+      "🧠 Detectar errores en el código",
+      "🔥 Probar apps sin reiniciar el emulador",
+      "💡 Crear interfaces gráficas",
+      "⚙️ Instalar SDKs"
+    ],
+    "correctAnswer": "🔥 Probar apps sin reiniciar el emulador"
+  },
+  {
+    "question": "🌍 ¿Qué problema tiene Android comparado con iOS?",
+    "answers": [
+      "🧩 Fragmentación",
+      "💾 Falta de memoria",
+      "🧠 Código cerrado",
+      "⚙️ Poco soporte"
+    ],
+    "correctAnswer": "🧩 Fragmentación"
+  },
+  {
+    "question": "🍏 ¿Por qué iOS no tiene fragmentación?",
+    "answers": [
+      "🍎 Solo Apple fabrica los dispositivos",
+      "📱 Usa Android también",
+      "💬 Es de código abierto",
+      "🧠 Se actualiza cada mes"
+    ],
+    "correctAnswer": "🍎 Solo Apple fabrica los dispositivos"
+  },
+  {
+    "question": "📱 ¿Qué consejo da el profesor si tu PC es lento?",
+    "answers": [
+      "📲 Usar un dispositivo físico para probar la app",
+      "💾 Instalar más RAM",
+      "⚙️ No usar Android Studio",
+      "💡 Cambiar a Kotlin"
+    ],
+    "correctAnswer": "📲 Usar un dispositivo físico para probar la app"
+  },
+  {
+    "question": "⚙️ ¿Qué limitaciones enfrentan las apps móviles?",
+    "answers": [
+      "💾 Memoria, batería, red y rendimiento",
+      "📘 Idioma",
+      "🎨 Diseño",
+      "📂 Carpetas"
+    ],
+    "correctAnswer": "💾 Memoria, batería, red y rendimiento"
+  },
+  {
+    "question": "🧩 ¿Qué framework se usa para crear videojuegos con Java?",
+    "answers": ["🎮 LibGDX", "🕹️ Unity", "⚛️ React Native", "🌈 Flutter"],
+    "correctAnswer": "🎮 LibGDX"
+  },
+  {
+    "question": "🌈 ¿Qué significa 'tecnología multiplataforma'?",
+    "answers": [
+      "📲 Código único para Android e iOS",
+      "💻 Solo para Android",
+      "🍏 Solo para iOS",
+      "⚙️ Código para PC"
+    ],
+    "correctAnswer": "📲 Código único para Android e iOS"
+  },
+  {
+    "question": "🪶 ¿Cuál de estas es una tecnología multiplataforma?",
+    "answers": [
+      "🪶 Flutter",
+      "☕ JavaFX",
+      "📘 Android Studio",
+      "💬 Kotlin IDE"
+    ],
+    "correctAnswer": "🪶 Flutter"
+  },
+  {
+    "question": "💠 ¿Qué lenguaje usa Xamarin?",
+    "answers": ["💠 C#", "☕ Java", "🟣 Kotlin", "⚛️ JavaScript"],
+    "correctAnswer": "💠 C#"
+  },
+  {
+    "question": "⚛️ ¿Qué lenguaje usa React Native?",
+    "answers": [
+      "⚛️ JavaScript o TypeScript",
+      "☕ Java",
+      "🪶 Dart",
+      "🟣 Kotlin"
+    ],
+    "correctAnswer": "⚛️ JavaScript o TypeScript"
+  },
+  {
+    "question": "🌐 ¿Qué es una app híbrida?",
+    "answers": [
+      "🪞 App con una web interna (WebView)",
+      "📱 App nativa pura",
+      "💻 Programa de escritorio",
+      "⚙️ App sin interfaz"
+    ],
+    "correctAnswer": "🪞 App con una web interna (WebView)"
+  },
+  {
+    "question": "🧱 ¿Qué componentes se usan en las apps Android?",
+    "answers": [
+      "🧱 Botones, menús, listas, imágenes",
+      "⚙️ Drivers",
+      "💾 Compiladores",
+      "📊 Bases de datos"
+    ],
+    "correctAnswer": "🧱 Botones, menús, listas, imágenes"
+  },
+  {
+    "question": "📊 ¿Qué tipo de información aprenderás a manejar en las apps?",
+    "answers": [
+      "💾 Datos guardados o en internet",
+      "📘 Documentos PDF",
+      "🎨 Imágenes de fondo",
+      "🧠 Variables globales"
+    ],
+    "correctAnswer": "💾 Datos guardados o en internet"
+  },
+  {
+    "question": "🧠 ¿Qué lenguaje usa iOS para programar apps?",
+    "answers": ["🦅 Swift", "☕ Java", "🪶 Dart", "💠 C#"],
+    "correctAnswer": "🦅 Swift"
+  },
+  {
+    "question": "🌍 ¿Qué compañía desarrolla Android?",
+    "answers": ["🔵 Google", "🍎 Apple", "💠 Microsoft", "⚛️ Meta"],
+    "correctAnswer": "🔵 Google"
+  },
+  {
+    "question": "🌐 ¿Qué caracteriza al ecosistema de dispositivos móviles?",
+    "answers": [
+      "📱 Alta movilidad y conexión constante",
+      "💻 Dependencia total del PC",
+      "📞 Falta de sensores integrados",
+      "🎮 Solo sirve para videojuegos"
+    ],
+    "correctAnswer": "📱 Alta movilidad y conexión constante"
+  },
+  {
+    "question": "🤳 ¿Qué son los smartphones?",
+    "answers": [
+      "🔋 Dispositivos solo para llamadas",
+      "💡 Dispositivos multifuncionales con sensores",
+      "🖥️ Computadoras de escritorio",
+      "🕹️ Consolas portátiles"
+    ],
+    "correctAnswer": "💡 Dispositivos multifuncionales con sensores"
+  },
+  {
+    "question": "🎮 ¿Para qué se destacan las tablets?",
+    "answers": [
+      "📚 Para tareas pesadas de servidor",
+      "🎨 Para consumo multimedia y productividad",
+      "⚙️ Para control industrial",
+      "🎯 Solo para llamadas"
+    ],
+    "correctAnswer": "🎨 Para consumo multimedia y productividad"
+  },
+  {
+    "question": "⌚ ¿Qué son los wearables?",
+    "answers": [
+      "🖱️ Accesorios de escritorio",
+      "🧭 Dispositivos portables que extienden la función del smartphone",
+      "📺 Televisores inteligentes",
+      "📦 Dispositivos de almacenamiento"
+    ],
+    "correctAnswer": "🧭 Dispositivos portables que extienden la función del smartphone"
+  },
+  {
+    "question": "🔋 ¿Cuál es una limitación principal de los dispositivos móviles?",
+    "answers": [
+      "⚡ Batería limitada",
+      "🪫 Sobrecarga de energía",
+      "📦 Memoria infinita",
+      "🧊 Falta de pantalla"
+    ],
+    "correctAnswer": "⚡ Batería limitada"
+  },
+  {
+    "question": "💾 ¿Por qué es importante gestionar la memoria en móviles?",
+    "answers": [
+      "🧩 Porque la RAM es limitada",
+      "🪞 Porque las apps son pequeñas",
+      "🎯 Porque la batería depende de ella",
+      "🧊 Porque no hay procesadores ARM"
+    ],
+    "correctAnswer": "🧩 Porque la RAM es limitada"
+  },
+  {
+    "question": "📶 ¿Qué problema presenta la conectividad móvil?",
+    "answers": [
+      "📡 Puede variar y requerir modo offline",
+      "🎮 Es constante en todo lugar",
+      "🖥️ No afecta las apps",
+      "📦 Depende solo del procesador"
+    ],
+    "correctAnswer": "📡 Puede variar y requerir modo offline"
+  },
+  {
+    "question": "⚙️ ¿Qué tipo de procesadores usan los smartphones?",
+    "answers": ["🔋 ARM", "💻 Intel", "🧠 AMD", "📀 NVIDIA"],
+    "correctAnswer": "🔋 ARM"
+  },
+  {
+    "question": "🧠 ¿Qué caracteriza a la arquitectura ARM?",
+    "answers": [
+      "💪 Máximo rendimiento sin límite de energía",
+      "🌱 Eficiencia energética y bajo consumo",
+      "🧊 Procesamiento gráfico avanzado",
+      "⚡ Requiere ventiladores"
+    ],
+    "correctAnswer": "🌱 Eficiencia energética y bajo consumo"
+  },
+  {
+    "question": "🚀 ¿Qué permite el uso de múltiples núcleos en ARM?",
+    "answers": [
+      "🪶 Procesamiento paralelo eficiente",
+      "📏 Menor consumo de energía",
+      "🎯 Tareas simples",
+      "💡 Ejecución secuencial"
+    ],
+    "correctAnswer": "🪶 Procesamiento paralelo eficiente"
+  },
+  {
+    "question": "💪 ¿Qué diferencia hay entre procesadores ARM y x86?",
+    "answers": [
+      "⚙️ ARM busca eficiencia, x86 busca potencia",
+      "🧊 ARM se usa en PC",
+      "💾 x86 consume menos energía",
+      "📡 ARM usa más ventiladores"
+    ],
+    "correctAnswer": "⚙️ ARM busca eficiencia, x86 busca potencia"
+  },
+  {
+    "question": "🪶 ¿Qué significa ARM?",
+    "answers": [
+      "📜 Advanced RISC Machines",
+      "💻 Advanced RAM Model",
+      "🔋 Active Resource Mode",
+      "⚡ Accelerated RISC Module"
+    ],
+    "correctAnswer": "📜 Advanced RISC Machines"
+  },
+  {
+    "question": "🏋️‍♂️ En el ejemplo del texto, ¿a qué se compara un procesador x86?",
+    "answers": [
+      "💪 Persona fuerte que se cansa rápido",
+      "🏃‍♂️ Persona ágil que aguanta más",
+      "🧊 Máquina lenta",
+      "🎯 Sensor de movimiento"
+    ],
+    "correctAnswer": "💪 Persona fuerte que se cansa rápido"
+  },
+  {
+    "question": "🏃‍♂️ ¿A qué se compara el procesador ARM en el ejemplo?",
+    "answers": [
+      "⚡ Persona ligera y eficiente",
+      "💪 Persona muy fuerte",
+      "🧠 Computadora potente",
+      "🧩 Dispositivo fijo"
+    ],
+    "correctAnswer": "⚡ Persona ligera y eficiente"
+  },
+  {
+    "question": "📍 ¿Qué hace el sensor GPS en un smartphone?",
+    "answers": [
+      "🗺️ Determina la ubicación exacta",
+      "🎧 Mide sonidos",
+      "📷 Ajusta brillo de pantalla",
+      "🔋 Controla la batería"
+    ],
+    "correctAnswer": "🗺️ Determina la ubicación exacta"
+  },
+  {
+    "question": "🎮 ¿Para qué sirve el acelerómetro?",
+    "answers": [
+      "🏃‍♂️ Detectar movimiento y orientación",
+      "📡 Medir temperatura",
+      "💾 Guardar datos",
+      "📞 Mejorar llamadas"
+    ],
+    "correctAnswer": "🏃‍♂️ Detectar movimiento y orientación"
+  },
+  {
+    "question": "📸 ¿Cuál es la función del sensor de cámara?",
+    "answers": [
+      "👁️ Capturar imágenes y video",
+      "🧠 Medir presión",
+      "🎧 Reproducir música",
+      "📦 Enviar mensajes"
+    ],
+    "correctAnswer": "👁️ Capturar imágenes y video"
+  },
+  {
+    "question": "📚 ¿Qué lenguajes tienen acceso directo a los sensores móviles?",
+    "answers": [
+      "🤖 Java, Kotlin, Swift, Objective-C",
+      "💻 HTML y CSS",
+      "🧩 PHP y SQL",
+      "📡 Ruby y Go"
+    ],
+    "correctAnswer": "🤖 Java, Kotlin, Swift, Objective-C"
+  },
+  {
+    "question": "🎯 ¿Qué sistema usa Java y Kotlin?",
+    "answers": ["🤖 Android", "🍏 iOS", "🖥️ Windows", "💻 Linux"],
+    "correctAnswer": "🤖 Android"
+  },
+  {
+    "question": "🍏 ¿Qué sistema usa Swift y Objective-C?",
+    "answers": ["🍎 iOS", "🤖 Android", "💻 Windows", "🧠 ChromeOS"],
+    "correctAnswer": "🍎 iOS"
+  },
+  {
+    "question": "🌍 ¿Qué diferencia clave hay entre programación web y móvil?",
+    "answers": [
+      "📱 La móvil accede directamente al hardware",
+      "🖥️ La web es más rápida",
+      "📊 La web usa sensores físicos",
+      "💾 La móvil solo funciona con WiFi"
+    ],
+    "correctAnswer": "📱 La móvil accede directamente al hardware"
+  },
+  {
+    "question": "📦 ¿Qué librería de Android permite acceder a sensores?",
+    "answers": [
+      "⚙️ SensorManager",
+      "🗺️ CoreLocation",
+      "🎬 AVFoundation",
+      "🎨 UIKit"
+    ],
+    "correctAnswer": "⚙️ SensorManager"
+  },
+  {
+    "question": "🗺️ ¿Qué librería iOS gestiona ubicación?",
+    "answers": [
+      "📡 CoreLocation",
+      "🧰 Camera2",
+      "⚙️ SensorManager",
+      "🧭 CoreMotion"
+    ],
+    "correctAnswer": "📡 CoreLocation"
+  },
+  {
+    "question": "🎬 ¿Qué usa iOS para manejar cámara y video?",
+    "answers": ["📹 AVFoundation", "🎨 UIKit", "📦 AndroidX", "🧠 CoreData"],
+    "correctAnswer": "📹 AVFoundation"
+  },
+  {
+    "question": "📊 ¿Qué sistema operativo móvil domina el mercado?",
+    "answers": ["🤖 Android", "🍏 iOS", "🪟 Windows Phone", "🧊 HarmonyOS"],
+    "correctAnswer": "🤖 Android"
+  },
+  {
+    "question": "🍎 ¿Qué porcentaje aproximado tiene iOS en el mercado?",
+    "answers": ["🎯 28%", "🌍 50%", "📈 71%", "🧩 10%"],
+    "correctAnswer": "🎯 28%"
+  },
+  {
+    "question": "🪟 ¿Qué ocurrió con Windows Phone?",
+    "answers": [
+      "📉 Fue abandonado por Microsoft",
+      "🚀 Sigue creciendo",
+      "🎮 Solo se usa en consolas",
+      "⚙️ Se fusionó con Android"
+    ],
+    "correctAnswer": "📉 Fue abandonado por Microsoft"
+  },
+  {
+    "question": "🌐 ¿Qué ofrece .NET MAUI de Microsoft?",
+    "answers": [
+      "💻 Crear apps nativas multiplataforma",
+      "🎯 Un nuevo sistema operativo",
+      "📡 Un lenguaje nuevo",
+      "🪶 Un sensor de movimiento"
+    ],
+    "correctAnswer": "💻 Crear apps nativas multiplataforma"
+  },
+  {
+    "question": "🟦 ¿Qué lenguaje es similar a Java usado en .NET MAUI?",
+    "answers": ["⚡ C#", "💎 Python", "🎯 Swift", "🧩 Kotlin"],
+    "correctAnswer": "⚡ C#"
+  },
+  {
+    "question": "⚖️ ¿Qué equilibrio se busca al elegir una versión de Android?",
+    "answers": [
+      "📊 Compatibilidad y acceso a nuevas tecnologías",
+      "💾 Más memoria y menos batería",
+      "🧠 Fragmentación y lentitud",
+      "🪫 Energía y gráficos"
+    ],
+    "correctAnswer": "📊 Compatibilidad y acceso a nuevas tecnologías"
+  },
+  {
+    "question": "🧩 ¿Qué significa fragmentación en Android?",
+    "answers": [
+      "🌀 Gran variedad de versiones y dispositivos",
+      "🧊 Falta de apps disponibles",
+      "💾 Reducción de memoria RAM",
+      "📞 Conectividad limitada"
+    ],
+    "correctAnswer": "🌀 Gran variedad de versiones y dispositivos"
+  },
+  {
+    "question": "💻 ¿Qué IDE oficial se usa para Android?",
+    "answers": [
+      "🤖 Android Studio",
+      "🍏 Xcode",
+      "🧠 IntelliJ IDEA",
+      "🎮 Visual Studio"
+    ],
+    "correctAnswer": "🤖 Android Studio"
+  },
+  {
+    "question": "🍏 ¿Qué IDE usa Apple para iOS?",
+    "answers": ["🖤 Xcode", "💚 Android Studio", "🟪 Eclipse", "🧩 NetBeans"],
+    "correctAnswer": "🖤 Xcode"
+  },
+  {
+    "question": "🏢 ¿Qué empresa desarrolló IntelliJ IDEA?",
+    "answers": ["🧠 JetBrains", "💻 Microsoft", "🍎 Apple", "🪟 IBM"],
+    "correctAnswer": "🧠 JetBrains"
+  },
+  {
+    "question": "🧩 ¿En qué se basa Android Studio?",
+    "answers": [
+      "💡 IntelliJ IDEA",
+      "📘 Visual Studio",
+      "🪶 NetBeans",
+      "🧠 Xcode"
+    ],
+    "correctAnswer": "💡 IntelliJ IDEA"
+  },
+  {
+    "question": "🛠️ ¿Qué herramienta usa Android Studio para gestionar dependencias?",
+    "answers": ["📦 Gradle", "🧩 Maven", "⚙️ NPM", "💾 PIP"],
+    "correctAnswer": "📦 Gradle"
+  },
+  {
+    "question": "🎨 ¿Qué destaca en iOS frente a Android?",
+    "answers": [
+      "🔒 Sistema cerrado y estable",
+      "🧩 Más personalización",
+      "💻 Código abierto",
+      "🧠 Mayor fragmentación"
+    ],
+    "correctAnswer": "🔒 Sistema cerrado y estable"
+  },
+  {
+    "question": "🪶 ¿Qué ventaja tiene Android frente a iOS?",
+    "answers": [
+      "👐 Mayor libertad y personalización",
+      "🧊 Sistema cerrado",
+      "📊 Menor fragmentación",
+      "🎯 Tiempo de desarrollo largo"
+    ],
+    "correctAnswer": "👐 Mayor libertad y personalización"
+  },
+  {
+    "question": "💬 ¿Cuál es el lenguaje moderno oficial para iOS?",
+    "answers": ["🟦 Swift", "🖤 Objective-C", "☕ Java", "🟣 Kotlin"],
+    "correctAnswer": "🟦 Swift"
+  },
+  {
+    "question": "💻 ¿Qué es Android Studio?",
+    "answers": [
+      "📱 Un sistema operativo móvil",
+      "🧱 Un entorno de desarrollo para crear aplicaciones Android",
+      "🎨 Un editor de imágenes",
+      "🧮 Un programa de cálculo"
+    ],
+    "correctAnswer": "🧱 Un entorno de desarrollo para crear aplicaciones Android"
+  },
+  {
+    "question": "⚙️ ¿Cuánta memoria RAM mínima se recomienda para Android Studio en Windows?",
+    "answers": ["💾 4GB", "💾 6GB", "💾 8GB", "💾 2GB"],
+    "correctAnswer": "💾 8GB"
+  },
+  {
+    "question": "🪟 ¿Qué resolución mínima debe tener la pantalla en Windows?",
+    "answers": ["🖥️ 1024x768", "🖥️ 1280x800", "🖥️ 1920x1080", "🖥️ 800x600"],
+    "correctAnswer": "🖥️ 1280x800"
+  },
+  {
+    "question": "🍎 ¿Qué versión mínima de macOS se requiere?",
+    "answers": ["📆 10.10", "📆 10.12", "📆 10.14 o superior", "📆 11.0"],
+    "correctAnswer": "📆 10.14 o superior"
+  },
+  {
+    "question": "🐧 ¿Qué distribuciones Linux son compatibles con Android Studio?",
+    "answers": [
+      "🪶 Fedora y Debian",
+      "🐧 Ubuntu 18.04+ y CentOS 7+",
+      "🧩 Arch Linux y Mint",
+      "🪙 Kali Linux y Deepin"
+    ],
+    "correctAnswer": "🐧 Ubuntu 18.04+ y CentOS 7+"
+  },
+  {
+    "question": "💾 ¿Cuánto espacio libre se necesita para instalar Android Studio?",
+    "answers": ["💿 2GB", "💽 3GB", "💽 4GB", "💿 8GB"],
+    "correctAnswer": "💽 4GB"
+  },
+  {
+    "question": "⬇️ ¿Desde dónde se descarga Android Studio?",
+    "answers": [
+      "🌐 developer.android.com",
+      "🧭 github.com",
+      "💾 google.com/tools",
+      "📱 play.google.com"
+    ],
+    "correctAnswer": "🌐 developer.android.com"
+  },
+  {
+    "question": "🧠 ¿Qué es el AVD Manager?",
+    "answers": [
+      "🔋 Un optimizador de batería",
+      "🔧 Una herramienta para crear dispositivos virtuales Android",
+      "📦 Un gestor de paquetes",
+      "🧩 Un compilador de código"
+    ],
+    "correctAnswer": "🔧 Una herramienta para crear dispositivos virtuales Android"
+  },
+  {
+    "question": "📲 ¿Qué permite hacer el AVD Manager?",
+    "answers": [
+      "📱 Emular dispositivos Android virtuales",
+      "💻 Instalar sistemas operativos",
+      "🧮 Calcular rendimiento",
+      "🎨 Crear interfaces gráficas"
+    ],
+    "correctAnswer": "📱 Emular dispositivos Android virtuales"
+  },
+  {
+    "question": "📦 ¿Qué se puede configurar en un dispositivo virtual?",
+    "answers": [
+      "📆 Versión de Android, pantalla, RAM, almacenamiento y resolución",
+      "🎨 Color del fondo",
+      "🧠 Modo de energía",
+      "🎵 Volumen del sistema"
+    ],
+    "correctAnswer": "📆 Versión de Android, pantalla, RAM, almacenamiento y resolución"
+  },
+  {
+    "question": "🚀 ¿Por qué es importante el AVD Manager?",
+    "answers": [
+      "🔋 Reduce consumo de RAM",
+      "🎵 Permite probar apps en distintos dispositivos antes de publicarlas",
+      "🎨 Mejora el diseño de interfaces",
+      "🧭 Navega por internet"
+    ],
+    "correctAnswer": "🎵 Permite probar apps en distintos dispositivos antes de publicarlas"
+  },
+  {
+    "question": "🎨 ¿Qué se puede personalizar en la opción 'Customize' de Android Studio?",
+    "answers": [
+      "📦 Plugins y extensiones",
+      "🎨 Tema visual, idioma, región, fuente, accesibilidad y atajos",
+      "🔒 Contraseñas de acceso",
+      "💾 Copias de seguridad"
+    ],
+    "correctAnswer": "🎨 Tema visual, idioma, región, fuente, accesibilidad y atajos"
+  },
+  {
+    "question": "🌞 ¿Qué tema (theme) visual tiene fondo claro en Android Studio?",
+    "answers": ["🌞 Light", "🌚 Dark", "🧛‍♂️ Dracula", "🌈 High Contrast"],
+    "correctAnswer": "🌞 Light"
+  },
+  {
+    "question": "🌚 ¿Qué tema (theme) es ideal para programar de noche?",
+    "answers": [
+      "🌞 Light",
+      "🌚 Dark o Dracula",
+      "🌈 High Contrast",
+      "⚪ Blanco"
+    ],
+    "correctAnswer": "🌚 Dark o Dracula"
+  },
+  {
+    "question": "🌈 ¿Qué tema (theme) mejora la visibilidad de texto y colores?",
+    "answers": ["🌈 High Contrast", "🌞 Light", "🌚 Dark", "🎨 Classic"],
+    "correctAnswer": "🌈 High Contrast"
+  },
+  {
+    "question": "🗣️ ¿En qué idioma está Android Studio por defecto?",
+    "answers": ["🇪🇸 Español", "🇺🇸 Inglés", "🇫🇷 Francés", "🇩🇪 Alemán"],
+    "correctAnswer": "🇺🇸 Inglés"
+  },
+  {
+    "question": "🌍 ¿Qué se puede cambiar en la configuración de región?",
+    "answers": [
+      "📅 Notación de fechas, monedas y formatos numéricos",
+      "🎨 Colores de tema",
+      "💾 Ruta de guardado",
+      "🧮 Configuración de CPU"
+    ],
+    "correctAnswer": "📅 Notación de fechas, monedas y formatos numéricos"
+  },
+  {
+    "question": "🔤 ¿Cuál es el tamaño de fuente por defecto del editor de Android Studio?",
+    "answers": ["📝 10 px", "📝 12 px", "📝 13 px", "📝 15 px"],
+    "correctAnswer": "📝 13 px"
+  },
+  {
+    "question": "👁️ ¿Qué ofrece la sección de accesibilidad de Android Studio?",
+    "answers": [
+      "💡 Opciones para visión reducida y ajuste de contraste",
+      "🎵 Control de sonido",
+      "💾 Compresión de archivos",
+      "🧭 Herramientas de navegación"
+    ],
+    "correctAnswer": "💡 Opciones para visión reducida y ajuste de contraste"
+  },
+  {
+    "question": "🔴 ¿Qué tipo de daltonismo tiene soporte especial en accesibilidad de Android Studio?",
+    "answers": [
+      "🟢🔴 Visión rojo-verde",
+      "🔵🟣 Azul-morado",
+      "⚫⚪ Blanco-negro",
+      "🟠🟡 Amarillo-naranja"
+    ],
+    "correctAnswer": "🟢🔴 Visión rojo-verde"
+  },
+  {
+    "question": "⌨️ ¿Qué permite la opción Keymap de Android Studio",
+    "answers": [
+      "⌨️ Configurar atajos de teclado según el sistema operativo",
+      "🎨 Cambiar colores del editor",
+      "📦 Instalar librerías",
+      "🧩 Ejecutar código automáticamente"
+    ],
+    "correctAnswer": "⌨️ Configurar atajos de teclado según el sistema operativo"
+  },
+  {
+    "question": "🧱 ¿Qué herramientas se instalan con el SDK Manager?",
+    "answers": [
+      "📦 Versiones API, herramientas de build y emuladores de sistema",
+      "🧮 Calculadoras de código",
+      "🎨 Plantillas de diseño",
+      "🧭 Plugins de navegación"
+    ],
+    "correctAnswer": "📦 Versiones API, herramientas de build y emuladores de sistema"
+  },
+  {
+    "question": "🚀 ¿Qué se configura con el AVD Manager?",
+    "answers": [
+      "⚙️ Dispositivos virtuales para probar apps",
+      "🎨 Apariencia del IDE",
+      "⌨️ Atajos personalizados",
+      "🧩 Complementos de lenguaje"
+    ],
+    "correctAnswer": "⚙️ Dispositivos virtuales para probar apps"
+  },
+  {
+    "question": "🧩 ¿Qué versión mínima de glibc (GNU C Library) se necesita en Linux?",
+    "answers": ["🧩 2.17", "🧩 2.18", "🧩 2.19", "🧩 2.20"],
+    "correctAnswer": "🧩 2.19"
+  },
+  {
+    "question": "💪 ¿Por qué Android Studio requiere buena RAM?",
+    "answers": [
+      "⚡ Para ejecutar emuladores y compilaciones sin lentitud",
+      "🎨 Para cambiar el tema visual",
+      "🔋 Para ahorrar energía",
+      "📦 Para instalar complementos"
+    ],
+    "correctAnswer": "⚡ Para ejecutar emuladores y compilaciones sin lentitud"
+  },
+  {
+    "question": "🧱 ¿Qué debes hacer al ejecutar Android Studio por primera vez?",
+    "answers": [
+      "🎨 Personalizar entorno en 'Customize'",
+      "📦 Instalar juegos",
+      "🧮 Configurar calculadora",
+      "🎧 Activar sonido"
+    ],
+    "correctAnswer": "🎨 Personalizar entorno en 'Customize'"
+  },
+  {
+    "question": "🚀 ¿Qué se hace en la primera ejecución del entorno en Android Studio?",
+    "answers": [
+      "⚙️ Configurar AVD Manager y crear un dispositivo virtual",
+      "🎨 Elegir colores",
+      "📦 Instalar temas",
+      "🧮 Editar código directamente"
+    ],
+    "correctAnswer": "⚙️ Configurar AVD Manager y crear un dispositivo virtual"
+  },
+  {
+    "question": "💡 ¿Qué permite la personalización del entorno en Android Studio?",
+    "answers": [
+      "🚀 Programar más cómodo y eficiente",
+      "🧮 Realizar cálculos",
+      "📷 Tomar capturas de pantalla",
+      "🔒 Aumentar seguridad del sistema"
+    ],
+    "correctAnswer": "🚀 Programar más cómodo y eficiente"
+  },
+  {
+    "question": "📲 ¿Qué aparece al seleccionar 'Create New Project'?",
+    "answers": [
+      "🧱 Una ventana para elegir tipo de proyecto",
+      "📦 Un panel de plugins",
+      "🎨 Un editor de imágenes",
+      "🧩 Un asistente de temas"
+    ],
+    "correctAnswer": "🧱 Una ventana para elegir tipo de proyecto"
+  },
+  {
+    "question": "🧩 ¿Qué representa un Activity en Android?",
+    "answers": [
+      "🎨 Un componente gráfico de la app",
+      "🎬 Una pantalla dentro de la aplicación",
+      "🧱 Un archivo de configuración",
+      "📦 Un paquete de instalación"
+    ],
+    "correctAnswer": "🎬 Una pantalla dentro de la aplicación"
+  },
+  {
+    "question": "📱 ¿Qué ocurre cada vez que ves una pantalla diferente en una app?",
+    "answers": [
+      "🎯 Se ejecuta un Activity diferente",
+      "🧩 Se crea un botón nuevo",
+      "📦 Se instala una librería",
+      "⚙️ Se modifica el Gradle"
+    ],
+    "correctAnswer": "🎯 Se ejecuta un Activity diferente"
+  },
+  {
+    "question": "🔐 ¿Cuál de las siguientes es un ejemplo de Activity?",
+    "answers": [
+      "⚙️ Pantalla de configuración",
+      "📁 Carpeta de recursos",
+      "📄 Archivo README",
+      "🧱 Clase Gradle"
+    ],
+    "correctAnswer": "⚙️ Pantalla de configuración"
+  },
+  {
+    "question": "🎨 ¿Qué tipo de elementos puede contener un Activity?",
+    "answers": [
+      "🟢 Botones, ✏️ Cajas de texto, 🏷️ Etiquetas y 📋 Listas",
+      "🧮 Archivos XML, 🎵 Sonidos, 🧠 Variables",
+      "⚙️ Código Java, 📄 Scripts y 🔒 Permisos",
+      "📦 Paquetes y módulos"
+    ],
+    "correctAnswer": "🟢 Botones, ✏️ Cajas de texto, 🏷️ Etiquetas y 📋 Listas"
+  },
+  {
+    "question": "💡 ¿Cómo se resume el concepto de Activity?",
+    "answers": [
+      "🎨 Cada pantalla es un Activity",
+      "🔘 Cada botón es un Activity",
+      "🧩 Cada proyecto es un Activity",
+      "📄 Cada archivo es un Activity"
+    ],
+    "correctAnswer": "🎨 Cada pantalla es un Activity"
+  },
+  {
+    "question": "🪶 ¿Qué significa crear un proyecto con 'Empty Activity'?",
+    "answers": [
+      "🧱 Empezar un proyecto desde cero",
+      "📦 Cargar una plantilla con datos",
+      "🎨 Importar un diseño existente",
+      "💾 Clonar otro proyecto"
+    ],
+    "correctAnswer": "🧱 Empezar un proyecto desde cero"
+  },
+  {
+    "question": "🏷️ ¿Qué representa el nombre del paquete en Android?",
+    "answers": [
+      "📦 La dirección única o ruta de la app",
+      "📄 El nombre del archivo Gradle",
+      "🎨 El color del tema visual",
+      "🧠 La versión del SDK"
+    ],
+    "correctAnswer": "📦 La dirección única o ruta de la app"
+  },
+  {
+    "question": "💾 ¿Qué puedes definir al crear un proyecto nuevo en Android Studio?",
+    "answers": [
+      "🏷️ Nombre, 📦 paquete, 💾 ubicación y 📱 versión mínima de Android",
+      "📄 Tema visual, 📆 fecha, 🧮 RAM y 🔋 batería",
+      "🎨 Colores, 📷 imágenes, 🎵 sonidos y 🧠 iconos",
+      "🧱 Código Java, 📚 Gradle y 🧭 permisos"
+    ],
+    "correctAnswer": "🏷️ Nombre, 📦 paquete, 💾 ubicación y 📱 versión mínima de Android"
+  },
+  {
+    "question": "📆 ¿Qué significa API Level en Android?",
+    "answers": [
+      "🔢 El número que identifica la versión del sistema Android",
+      "📊 El nivel de seguridad de la app",
+      "💡 La prioridad del proyecto",
+      "🎯 El número de pantallas activas"
+    ],
+    "correctAnswer": "🔢 El número que identifica la versión del sistema Android"
+  },
+  {
+    "question": "🍭 ¿A qué versión corresponde la API 21?",
+    "answers": [
+      "🍭 Lollipop (Android 5.0)",
+      "🍫 Nougat (Android 7.0)",
+      "🍰 Baklava (Android 16.0)",
+      "🍩 Donut (Android 1.6)"
+    ],
+    "correctAnswer": "🍭 Lollipop (Android 5.0)"
+  },
+  {
+    "question": "🍫 ¿Qué versión representa la API 24?",
+    "answers": [
+      "🍭 Lollipop",
+      "🍫 Nougat (Android 7.0)",
+      "🍰 Baklava (Android 16.0)",
+      "🍩 Donut"
+    ],
+    "correctAnswer": "🍫 Nougat (Android 7.0)"
+  },
+  {
+    "question": "🍰 ¿A qué versión equivale la API 36?",
+    "answers": [
+      "🍰 Baklava (Android 16.0)",
+      "🍫 Nougat (Android 7.0)",
+      "🍭 Lollipop (Android 5.0)",
+      "🍪 Oreo (Android 8.0)"
+    ],
+    "correctAnswer": "🍰 Baklava (Android 16.0)"
+  },
+  {
+    "question": "⚠️ ¿Qué ocurre si eliges una API muy alta?",
+    "answers": [
+      "🚫 Los dispositivos antiguos no podrán instalar la app",
+      "✅ La app funcionará más rápido",
+      "💾 Se reducirá el tamaño del archivo",
+      "🎨 Aumentará la calidad visual"
+    ],
+    "correctAnswer": "🚫 Los dispositivos antiguos no podrán instalar la app"
+  },
+  {
+    "question": "✅ ¿Por qué el profe recomienda API 21?",
+    "answers": [
+      "📱 Porque funciona en la mayoría de dispositivos actuales",
+      "⚙️ Porque tiene mejor interfaz gráfica",
+      "💾 Porque ocupa menos espacio",
+      "🔋 Porque ahorra batería"
+    ],
+    "correctAnswer": "📱 Porque funciona en la mayoría de dispositivos actuales"
+  },
+  {
+    "question": "🧠 ¿Qué lenguaje recomienda usar para Gradle?",
+    "answers": [
+      "🟣 Kotlin DSL (build.gradle.kts)",
+      "🟢 Groovy DSL (build.gradle)",
+      "🔵 JavaScript",
+      "🔴 Python"
+    ],
+    "correctAnswer": "🟣 Kotlin DSL (build.gradle.kts)"
+  },
+  {
+    "question": "⚙️ ¿Qué función tiene Gradle?",
+    "answers": [
+      "🛠️ Gestionar la compilación y construcción de la app",
+      "🎨 Cambiar colores del proyecto",
+      "📦 Guardar imágenes",
+      "🔒 Controlar permisos"
+    ],
+    "correctAnswer": "🛠️ Gestionar la compilación y construcción de la app"
+  },
+  {
+    "question": "🔗 ¿Qué son las dependencias en Gradle?",
+    "answers": [
+      "📚 Librerías externas que usa tu app",
+      "💾 Archivos del sistema",
+      "🎨 Temas visuales",
+      "🧱 Carpetas del proyecto"
+    ],
+    "correctAnswer": "📚 Librerías externas que usa tu app"
+  },
+  {
+    "question": "💡 ¿Qué hace Gradle con las dependencias al compilar?",
+    "answers": [
+      "🔄 Las descarga o actualiza automáticamente",
+      "🧹 Las elimina después de cada ejecución",
+      "🧮 Las convierte en código nativo",
+      "🧰 Las guarda en la nube"
+    ],
+    "correctAnswer": "🔄 Las descarga o actualiza automáticamente"
+  },
+  {
+    "question": "🏗️ ¿Qué ocurre al hacer clic en Finish al crear el proyecto?",
+    "answers": [
+      "📱 Android Studio genera toda la estructura del proyecto",
+      "🎨 Se abre el menú de temas",
+      "🔋 Se inicia el modo ahorro de energía",
+      "🧮 Se ejecuta el código automáticamente"
+    ],
+    "correctAnswer": "📱 Android Studio genera toda la estructura del proyecto"
+  },
+  {
+    "question": "📦 ¿Qué archivo contiene las dependencias de la app?",
+    "answers": [
+      "📄 build.gradle",
+      "🧱 MainActivity.java",
+      "📁 AndroidManifest.xml",
+      "🧩 settings.gradle"
+    ],
+    "correctAnswer": "📄 build.gradle"
+  },
+  {
+    "question": "🧩 ¿Qué indica el nombre del paquete en un proyecto Android?",
+    "answers": [
+      "📍 La ruta o dirección única de la aplicación",
+      "🧱 El color del tema",
+      "📚 El lenguaje de programación",
+      "🎨 El tipo de diseño"
+    ],
+    "correctAnswer": "📍 La ruta o dirección única de la aplicación"
+  },
+  {
+    "question": "🔢 ¿Qué API viene marcada por defecto al crear un proyecto?",
+    "answers": [
+      "🍫 API 24 (Nougat, Android 7.0)",
+      "🍭 API 21 (Lollipop, Android 5.0)",
+      "🍪 API 26 (Oreo, Android 8.0)",
+      "🍰 API 36 (Baklava, Android 16.0)"
+    ],
+    "correctAnswer": "🍫 API 24 (Nougat, Android 7.0)"
+  },
+  {
+    "question": "📲 ¿Qué versión mínima del sistema se elige con API 24?",
+    "answers": [
+      "📱 Android 7.0 o superior",
+      "📱 Android 5.0 o superior",
+      "📱 Android 8.0 o superior",
+      "📱 Android 10 o superior"
+    ],
+    "correctAnswer": "📱 Android 7.0 o superior"
+  },
+  {
+    "question": "💬 ¿Qué dos lenguajes se pueden usar para configurar Gradle?",
+    "answers": [
+      "🟣 Kotlin DSL y 🟢 Groovy DSL",
+      "🧩 C++ y 🧠 Java",
+      "🔵 Python y 🔴 Ruby",
+      "🧮 XML y JSON"
+    ],
+    "correctAnswer": "🟣 Kotlin DSL y 🟢 Groovy DSL"
+  },
+  {
+    "question": "📚 ¿Qué hace el archivo Gradle durante la construcción?",
+    "answers": [
+      "🚀 Ensambla, compila y ejecuta la app",
+      "🎨 Cambia el color de fondo",
+      "🔋 Optimiza la batería",
+      "📦 Comprime imágenes"
+    ],
+    "correctAnswer": "🚀 Ensambla, compila y ejecuta la app"
+  },
+  {
+    "question": "🧠 ¿Qué herramienta usa Android Studio para manejar dependencias?",
+    "answers": ["⚙️ Gradle", "📦 Maven", "🧮 Node.js", "🧰 Flutter"],
+    "correctAnswer": "⚙️ Gradle"
+  },
+  {
+    "question": "🏁 ¿Qué indica el botón Finish durante la creación del proyecto?",
+    "answers": [
+      "🎉 Que se completa la configuración y se genera el entorno",
+      "📚 Que se guardan las dependencias",
+      "💾 Que se limpia la caché",
+      "🎨 Que se aplica el tema visual"
+    ],
+    "correctAnswer": "🎉 Que se completa la configuración y se genera el entorno"
+  },
+  {
+    "question": "🤖 ¿Qué puedes hacer al terminar el asistente de creación de un proyecto de Android Studio?",
+    "answers": [
+      "💪 Empezar a programar tu primera app Android",
+      "🎨 Cambiar el fondo del editor",
+      "🧮 Generar reportes de errores",
+      "📦 Instalar temas personalizados"
+    ],
+    "correctAnswer": "💪 Empezar a programar tu primera app Android"
+  },
+  {
+    "question": "🧾 ¿Qué se escribe en XML?",
+    "answers": [
+      "📄 El código Java",
+      "📦 Qué librerías o elementos queremos usar",
+      "🎨 El diseño de colores del IDE",
+      "🧮 Configuración de RAM"
+    ],
+    "correctAnswer": "📦 Qué librerías o elementos queremos usar"
+  },
+  {
+    "question": "📚 ¿Qué son las dependencias?",
+    "answers": [
+      "🎵 Son sonidos de la app",
+      "📦 Son librerías externas que necesita el proyecto",
+      "🖌️ Son temas visuales",
+      "💾 Archivos de almacenamiento"
+    ],
+    "correctAnswer": "📦 Son librerías externas que necesita el proyecto"
+  },
+  {
+    "question": "🖼️ ¿Qué librería sirve para mapas?",
+    "answers": ["🔥 Firebase", "🗺️ Google Maps", "🎵 MediaPlayer", "📄 Gradle"],
+    "correctAnswer": "🗺️ Google Maps"
+  },
+  {
+    "question": "🗺️ ¿Qué hace la librería Glide?",
+    "answers": [
+      "🎨 Cambia colores del IDE",
+      "🖼️ Maneja imágenes en la app",
+      "📚 Gestiona bases de datos",
+      "🎵 Reproduce sonidos"
+    ],
+    "correctAnswer": "🖼️ Maneja imágenes en la app"
+  },
+  {
+    "question": "🗺️ ¿Dónde se agregan normalmente las dependencias?",
+    "answers": [
+      "📂 En archivos de imagen",
+      "📄 En Gradle",
+      "🧾 Directamente en XML",
+      "🎨 En el tema visual"
+    ],
+    "correctAnswer": "📄 En Gradle"
+  },
+  {
+    "question": "🧱 ¿Qué estructura tienen en común Gradle y XML?",
+    "answers": [
+      "🌳 Estructura jerárquica por bloques o etiquetas",
+      "💡 Son ejecutables directamente",
+      "🔧 Solo sirven para compilar",
+      "🎨 Solo definen colores"
+    ],
+    "correctAnswer": "🌳 Estructura jerárquica por bloques o etiquetas"
+  },
+  {
+    "question": "⚙️ ¿Qué hace Android Studio con las dependencias al compilar?",
+    "answers": [
+      "🔄 Las descarga y sincroniza automáticamente",
+      "🎨 Cambia su apariencia",
+      "💾 Las guarda en caché",
+      "🧮 Las convierte en XML"
+    ],
+    "correctAnswer": "🔄 Las descarga y sincroniza automáticamente"
+  },
+  {
+    "question": "📝 ¿Cuál es la ventaja principal de Kotlin DSL?",
+    "answers": [
+      "💪 Tipado fuerte y autocompletado",
+      "📚 Compatible solo con Groovy",
+      "🎨 Cambia la interfaz del IDE",
+      "🧮 Optimiza la RAM"
+    ],
+    "correctAnswer": "💪 Tipado fuerte y autocompletado"
+  },
+  {
+    "question": "🟢 ¿Qué es Groovy DSL?",
+    "answers": [
+      "🟢 Forma clásica de escribir scripts Gradle",
+      "🟢 Lenguaje de diseño visual",
+      "🟢 Solo sirve para Kotlin",
+      "🟢 Editor de imágenes"
+    ],
+    "correctAnswer": "🟢 Forma clásica de escribir scripts Gradle"
+  },
+  {
+    "question": "☕ ¿Groovy DSL funciona con qué lenguajes?",
+    "answers": [
+      "☕ Solo Kotlin",
+      "☕ Solo Java",
+      "☕ Java y Kotlin",
+      "☕ Ninguno"
+    ],
+    "correctAnswer": "☕ Java y Kotlin"
+  },
+  {
+    "question": "🟣 ¿Kotlin DSL es exclusivo para Kotlin?",
+    "answers": [
+      "❌ No, también funciona con Java",
+      "✅ Sí, solo para Kotlin",
+      "❌ No, pero requiere XML",
+      "✅ Sí, y no permite Java"
+    ],
+    "correctAnswer": "❌ No, también funciona con Java"
+  },
+  {
+    "question": "💡 ¿Qué ventaja tiene Kotlin DSL sobre Groovy?",
+    "answers": [
+      "⚡ Menos errores al escribir dependencias y autocompletado",
+      "🎨 Mejores colores en el IDE",
+      "🧮 Más rápido al compilar código Java",
+      "💾 Ocupa menos espacio en disco"
+    ],
+    "correctAnswer": "⚡ Menos errores al escribir dependencias y autocompletado"
+  },
+  {
+    "question": "📄 ¿Qué archivo contiene las dependencias en Kotlin DSL?",
+    "answers": [
+      "build.gradle.kts",
+      "build.gradle",
+      "AndroidManifest.xml",
+      "MainActivity.kt"
+    ],
+    "correctAnswer": "build.gradle.kts"
+  },
+  {
+    "question": "☕ ¿Qué tipo de archivos Java puedes tener en la misma carpeta que Kotlin?",
+    "answers": [
+      "☕ Archivos .java",
+      "☕ Archivos .kt",
+      "☕ Archivos .xml",
+      "☕ Archivos .gradle"
+    ],
+    "correctAnswer": "☕ Archivos .java"
+  },
+  {
+    "question": "🤖 ¿Qué tipo de archivos Kotlin puedes tener en la misma carpeta que Java?",
+    "answers": [
+      "🤖 Archivos .kt",
+      "🤖 Archivos .java",
+      "🤖 Archivos .xml",
+      "🤖 Archivos .gradle"
+    ],
+    "correctAnswer": "🤖 Archivos .kt"
+  },
+  {
+    "question": "⚙️ ¿Java y Kotlin en la misma carpeta de Android Studio se compilan sin problemas?",
+    "answers": ["✅ Sí", "❌ No", "⚠️ Solo Java", "⚠️ Solo Kotlin"],
+    "correctAnswer": "✅ Sí"
+  },
+  {
+    "question": "➕ ¿Puedes crear archivos nuevos en Java y Kotlin dentro del mismo proyecto?",
+    "answers": [
+      "✏️ Sí, sin problema",
+      "❌ No, debes separar carpetas",
+      "⚡ Solo en Kotlin DSL",
+      "💾 Solo en Groovy DSL"
+    ],
+    "correctAnswer": "✏️ Sí, sin problema"
+  },
+  {
+    "question": "💬 ¿Por qué Gradle se compara con XML?",
+    "answers": [
+      "🌳 Porque ambos tienen estructura jerárquica de bloques",
+      "⚡ Porque ambos son ejecutables",
+      "📄 Porque ambos son archivos de texto plano",
+      "🎨 Porque ambos cambian colores del IDE"
+    ],
+    "correctAnswer": "🌳 Porque ambos tienen estructura jerárquica de bloques"
+  },
+  {
+    "question": "🧩 ¿Qué resumen representa la relación entre dependencias, Gradle y XML?",
+    "answers": [
+      "📚 Dependencias → Librerías externas, ⚙️ Gradle → Archivo que las gestiona, 💾 XML → Lenguaje estructurado, 🔄 Android Studio → Descarga y sincroniza",
+      "🎨 Dependencias → Colores, ⚙️ Gradle → Editor, 💾 XML → Almacenamiento, 🔄 Android Studio → Ejecuta app",
+      "🧱 Dependencias → Paquetes, ⚙️ Gradle → Compilador, 💾 XML → Editor, 🔄 Android Studio → Borra caché",
+      "💡 Dependencias → Configuración, ⚙️ Gradle → Plugins, 💾 XML → Recursos, 🔄 Android Studio → Sincroniza solo imágenes"
+    ],
+    "correctAnswer": "📚 Dependencias → Librerías externas, ⚙️ Gradle → Archivo que las gestiona, 💾 XML → Lenguaje estructurado, 🔄 Android Studio → Descarga y sincroniza"
+  },
+  {
+    "question": "🧠 ¿Tu elección de DSL obliga a usar Kotlin en la app?",
+    "answers": [
+      "❌ No, puedes usar Java",
+      "✅ Sí, solo Kotlin",
+      "⚠️ Solo para librerías",
+      "💾 Solo si usas Android Studio"
+    ],
+    "correctAnswer": "❌ No, puedes usar Java"
+  },
+  {
+    "question": "⚡ ¿Qué ventaja ofrece Kotlin DSL además de autocompletado?",
+    "answers": [
+      "💪 Menos errores al escribir dependencias",
+      "🎨 Mejores colores en el editor",
+      "🧮 Mayor compatibilidad con XML",
+      "📂 Menos archivos en la carpeta"
+    ],
+    "correctAnswer": "💪 Menos errores al escribir dependencias"
+  },
+  {
+    "question": "📝 ¿Qué representa Kotlin DSL?",
+    "answers": [
+      "📝 Solo cambia la forma de escribir dependencias y configuraciones",
+      "📝 Cambia el lenguaje de programación de la app",
+      "📝 Solo funciona con proyectos Kotlin",
+      "📝 Modifica los layouts XML"
+    ],
+    "correctAnswer": "📝 Solo cambia la forma de escribir dependencias y configuraciones"
+  },
+  {
+    "question": "☕🤖 ¿Se pueden usar archivos .kt y .java juntos?",
+    "answers": [
+      "✅ Sí, ambos coexisten sin problema",
+      "❌ No, debes separar carpetas",
+      "⚠️ Solo en Kotlin DSL",
+      "⚡ Solo en Groovy DSL"
+    ],
+    "correctAnswer": "✅ Sí, ambos coexisten sin problema"
+  },
+  {
+    "question": "📁 ¿Qué contiene la carpeta app/src/main/java?",
+    "answers": [
+      "☕ Código fuente Java o 🤖 Kotlin de la aplicación",
+      "🎨 Recursos visuales de la app",
+      "🧾 Configuración del AndroidManifest.xml",
+      "⚙️ Dependencias del proyecto"
+    ],
+    "correctAnswer": "☕ Código fuente Java o 🤖 Kotlin de la aplicación"
+  },
+  {
+    "question": "🎨 ¿Qué se almacena en la carpeta app/src/main/res?",
+    "answers": [
+      "🖼️ Layouts, strings, drawables y estilos",
+      "☕ Clases Java y Kotlin",
+      "🔐 Permisos de la aplicación",
+      "📦 Dependencias externas"
+    ],
+    "correctAnswer": "🖼️ Layouts, strings, drawables y estilos"
+  },
+  {
+    "question": "🗂️ ¿Para qué sirve el archivo AndroidManifest.xml?",
+    "answers": [
+      "🛂 Declarar permisos, Activities y configuración general de la app",
+      "🎨 Definir estilos y temas visuales",
+      "☕ Contener código fuente Java",
+      "🔗 Configurar librerías externas"
+    ],
+    "correctAnswer": "🛂 Declarar permisos, Activities y configuración general de la app"
+  },
+  {
+    "question": "🏗️ ¿Qué función cumple el archivo build.gradle?",
+    "answers": [
+      "📦 Administrar dependencias y la construcción del proyecto",
+      "🎨 Controlar recursos gráficos",
+      "🗂️ Gestionar permisos y Activities",
+      "📋 Mostrar texto en pantalla"
+    ],
+    "correctAnswer": "📦 Administrar dependencias y la construcción del proyecto"
+  },
+  {
+    "question": "☕ ¿Qué tipo de archivos se guardan dentro de app/src/main/java?",
+    "answers": [
+      "💻 Clases del código fuente de la app",
+      "🎨 Archivos de imagen",
+      "🧾 Configuración XML del sistema",
+      "📦 Librerías externas"
+    ],
+    "correctAnswer": "💻 Clases del código fuente de la app"
+  },
+  {
+    "question": "💾 ¿Dónde se guardan los textos visibles de la aplicación?",
+    "answers": [
+      "📝 En values/strings.xml dentro de la carpeta res",
+      "💻 En app/src/main/java",
+      "⚙️ En build.gradle",
+      "🧾 En AndroidManifest.xml"
+    ],
+    "correctAnswer": "📝 En values/strings.xml dentro de la carpeta res"
+  },
+  {
+    "question": "🖌️ ¿Qué tipo de archivos definen la estructura visual de las pantallas?",
+    "answers": [
+      "🧱 Archivos XML ubicados en res/layout",
+      "☕ Clases Java en la carpeta java",
+      "🧾 Archivos Manifest",
+      "📦 Archivos Gradle"
+    ],
+    "correctAnswer": "🧱 Archivos XML ubicados en res/layout"
+  },
+  {
+    "question": "🧾 ¿Qué representa el archivo AndroidManifest.xml?",
+    "answers": [
+      "🆔 La tarjeta de identidad de la app",
+      "🖼️ El diseño gráfico de la app",
+      "📦 Las dependencias instaladas",
+      "☕ El código principal en Java"
+    ],
+    "correctAnswer": "🆔 La tarjeta de identidad de la app"
+  },
+  {
+    "question": "📋 ¿Qué tipo de recursos se encuentran dentro de res/values?",
+    "answers": [
+      "💬 Textos, colores y estilos de la app",
+      "☕ Código Java",
+      "🧩 Permisos del sistema",
+      "📦 Librerías externas"
+    ],
+    "correctAnswer": "💬 Textos, colores y estilos de la app"
+  },
+  {
+    "question": "🔐 ¿Qué tipo de información se define dentro del AndroidManifest.xml?",
+    "answers": [
+      "🛂 Permisos, Activities y configuración general",
+      "🖌️ Estilos visuales de los layouts",
+      "☕ Código de comportamiento",
+      "📦 Dependencias externas"
+    ],
+    "correctAnswer": "🛂 Permisos, Activities y configuración general"
+  },
+  {
+    "question": "🧱 ¿Qué archivo define qué necesita la app al compilar?",
+    "answers": [
+      "⚙️ build.gradle",
+      "📄 AndroidManifest.xml",
+      "🖼️ layout.xml",
+      "☕ MainActivity.java"
+    ],
+    "correctAnswer": "⚙️ build.gradle"
+  },
+  {
+    "question": "🎭 ¿Qué tipo de recursos se guardan en res/drawable?",
+    "answers": [
+      "🖼️ Imágenes e íconos",
+      "💬 Textos",
+      "☕ Código Java",
+      "🔗 Dependencias"
+    ],
+    "correctAnswer": "🖼️ Imágenes e íconos"
+  },
+  {
+    "question": "📦 ¿Dónde se declaran las librerías que necesita la aplicación?",
+    "answers": [
+      "🏗️ En build.gradle",
+      "🗂️ En AndroidManifest.xml",
+      "🎨 En res/layout",
+      "☕ En MainActivity.java"
+    ],
+    "correctAnswer": "🏗️ En build.gradle"
+  },
+  {
+    "question": "📱 ¿Qué carpeta contiene los elementos que controlan la interfaz del usuario?",
+    "answers": [
+      "🎨 res/layout",
+      "☕ src/main/java",
+      "🗂️ Manifest",
+      "📦 Gradle"
+    ],
+    "correctAnswer": "🎨 res/layout"
+  },
+  {
+    "question": "📄 ¿Qué define el archivo build.gradle respecto al SDK?",
+    "answers": [
+      "📱 Las versiones de Android usadas en el proyecto",
+      "💬 Los textos de la interfaz",
+      "☕ Las clases principales",
+      "🎨 Los colores del tema"
+    ],
+    "correctAnswer": "📱 Las versiones de Android usadas en el proyecto"
+  },
+  {
+    "question": "🧠 ¿Qué describe mejor al archivo Gradle?",
+    "answers": [
+      "🎼 Es como un director de orquesta que coordina la construcción de la app",
+      "🎨 Es el archivo donde se definen los layouts",
+      "☕ Es donde se escribe el código Java",
+      "🗂️ Es el archivo que define los permisos"
+    ],
+    "correctAnswer": "🎼 Es como un director de orquesta que coordina la construcción de la app"
+  },
+  {
+    "question": "💡 ¿Qué tipo de archivo define los colores y estilos de la app?",
+    "answers": [
+      "🎨 values/colors.xml y values/styles.xml",
+      "☕ MainActivity.java",
+      "🗂️ AndroidManifest.xml",
+      "⚙️ build.gradle"
+    ],
+    "correctAnswer": "🎨 values/colors.xml y values/styles.xml"
+  },
+  {
+    "question": "🧩 ¿Dónde se definen las clases MainActivity o LoginActivity?",
+    "answers": [
+      "📂 app/src/main/java",
+      "🎨 res/layout",
+      "🗂️ AndroidManifest.xml",
+      "⚙️ build.gradle"
+    ],
+    "correctAnswer": "📂 app/src/main/java"
+  },
+  {
+    "question": "📐 ¿Qué define la jerarquía de una pantalla en Android?",
+    "answers": [
+      "🌳 La estructura del archivo XML del layout",
+      "☕ Las clases del código fuente",
+      "🧾 El AndroidManifest.xml",
+      "📦 El archivo build.gradle"
+    ],
+    "correctAnswer": "🌳 La estructura del archivo XML del layout"
+  },
+  {
+    "question": "📊 ¿Qué contiene cada zona del proyecto Android?",
+    "answers": [
+      "🧩 Código, recursos, configuración y construcción",
+      "🎨 Solo recursos gráficos",
+      "☕ Solo código Java y Kotlin",
+      "🔗 Solo dependencias"
+    ],
+    "correctAnswer": "🧩 Código, recursos, configuración y construcción"
+  },
+  {
+    "question": "🗃️ ¿Qué ejemplo de configuración se puede poner en el AndroidManifest.xml?",
+    "answers": [
+      "📷 Permiso para usar la cámara",
+      "🖼️ Fondo de pantalla",
+      "☕ Código de la Activity",
+      "📦 Librerías externas"
+    ],
+    "correctAnswer": "📷 Permiso para usar la cámara"
+  },
+  {
+    "question": "📚 ¿Qué define el archivo Gradle además de dependencias?",
+    "answers": [
+      "🔢 Versiones de Android y SDK",
+      "💬 Textos visibles en pantalla",
+      "🎨 Diseño de interfaz",
+      "☕ Código fuente Java"
+    ],
+    "correctAnswer": "🔢 Versiones de Android y SDK"
+  },
+  {
+    "question": "🔍 ¿Qué propiedad se puede definir dentro de un componente XML?",
+    "answers": [
+      "🖌️ Color de fondo o del texto",
+      "☕ Nombre de la clase",
+      "📦 Dependencia externa",
+      "🗂️ Permiso del sistema"
+    ],
+    "correctAnswer": "🖌️ Color de fondo o del texto"
+  },
+  {
+    "question": "🧾 ¿Dónde se encuentran los textos, colores y estilos?",
+    "answers": [
+      "💡 En la carpeta res/values",
+      "☕ En el código fuente",
+      "🗂️ En el Manifest",
+      "📦 En build.gradle"
+    ],
+    "correctAnswer": "💡 En la carpeta res/values"
+  },
+  {
+    "question": "🧠 ¿por qué se organiza el proyecto en zonas?",
+    "answers": [
+      "🧩 Para mantener orden entre código, recursos y configuraciones",
+      "🎨 Para cambiar solo el color del tema",
+      "☕ Para guardar menos archivos",
+      "📦 Para eliminar dependencias"
+    ],
+    "correctAnswer": "🧩 Para mantener orden entre código, recursos y configuraciones"
+  },
+  {
+    "question": "📦 ¿Qué tipo de archivo se encarga de descargar librerías externas?",
+    "answers": [
+      "⚙️ build.gradle",
+      "☕ MainActivity.java",
+      "🎨 layout.xml",
+      "🗂️ AndroidManifest.xml"
+    ],
+    "correctAnswer": "⚙️ build.gradle"
+  },
+  {
+    "question": "📜 ¿Qué define el comportamiento de los botones o cajas de texto?",
+    "answers": [
+      "☕ El código dentro de app/src/main/java",
+      "🖌️ Los layouts XML",
+      "🗂️ El AndroidManifest.xml",
+      "📦 El archivo build.gradle"
+    ],
+    "correctAnswer": "☕ El código dentro de app/src/main/java"
+  },
+  {
+    "question": "🎨 ¿Qué hace el archivo res/layout/activity_main.xml?",
+    "answers": [
+      "🧱 Define el diseño visual de la pantalla principal",
+      "☕ Contiene la lógica de la app",
+      "🗂️ Define permisos del sistema",
+      "📦 Descarga librerías"
+    ],
+    "correctAnswer": "🧱 Define el diseño visual de la pantalla principal"
+  },
+  {
+    "question": "💡 ¿Cómo describe el propósito del Manifest?",
+    "answers": [
+      "🪪 Como una tarjeta de identidad que define qué necesita la app",
+      "🎨 Como un archivo de estilo visual",
+      "☕ Como un script de código",
+      "📦 Como un archivo de dependencias"
+    ],
+    "correctAnswer": "🪪 Como una tarjeta de identidad que define qué necesita la app"
+  },
+  {
+    "question": "🖥️ ¿Qué es un emulador (AVD) en Android?",
+    "answers": [
+      "💻 Una máquina virtual que simula un dispositivo Android",
+      "📱 Un teléfono físico real",
+      "🧩 Un archivo de configuración XML",
+      "⚙️ Una librería externa para Android"
+    ],
+    "correctAnswer": "💻 Una máquina virtual que simula un dispositivo Android"
+  },
+  {
+    "question": "📲 ¿Para qué se usan los emuladores?",
+    "answers": [
+      "🖥️ Para probar apps sin tener un dispositivo físico",
+      "🔌 Para instalar apps en un dispositivo real",
+      "📦 Para descargar dependencias externas",
+      "🖌️ Para diseñar layouts de la app"
+    ],
+    "correctAnswer": "🖥️ Para probar apps sin tener un dispositivo físico"
+  },
+  {
+    "question": "⚡ ¿Cuál es una ventaja de usar emuladores?",
+    "answers": [
+      "⏱️ Pruebas rápidas y configurables",
+      "💾 Instalación manual de la app",
+      "🐢 Rendimiento real del dispositivo",
+      "🗺️ Sensores físicos activos"
+    ],
+    "correctAnswer": "⏱️ Pruebas rápidas y configurables"
+  },
+  {
+    "question": "🎛️ ¿Qué permite un emulador respecto a la configuración?",
+    "answers": [
+      "🔹 Cambiar tamaño de pantalla, versión de Android, memoria y resolución",
+      "📷 Activar cámara real",
+      "💨 Medir rendimiento real del dispositivo",
+      "🔌 Depurar vía USB"
+    ],
+    "correctAnswer": "🔹 Cambiar tamaño de pantalla, versión de Android, memoria y resolución"
+  },
+  {
+    "question": "🏎️ ¿Qué característica de hardware puedes modificar en un emulador?",
+    "answers": [
+      "⚙️ Rendimiento y características simuladas",
+      "🗺️ GPS real",
+      "📷 Cámara real",
+      "🔄 Giroscopio físico"
+    ],
+    "correctAnswer": "⚙️ Rendimiento y características simuladas"
+  },
+  {
+    "question": "🐢 ¿Cuál es una limitación de los emuladores?",
+    "answers": [
+      "⏳ Su rendimiento es más lento que un dispositivo real",
+      "💨 Permiten usar sensores reales",
+      "🔌 Hacen debugging físico vía USB",
+      "📲 Son dispositivos reales"
+    ],
+    "correctAnswer": "⏳ Su rendimiento es más lento que un dispositivo real"
+  },
+  {
+    "question": "📉 ¿Qué no siempre reflejan los emuladores?",
+    "answers": [
+      "💡 Cómo funcionará la app en la vida real",
+      "⚡ Las pruebas rápidas",
+      "🎛️ Las configuraciones múltiples",
+      "🏎️ La velocidad simulada"
+    ],
+    "correctAnswer": "💡 Cómo funcionará la app en la vida real"
+  },
+  {
+    "question": "📱 ¿Qué es un dispositivo físico en Android?",
+    "answers": [
+      "📲 Un teléfono o tablet real donde se instalará la app",
+      "💻 Un simulador virtual",
+      "🧾 Un archivo XML de configuración",
+      "📦 Una librería externa"
+    ],
+    "correctAnswer": "📲 Un teléfono o tablet real donde se instalará la app"
+  },
+  {
+    "question": "💨 ¿Cuál es una ventaja de usar un dispositivo físico?",
+    "answers": [
+      "📈 Rendimiento real y sensores activos",
+      "⚡ Pruebas más rápidas",
+      "🎛️ Configuraciones simuladas",
+      "🏎️ Modificar características de hardware"
+    ],
+    "correctAnswer": "📈 Rendimiento real y sensores activos"
+  },
+  {
+    "question": "🗺️ ¿Qué sensores están activos en un dispositivo físico?",
+    "answers": [
+      "📷 Cámara, GPS, acelerómetro y giroscopio",
+      "🎨 Layouts simulados",
+      "⚙️ Configuración de memoria virtual",
+      "🔧 Depuración remota"
+    ],
+    "correctAnswer": "📷 Cámara, GPS, acelerómetro y giroscopio"
+  },
+  {
+    "question": "🔌 ¿Qué ventaja tiene el dispositivo físico para debugging?",
+    "answers": [
+      "💻 Debugging vía USB con sensores reales",
+      "⚡ Simulación de hardware",
+      "🐢 Instalación más lenta",
+      "📦 Descargar librerías externas"
+    ],
+    "correctAnswer": "💻 Debugging vía USB con sensores reales"
+  },
+  {
+    "question": "🐢 ¿Cuál es una limitación de los dispositivos físicos?",
+    "answers": [
+      "💾 Instalación manual y más lenta de la app",
+      "⚡ Pruebas rápidas",
+      "🎛️ Configuraciones múltiples",
+      "🏎️ Modificación de hardware"
+    ],
+    "correctAnswer": "💾 Instalación manual y más lenta de la app"
+  },
+  {
+    "question": "🌎 ¿Por qué se recomienda usar primero el emulador?",
+    "answers": [
+      "🖥️ Para testear sin perder tiempo y luego validar en condiciones reales",
+      "📱 Para instalar la app directamente en el mundo real",
+      "📦 Para descargar dependencias externas",
+      "⚙️ Para configurar el SDK de Android"
+    ],
+    "correctAnswer": "🖥️ Para testear sin perder tiempo y luego validar en condiciones reales"
+  },
+  {
+    "question": "🎯 ¿Qué secuencia recomienda al testear una app?",
+    "answers": [
+      "🖥️ Primero en emulador, luego en dispositivo físico",
+      "📱 Primero en dispositivo físico, luego en emulador",
+      "📦 Solo en Gradle",
+      "🗂️ Solo en AndroidManifest.xml"
+    ],
+    "correctAnswer": "🖥️ Primero en emulador, luego en dispositivo físico"
+  },
+  {
+    "question": "⚙️ ¿Qué permite cambiar un emulador que un dispositivo físico no?",
+    "answers": [
+      "🎛️ Configuración de hardware y memoria",
+      "📷 Uso de cámara real",
+      "🗺️ GPS activo",
+      "💨 Rendimiento real del dispositivo"
+    ],
+    "correctAnswer": "🎛️ Configuración de hardware y memoria"
+  },
+  {
+    "question": "💻 ¿Cuál es una ventaja de usar emuladores respecto al tiempo?",
+    "answers": [
+      "⚡ Permiten pruebas rápidas sin esperar instalaciones físicas",
+      "💾 Requieren instalación manual de cada versión",
+      "📱 Activan sensores reales automáticamente",
+      "📷 Usan cámara real del dispositivo"
+    ],
+    "correctAnswer": "⚡ Permiten pruebas rápidas sin esperar instalaciones físicas"
+  },
+  {
+    "question": "📐 ¿Qué limita la precisión de un emulador?",
+    "answers": [
+      "📉 No siempre refleja cómo funcionará la app en el mundo real",
+      "⚡ Velocidad de pruebas rápida",
+      "🎛️ Configuraciones múltiples",
+      "🏎️ Modificación de hardware simulada"
+    ],
+    "correctAnswer": "📉 No siempre refleja cómo funcionará la app en el mundo real"
+  },
+  {
+    "question": "🔄 ¿Qué sensores se activan solo en un dispositivo físico?",
+    "answers": [
+      "📐 Acelerómetro y giroscopio reales",
+      "🎛️ Configuraciones virtuales",
+      "🏎️ Rendimiento simulado",
+      "💻 Emulación de hardware"
+    ],
+    "correctAnswer": "📐 Acelerómetro y giroscopio reales"
+  },
+  {
+    "question": "💾 ¿Qué desventaja tienen los dispositivos físicos frente a los emuladores?",
+    "answers": [
+      "🐢 Cada nueva versión hay que instalarla manualmente",
+      "⚡ Pruebas rápidas y automáticas",
+      "🎛️ Configuraciones ilimitadas",
+      "🏎️ Ajuste de hardware simulado"
+    ],
+    "correctAnswer": "🐢 Cada nueva versión hay que instalarla manualmente"
+  },
+  {
+    "question": "🗝️ ¿Qué tip sobre el uso de emuladores?",
+    "answers": [
+      "🐢 Testear primero en emulador antes de pasar a físico",
+      "📦 Instalar directamente en Gradle",
+      "🖌️ Cambiar colores de layouts",
+      "☕ Ejecutar código Java sin probar"
+    ],
+    "correctAnswer": "🐢 Testear primero en emulador antes de pasar a físico"
+  },
+  {
+    "question": "🌟 ¿Cuál es la idea clave al usar emulador y dispositivo físico?",
+    "answers": [
+      "🖥️ Primero testeo virtual, luego validación real",
+      "📱 Solo usar dispositivo físico",
+      "⚡ Solo usar emulador",
+      "📦 Descargar dependencias primero"
+    ],
+    "correctAnswer": "🖥️ Primero testeo virtual, luego validación real"
+  },
+  {
+    "question": "🐢 ¿Cuál es la principal limitación de los emuladores?",
+    "answers": [
+      "🕐 Rendimiento más lento que un dispositivo real",
+      "📷 Sensores reales activos",
+      "💨 Rendimiento físico real",
+      "🔌 Debugging vía USB"
+    ],
+    "correctAnswer": "🕐 Rendimiento más lento que un dispositivo real"
+  },
+  {
+    "question": "📷 ¿Qué ventaja tiene un dispositivo físico respecto a sensores?",
+    "answers": [
+      "🗺️ Sensores reales como GPS, cámara y giroscopio",
+      "🎛️ Configuraciones virtuales",
+      "🏎️ Rendimiento simulado",
+      "⚡ Pruebas rápidas"
+    ],
+    "correctAnswer": "🗺️ Sensores reales como GPS, cámara y giroscopio"
+  },
+  {
+    "question": "🔌 ¿Qué permite el dispositivo físico que no hace un emulador?",
+    "answers": [
+      "💻 Debugging con sensores activos vía USB",
+      "🎛️ Cambiar memoria virtual",
+      "⚡ Pruebas rápidas simuladas",
+      "🏎️ Ajustes de hardware"
+    ],
+    "correctAnswer": "💻 Debugging con sensores activos vía USB"
+  },
+  {
+    "question": "🎛️ ¿Qué se puede ajustar en un emulador que en un dispositivo físico no?",
+    "answers": [
+      "⚙️ Rendimiento y características del hardware simulado",
+      "📱 Rendimiento real",
+      "📷 Uso de cámara real",
+      "🗺️ Sensores físicos"
+    ],
+    "correctAnswer": "⚙️ Rendimiento y características del hardware simulado"
+  },
+  {
+    "question": "📈 ¿Por qué es importante usar ambos: emulador y dispositivo físico?",
+    "answers": [
+      "🌟 Para testear rápido y validar en condiciones reales",
+      "⚡ Solo para depurar código Java",
+      "📦 Solo para descargar librerías",
+      "🎨 Solo para cambiar colores de layouts"
+    ],
+    "correctAnswer": "🌟 Para testear rápido y validar en condiciones reales"
+  },
+  {
+    "question": "💨 ¿Qué ventaja de rendimiento tiene un dispositivo físico sobre un emulador?",
+    "answers": [
+      "📱 Funciona a velocidad real con sensores activos",
+      "🎛️ Se puede modificar hardware simulado",
+      "⚡ Pruebas rápidas virtuales",
+      "🕐 Rendimiento lento"
+    ],
+    "correctAnswer": "📱 Funciona a velocidad real con sensores activos"
+  },
+  {
+    "question": "🏗️ ¿Qué hace el método onCreate() en Android?",
+    "answers": [
+      "🖼️ Inicializa layouts y variables globales",
+      "⏸️ Pausa la aplicación",
+      "🌙 Pone la app en segundo plano",
+      "🗑️ Limpia la memoria"
+    ],
+    "correctAnswer": "🖼️ Inicializa layouts y variables globales"
+  },
+  {
+    "question": "👀 ¿Qué ocurre en onStart() / onResume()?",
+    "answers": [
+      "✋ La app se vuelve visible e interactiva",
+      "🏗️ Se inicializan layouts",
+      "🗑️ Se destruye la app",
+      "⏸️ Se libera memoria"
+    ],
+    "correctAnswer": "✋ La app se vuelve visible e interactiva"
+  },
+  {
+    "question": "⏸️ / 🌙 ¿Cuál es la función de onPause() / onStop()?",
+    "answers": [
+      "🗑️ Poner la app en segundo plano y liberar recursos temporales",
+      "🏗️ Inicializar la app",
+      "👀 Activar la interacción del usuario",
+      "💾 Guardar la app permanentemente"
+    ],
+    "correctAnswer": "🗑️ Poner la app en segundo plano y liberar recursos temporales"
+  },
+  {
+    "question": "🗑️💨 ¿Qué hace onDestroy()?",
+    "answers": [
+      "🧹 Limpia la memoria y finaliza la app",
+      "✏️ Modifica los layouts",
+      "⚡ Hace pruebas rápidas",
+      "📲 Abre otra Activity"
+    ],
+    "correctAnswer": "🧹 Limpia la memoria y finaliza la app"
+  },
+  {
+    "question": "⏱️ ¿Con qué frecuencia se llama onCreate()?",
+    "answers": [
+      "✨ Solo una vez al inicio",
+      "⚡ Cada vez que la app pierde foco",
+      "💨 Cada vez que la app se destruye",
+      "🌙 Cuando la app entra en segundo plano"
+    ],
+    "correctAnswer": "✨ Solo una vez al inicio"
+  },
+  {
+    "question": "🏞️ ¿Qué representa onResume()?",
+    "answers": [
+      "✋ La app está en primer plano y funcionando activamente",
+      "🗑️ La app libera memoria",
+      "🖼️ Inicializa layouts",
+      "💾 Guarda datos en disco"
+    ],
+    "correctAnswer": "✋ La app está en primer plano y funcionando activamente"
+  },
+  {
+    "question": "💾 ¿Por qué es importante liberar recursos en onPause() / onStop()?",
+    "answers": [
+      "📱 Para no consumir memoria innecesaria",
+      "⚡ Para acelerar la app virtual",
+      "🔗 Para conectar con otra Activity",
+      "🖼️ Para cambiar layouts"
+    ],
+    "correctAnswer": "📱 Para no consumir memoria innecesaria"
+  },
+  {
+    "question": "🔄 ¿Cuál es la secuencia correcta del ciclo de vida de una app?",
+    "answers": [
+      "🏗️ onCreate() → 👀 onStart() → ⏸️ onPause() → 🗑️ onDestroy()",
+      "🗑️ onDestroy() → ⏸️ onPause() → 👀 onResume() → 🏗️ onCreate()",
+      "👀 onStart() → 🏗️ onCreate() → ⏸️ onPause() → 🗑️ onDestroy()",
+      "⏸️ onPause() → 👀 onResume() → 🏗️ onCreate() → 🗑️ onDestroy()"
+    ],
+    "correctAnswer": "🏗️ onCreate() → 👀 onStart() → ⏸️ onPause() → 🗑️ onDestroy()"
+  },
+  {
+    "question": "🌐 ¿Qué se configura en onCreate() además de los layouts?",
+    "answers": [
+      "💻 Variables globales",
+      "🗑️ Liberación de memoria",
+      "⚡ Pruebas rápidas",
+      "📲 Abrir otra Activity"
+    ],
+    "correctAnswer": "💻 Variables globales"
+  },
+  {
+    "question": "🖥️📲 ¿Qué es una Activity?",
+    "answers": [
+      "🌟 Una pantalla individual de la app",
+      "🗑️ La memoria de la app",
+      "⚙️ Una librería externa",
+      "💾 Un archivo de configuración"
+    ],
+    "correctAnswer": "🌟 Una pantalla individual de la app"
+  },
+  {
+    "question": "🔘✏️⌨️ ¿Qué componentes puede tener una Activity?",
+    "answers": [
+      "Botones, cajas de texto, listas y check buttons",
+      "Variables globales y layouts",
+      "Dependencias externas",
+      "Memoria del dispositivo"
+    ],
+    "correctAnswer": "Botones, cajas de texto, listas y check buttons"
+  },
+  {
+    "question": "👆🖱️⌨️ ¿Qué eventos pueden detectar los componentes de un Activity?",
+    "answers": [
+      "Toques, clicks y entrada de datos",
+      "Liberación de memoria",
+      "Inicialización de layouts",
+      "Cambio de versión de Android"
+    ],
+    "correctAnswer": "Toques, clicks y entrada de datos"
+  },
+  {
+    "question": "🔄➡️ ¿Cómo se navega entre Activities?",
+    "answers": [
+      "➡️ Usando Intents para abrir otras pantallas",
+      "📦 Descargando dependencias externas",
+      "🖼️ Cambiando layouts manualmente",
+      "🗑️ Liberando memoria"
+    ],
+    "correctAnswer": "➡️ Usando Intents para abrir otras pantallas"
+  },
+  {
+    "question": "⚙️➡️📤 ¿Qué indica un Intent?",
+    "answers": [
+      "Qué Activity abrir y cómo mostrarla",
+      "Qué memoria liberar",
+      "Qué layout inicializar",
+      "Qué librerías descargar"
+    ],
+    "correctAnswer": "Qué Activity abrir y cómo mostrarla"
+  },
+  {
+    "question": "🏗️🖼️🌐 ¿Qué se inicializa en onCreate()?",
+    "answers": [
+      "Layouts y variables globales",
+      "Sensores físicos",
+      "Pruebas rápidas",
+      "Navegación entre Activities"
+    ],
+    "correctAnswer": "Layouts y variables globales"
+  },
+  {
+    "question": "✋🏞️ ¿Qué significa onStart() / onResume()?",
+    "answers": [
+      "La app está visible e interactiva",
+      "La app se destruye",
+      "La app libera memoria",
+      "La app se inicializa por primera vez"
+    ],
+    "correctAnswer": "La app está visible e interactiva"
+  },
+  {
+    "question": "🗑️💾 ¿Qué ocurre en onPause() / onStop()?",
+    "answers": [
+      "La app va a segundo plano y libera recursos temporales",
+      "Se inicializan layouts",
+      "Se abren nuevas Activities",
+      "Se descargan librerías"
+    ],
+    "correctAnswer": "La app va a segundo plano y libera recursos temporales"
+  },
+  {
+    "question": "🧹📱 ¿Qué hace onDestroy()?",
+    "answers": [
+      "Limpia toda la memoria y finaliza la app",
+      "Hace visible la app",
+      "Inicializa variables globales",
+      "Activa Intents"
+    ],
+    "correctAnswer": "Limpia toda la memoria y finaliza la app"
+  },
+  {
+    "question": "🌟🖥️📲 ¿Cómo se describe una Activity?",
+    "answers": [
+      "Como una pantalla individual donde el usuario interactúa con componentes",
+      "Como un archivo Gradle",
+      "Como una librería externa",
+      "Como un sensor físico"
+    ],
+    "correctAnswer": "Como una pantalla individual donde el usuario interactúa con componentes"
+  },
+  {
+    "question": "🔘👆 ¿Qué acciones puede hacer un usuario en una Activity?",
+    "answers": [
+      "Tocar botones y hacer clicks",
+      "Liberar memoria automáticamente",
+      "Inicializar layouts",
+      "Descargar dependencias"
+    ],
+    "correctAnswer": "Tocar botones y hacer clicks"
+  },
+  {
+    "question": "🔄 ¿Qué se necesita para comunicar Activities?",
+    "answers": [
+      "➡️ Un Intent que indique qué Activity abrir y cómo",
+      "🗑️ Liberar memoria",
+      "🏗️ Inicializar variables globales",
+      "🖼️ Cambiar layouts"
+    ],
+    "correctAnswer": "➡️ Un Intent que indique qué Activity abrir y cómo"
+  },
+  {
+    "question": "📤⚙️ ¿Qué gestiona un Intent?",
+    "answers": [
+      "La navegación entre pantallas y cómo se muestran",
+      "La limpieza de memoria",
+      "La inicialización de layouts",
+      "La descarga de librerías externas"
+    ],
+    "correctAnswer": "La navegación entre pantallas y cómo se muestran"
+  },
+  {
+    "question": "⌨️✏️📋 ¿Qué componentes de entrada puede tener una Activity?",
+    "answers": [
+      "Cajas de texto y listas",
+      "Sensores físicos",
+      "Pruebas rápidas",
+      "Variables globales"
+    ],
+    "correctAnswer": "Cajas de texto y listas"
+  },
+  {
+    "question": "👆🖱️ ¿Qué detectan los eventos de los componentes?",
+    "answers": [
+      "Toques, clicks y escritura de texto",
+      "Inicialización de layouts",
+      "Liberación de memoria",
+      "Descarga de librerías"
+    ],
+    "correctAnswer": "Toques, clicks y escritura de texto"
+  },
+  {
+    "question": "💡📲 ¿Cuál es la idea clave del ciclo de vida?",
+    "answers": [
+      "🖥️ Primero onCreate(), luego interacción, pausa y destrucción",
+      "🗑️ Liberar memoria primero",
+      "⚡ Pruebas rápidas",
+      "🔘 Tocar componentes"
+    ],
+    "correctAnswer": "🖥️ Primero onCreate(), luego interacción, pausa y destrucción"
+  },
+  {
+    "question": "🏗️➡️ ¿Qué es un Intent Explícito en Android?",
+    "answers": [
+      "🖥️➡️📲 Indica exactamente qué Activity abrir dentro de la app",
+      "🌐❓ Abre cualquier acción sin definir Activity",
+      "💾 Guarda información en la memoria",
+      "🖼️ Inicializa layouts de la app"
+    ],
+    "correctAnswer": "🖥️➡️📲 Indica exactamente qué Activity abrir dentro de la app"
+  },
+  {
+    "question": "🌐❓ ¿Qué caracteriza a un Intent Implícito?",
+    "answers": [
+      "🧠📱 El sistema decide qué app puede manejar la acción",
+      "🏗️➡️🎯 Abre una Activity específica",
+      "💾 Guarda datos localmente",
+      "🖼️ Carga un layout"
+    ],
+    "correctAnswer": "🧠📱 El sistema decide qué app puede manejar la acción"
+  },
+  {
+    "question": "📦 ¿Qué hacemos primero al usar un Intent Explícito?",
+    "answers": [
+      "📦 Crear un objeto Intent con la Activity destino 🎯",
+      "🚀 Ejecutar startActivity sin parámetros",
+      "📤 Enviar datos al servidor 💌",
+      "🖥️ Modificar memoria RAM 💾"
+    ],
+    "correctAnswer": "📦 Crear un objeto Intent con la Activity destino 🎯"
+  },
+  {
+    "question": "🚀 ¿Cuál es la función de startActivity()?",
+    "answers": [
+      "🖥️➡️📲 Ejecuta el Intent y abre la Activity destino",
+      "🗑️💨 Libera recursos de memoria",
+      "🖼️ Carga el layout inicial",
+      "📦 Descarga librerías externas 📚"
+    ],
+    "correctAnswer": "🖥️➡️📲 Ejecuta el Intent y abre la Activity destino"
+  },
+  {
+    "question": "🏠 ¿Para qué se usan los Intents Explícitos?",
+    "answers": [
+      "🖥️📲 Navegar entre Activities de la misma app",
+      "🌐 Abrir páginas web externas 🖱️",
+      "📞 Hacer llamadas telefónicas 📱",
+      "✉️ Compartir contenido con otras apps 💌"
+    ],
+    "correctAnswer": "🖥️📲 Navegar entre Activities de la misma app"
+  },
+  {
+    "question": "🌐 ¿Qué acción realiza un Intent Implícito con ACTION_VIEW?",
+    "answers": [
+      "🌐🖥️📲 Abre una URL en el navegador disponible",
+      "🏗️➡️🎯 Abre una Activity interna",
+      "💾 Guarda información local 💾",
+      "🖼️ Inicializa un layout 🖼️"
+    ],
+    "correctAnswer": "🌐🖥️📲 Abre una URL en el navegador disponible"
+  },
+  {
+    "question": "📞❓ ¿Qué hace un Intent Implícito con ACTION_DIAL?",
+    "answers": [
+      "📲☎️ Abre la app de teléfono con marcador listo",
+      "🖥️➡️📲 Abre una Activity interna",
+      "🌐❓ Abre un navegador web",
+      "📦 Descarga librerías externas 📚"
+    ],
+    "correctAnswer": "📲☎️ Abre la app de teléfono con marcador listo"
+  },
+  {
+    "question": "📤 ¿Qué se pasa como parámetro en un Intent Implícito para llamar?",
+    "answers": [
+      "📤 tel:123456789",
+      "🌐 https://google.com",
+      "🏗️ SecondActivity.class",
+      "🖼️ layout_main.xml"
+    ],
+    "correctAnswer": "📤 tel:123456789"
+  },
+  {
+    "question": "🧠📱 ¿Quién decide qué app abrir en un Intent Implícito?",
+    "answers": [
+      "🧠 El sistema Android",
+      "👤 El usuario manualmente",
+      "🏗️ El Intent explícito",
+      "🖼️ El layout de la app"
+    ],
+    "correctAnswer": "🧠 El sistema Android"
+  },
+  {
+    "question": "🎯 ¿Qué indica SecondActivity.class en un Intent Explícito?",
+    "answers": [
+      "🎯 La Activity exacta que queremos abrir",
+      "🌐 La URL a abrir",
+      "📞 El número de teléfono",
+      "💾 La memoria a liberar"
+    ],
+    "correctAnswer": "🎯 La Activity exacta que queremos abrir"
+  },
+  {
+    "question": "🖥️➡️📲 Diferencia principal entre Intent Explícito e Implícito",
+    "answers": [
+      "🖥️➡️📲 Explícito indica Activity exacta; Implícito deja que el sistema elija",
+      "🌐❓ Implícito abre Activities internas; Explícito abre web",
+      "💾 Implícito libera memoria; Explícito inicializa layouts",
+      "📦 No hay diferencia, ambos hacen lo mismo"
+    ],
+    "correctAnswer": "🖥️➡️📲 Explícito indica Activity exacta; Implícito deja que el sistema elija"
+  },
+  {
+    "question": "📦❓ ¿Qué representa un Intent Implícito en código?",
+    "answers": [
+      "📦 Objeto que indica una acción sin Activity específica",
+      "📚 Librería externa a descargar",
+      "📝 Variable global de la app",
+      "🖼️ Layout para inicializar"
+    ],
+    "correctAnswer": "📦 Objeto que indica una acción sin Activity específica"
+  },
+  {
+    "question": "🏗️➡️🎯 ¿Qué acción realiza un Intent Explícito?",
+    "answers": [
+      "🏗️➡️🎯 Ir de Activity A a Activity B dentro de la app",
+      "📲☎️ Abrir la app de teléfono",
+      "🌐🖥️📲 Abrir navegador web",
+      "📦 Descarga librerías externas 📚"
+    ],
+    "correctAnswer": "🏗️➡️🎯 Ir de Activity A a Activity B dentro de la app"
+  },
+  {
+    "question": "🌐🖥️📲 ¿Qué hace un Intent Implícito para abrir web?",
+    "answers": [
+      "🌐🖥️📲 Abre la URL con la app que el sistema elija",
+      "🏗️➡️🎯 Abre otra Activity interna",
+      "🗑️ Libera memoria temporal",
+      "🖼️ Inicializa un layout"
+    ],
+    "correctAnswer": "🌐🖥️📲 Abre la URL con la app que el sistema elija"
+  },
+  {
+    "question": "🚀 startActivity ¿Qué hace?",
+    "answers": [
+      "🚀🖥️➡️📲 Ejecuta el Intent y abre la Activity destino",
+      "🗑️💨 Libera memoria",
+      "🖼️ Carga layouts",
+      "📦 Descarga librerías externas 📚"
+    ],
+    "correctAnswer": "🚀🖥️➡️📲 Ejecuta el Intent y abre la Activity destino"
+  },
+  {
+    "question": "📲 ¿Qué se abre al ejecutar un Intent Implícito para llamar?",
+    "answers": [
+      "📲☎️ App de teléfono con marcador listo",
+      "🏗️➡️🎯 Una Activity interna",
+      "🖼️ Layout de la app",
+      "📄 Archivo Gradle"
+    ],
+    "correctAnswer": "📲☎️ App de teléfono con marcador listo"
+  },
+  {
+    "question": "🖱️🔗 Usuario toca un enlace con Intent Implícito, ¿qué pasa?",
+    "answers": [
+      "🌐🖥️📲 Se abre el navegador elegido por el sistema",
+      "🗑️💨 Se libera memoria",
+      "🏗️➡️🎯 Se inicia otra Activity",
+      "📦 Descarga librerías externas"
+    ],
+    "correctAnswer": "🌐🖥️📲 Se abre el navegador elegido por el sistema"
+  },
+  {
+    "question": "📦 Intent ¿Qué contiene?",
+    "answers": [
+      "📦 Información sobre la acción y el destino",
+      "💾 Memoria de la app",
+      "🖼️ Layouts de la Activity",
+      "📚 Librerías externas"
+    ],
+    "correctAnswer": "📦 Información sobre la acción y el destino"
+  },
+  {
+    "question": "📦 Activity destino en un Intent Explícito, ¿qué indica?",
+    "answers": [
+      "🎯 Qué pantalla abrir dentro de la app",
+      "🌐 Qué URL abrir",
+      "📞 Qué número marcar",
+      "📦 Qué librería descargar"
+    ],
+    "correctAnswer": "🎯 Qué pantalla abrir dentro de la app"
+  },
+  {
+    "question": "❓ Beneficio de un Intent Implícito",
+    "answers": [
+      "🌐 El sistema elige la app adecuada para la acción",
+      "🏗️ Solo abre Activities internas",
+      "🗑️ Libera memoria automáticamente",
+      "🖼️ Inicializa layouts internos"
+    ],
+    "correctAnswer": "🌐 El sistema elige la app adecuada para la acción"
+  },
+  {
+    "question": "💌 ¿Qué se pasa en un Intent para enviar parámetros?",
+    "answers": [
+      "📤 Datos necesarios para la acción (URL, teléfono)",
+      "🖼️ Layout de la Activity",
+      "🗑️ Memoria a liberar",
+      "🌐 Variable global"
+    ],
+    "correctAnswer": "📤 Datos necesarios para la acción (URL, teléfono)"
+  },
+  {
+    "question": "📞👆 Usuario en flujo de Intent Implícito, ¿qué representa?",
+    "answers": [
+      "👤📦 Acción que inicia el Intent al interactuar con un componente",
+      "🗑️💨 Memoria liberada por la app",
+      "📚 Librería descargada",
+      "🖼️ Layout inicializado"
+    ],
+    "correctAnswer": "👤📦 Acción que inicia el Intent al interactuar con un componente"
+  },
+  {
+    "question": "🖥️➡️📲 Qué se abre tras ejecutar startActivity con Intent Explícito?",
+    "answers": [
+      "🎯 La Activity destino definida en el Intent",
+      "📲☎️ La app de teléfono",
+      "🌐🖥️📲 El navegador web",
+      "📄 Archivo Gradle"
+    ],
+    "correctAnswer": "🎯 La Activity destino definida en el Intent"
+  },
+  {
+    "question": "📦 Tipo de Intent que no especifica Activity exacta",
+    "answers": ["🌐❓ Implícito", "🏗️➡️ Explícito", "📄 Gradle", "🖼️ Layout"],
+    "correctAnswer": "🌐❓ Implícito"
+  },
+  {
+    "question": "❓ Qué tipo de Intent se usa para navegar dentro de la misma app?",
+    "answers": [
+      "🏗️➡️📲 Explícito",
+      "🌐❓ Implícito",
+      "📞 ACTION_DIAL",
+      "🌐 ACTION_VIEW"
+    ],
+    "correctAnswer": "🏗️➡️📲 Explícito"
+  },
+  {
+    "question": "📞ACTION_DIAL ¿Qué hace?",
+    "answers": [
+      "📲☎️ Abre la app de teléfono con número listo",
+      "🏗️➡️🎯 Abre Activity interna",
+      "🌐🖥️📲 Abre navegador web",
+      "📚 Descarga librerías"
+    ],
+    "correctAnswer": "📲☎️ Abre la app de teléfono con número listo"
+  },
+  {
+    "question": "🌐🖥️📲 Qué hace un Intent con ACTION_VIEW",
+    "answers": [
+      "🌐🖥️📲 Abre la URL en la app que el sistema elija",
+      "🏗️➡️🎯 Abre una Activity interna",
+      "🗑️ Libera memoria",
+      "🖼️ Inicializa un layout"
+    ],
+    "correctAnswer": "🌐🖥️📲 Abre la URL en la app que el sistema elija"
+  },
+  {
+    "question": "🚀 Qué realiza startActivity en cualquier Intent",
+    "answers": [
+      "🖥️➡️📲 Ejecuta el Intent y abre la app o Activity correspondiente",
+      "🗑️💨 Libera memoria",
+      "🖼️ Inicializa layouts",
+      "📦 Descarga librerías externas 📚"
+    ],
+    "correctAnswer": "🖥️➡️📲 Ejecuta el Intent y abre la app o Activity correspondiente"
+  },
+  {
+    "question": "📝📄 ¿Cuál es la función principal de un TextView?",
+    "answers": [
+      "👀 Mostrar texto estático al usuario",
+      "✋ Ejecutar acciones del usuario",
+      "📊 Mostrar listas de elementos",
+      "⚡ Activar eventos onClick"
+    ],
+    "correctAnswer": "👀 Mostrar texto estático al usuario"
+  },
+  {
+    "question": "🏷️ ¿Qué elementos se pueden mostrar con TextView?",
+    "answers": [
+      "🏆 Títulos, ℹ️ Información, etiquetas",
+      "📋 Listas desplazables",
+      "🔘 Botones interactivos",
+      "💭 Menús flotantes"
+    ],
+    "correctAnswer": "🏆 Títulos, ℹ️ Información, etiquetas"
+  },
+  {
+    "question": "🔘👆 ¿Cuál es la función principal de un Button?",
+    "answers": [
+      "✋ Permitir que el usuario ejecute acciones",
+      "👀 Mostrar texto estático",
+      "📊 Listar datos desplazables",
+      "🖼️ Mostrar imágenes"
+    ],
+    "correctAnswer": "✋ Permitir que el usuario ejecute acciones"
+  },
+  {
+    "question": "⚡ ¿Qué evento es común en un Button?",
+    "answers": ["onClick ⚡", "onScroll ⬇️", "onTextChange 📝", "onFocus 👁️"],
+    "correctAnswer": "onClick ⚡"
+  },
+  {
+    "question": "📋⬇️ ¿Qué hace un ListView en Android?",
+    "answers": [
+      "🖱️👆 Muestra una lista desplazable de elementos",
+      "👀 Muestra texto estático",
+      "✋ Ejecuta acciones del usuario",
+      "💭 Muestra menús flotantes"
+    ],
+    "correctAnswer": "🖱️👆 Muestra una lista desplazable de elementos"
+  },
+  {
+    "question": "📊 ¿Qué se puede mostrar en un ListView?",
+    "answers": [
+      "👥 Contactos, 📝 Tareas, 🛍️ Productos",
+      "🏆 Títulos y etiquetas",
+      "🔘 Botones interactivos",
+      "💭 Menús temporales"
+    ],
+    "correctAnswer": "👥 Contactos, 📝 Tareas, 🛍️ Productos"
+  },
+  {
+    "question": "✋📲 ¿Puede una pantalla tener múltiples TextView, Buttons y ListViews?",
+    "answers": [
+      "👥 Sí, cada uno puede interactuar con el usuario",
+      "👥 No, solo se permite un componente por tipo",
+      "👥 Solo TextView y Button, no ListView",
+      "👥 Solo ListView y Button, no TextView"
+    ],
+    "correctAnswer": "👥 Sí, cada uno puede interactuar con el usuario"
+  },
+  {
+    "question": "🍔📲 ¿Qué tipo de menú aparece en la ActionBar?",
+    "answers": [
+      "⚙️ Options Menu",
+      "📌 Context Menu",
+      "💭 Popup Menu",
+      "📋 ListView"
+    ],
+    "correctAnswer": "⚙️ Options Menu"
+  },
+  {
+    "question": "⚙️ Options Menu ¿Para qué se usa?",
+    "answers": [
+      "🌐 Contiene acciones globales de la app",
+      "⏳ Se activa con click largo",
+      "⏱️ Opciones temporales en un componente",
+      "🖱️ Seleccionar elementos de una lista"
+    ],
+    "correctAnswer": "🌐 Contiene acciones globales de la app"
+  },
+  {
+    "question": "📌 Context Menu ¿Cómo se activa?",
+    "answers": [
+      "⏳🖱️ Con click largo sobre un elemento",
+      "⚡ Con un botón interactivo",
+      "👀 Al mostrar un TextView",
+      "⬇️ Al desplazarse en una lista"
+    ],
+    "correctAnswer": "⏳🖱️ Con click largo sobre un elemento"
+  },
+  {
+    "question": "📌 Context Menu ¿Qué tipo de acciones contiene?",
+    "answers": [
+      "✂️ Copiar, 📋 Pegar, 🗑️ Eliminar",
+      "⚙️ Configuración global",
+      "💌 Opciones rápidas en un botón",
+      "📊 Listas de elementos"
+    ],
+    "correctAnswer": "✂️ Copiar, 📋 Pegar, 🗑️ Eliminar"
+  },
+  {
+    "question": "💭 Popup Menu ¿Dónde se ancla?",
+    "answers": [
+      "🖼️ A una View específica",
+      "🏷️ En la ActionBar",
+      "📋 En un ListView",
+      "📝 En un TextView"
+    ],
+    "correctAnswer": "🖼️ A una View específica"
+  },
+  {
+    "question": "💭 Popup Menu ¿Qué tipo de opciones ofrece?",
+    "answers": [
+      "⏱️ Opciones temporales o rápidas",
+      "🌐 Acciones globales de la app",
+      "⏳ Acciones de click largo",
+      "🔘 Botones interactivos"
+    ],
+    "correctAnswer": "⏱️ Opciones temporales o rápidas"
+  },
+  {
+    "question": "🏷️ ActionBar ¿Qué menú contiene normalmente?",
+    "answers": [
+      "⚙️ Options Menu",
+      "📌 Context Menu",
+      "💭 Popup Menu",
+      "📋 ListView"
+    ],
+    "correctAnswer": "⚙️ Options Menu"
+  },
+  {
+    "question": "🔹 TextView 📝📄 ¿Qué base proporciona?",
+    "answers": [
+      "🏷️ Etiquetas, 🏆 Títulos, ℹ️ Información",
+      "🔘 Botones interactivos",
+      "📋 Listas desplazables",
+      "💭 Menús flotantes"
+    ],
+    "correctAnswer": "🏷️ Etiquetas, 🏆 Títulos, ℹ️ Información"
+  },
+  {
+    "question": "🔘👆 Button ¿Qué puede hacer al pulsarlo?",
+    "answers": [
+      "✋ Abrir pantalla, enviar datos, ejecutar función",
+      "👀 Mostrar texto estático",
+      "📊 Mostrar listas desplazables",
+      "💭 Mostrar menú flotante"
+    ],
+    "correctAnswer": "✋ Abrir pantalla, enviar datos, ejecutar función"
+  },
+  {
+    "question": "📋⬇️ ListView ¿Qué interacción permite?",
+    "answers": [
+      "👆 Scrollable y seleccionable",
+      "✋ Pulsar botones",
+      "👀 Leer texto estático",
+      "💭 Abrir menú flotante"
+    ],
+    "correctAnswer": "👆 Scrollable y seleccionable"
+  },
+  {
+    "question": "💡 Tip de los componentes de interfaz ✨ ¿Qué se puede combinar?",
+    "answers": [
+      "📝📄 TextView, 🔘👆 Button y 📋⬇️ ListView en una pantalla",
+      "⚙️ Options Menu y 📌 Context Menu",
+      "💭 Popup Menu y ListView",
+      "🖼️ Layout y TextView únicamente"
+    ],
+    "correctAnswer": "📝📄 TextView, 🔘👆 Button y 📋⬇️ ListView en una pantalla"
+  },
+  {
+    "question": "💭 Popup Menu 💭 Ejemplo de acción rápida",
+    "answers": [
+      "💌 Enviar mensaje",
+      "💾 Guardar",
+      "✂️ Copiar",
+      "🏆 Título de la app"
+    ],
+    "correctAnswer": "💌 Enviar mensaje"
+  },
+  {
+    "question": "🏆 TextView 📝📄 ¿Qué tipo de información puede mostrar?",
+    "answers": [
+      "ℹ️ Información o descripción",
+      "👥 Lista de contactos",
+      "💭 Opciones rápidas",
+      "⚡ Eventos onClick"
+    ],
+    "correctAnswer": "ℹ️ Información o descripción"
+  },
+  {
+    "question": "🔘 Button ⚡ ¿Qué evento común gestiona?",
+    "answers": ["onClick", "onScroll", "onTextChange", "onFocus"],
+    "correctAnswer": "onClick"
+  },
+  {
+    "question": "📋⬇️ ListView Ideal para mostrar",
+    "answers": [
+      "📊 Conjuntos de datos",
+      "🏆 Títulos de la app",
+      "ℹ️ Información estática",
+      "💌 Opciones rápidas"
+    ],
+    "correctAnswer": "📊 Conjuntos de datos"
+  },
+  {
+    "question": "🖼️💭 Popup Menu ¿Dónde se coloca?",
+    "answers": [
+      "🖼️ En una View específica",
+      "🏷️ En la ActionBar",
+      "📋 En un ListView",
+      "📝 En un TextView"
+    ],
+    "correctAnswer": "🖼️ En una View específica"
+  },
+  {
+    "question": "⏳🖱️ Context Menu se activa mediante",
+    "answers": [
+      "Click largo sobre un elemento",
+      "Click corto en ActionBar",
+      "Scroll en ListView",
+      "Toque en TextView"
+    ],
+    "correctAnswer": "Click largo sobre un elemento"
+  },
+  {
+    "question": "⚙️ Options Menu acciones típicas",
+    "answers": [
+      "🌐 Configuración de la app",
+      "✂️ Copiar elemento",
+      "💌 Enviar mensaje rápido",
+      "📊 Mostrar lista de datos"
+    ],
+    "correctAnswer": "🌐 Configuración de la app"
+  }
+]

@@ -1,0 +1,998 @@
+/* Reset básico */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Inter", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+  color: #e0e6f0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1.5rem 1rem;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* 🎵 Botón de control de música */
+/* Contenedor flotante de botones */
+#musicControlGroup {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  display: flex;
+  gap: 8px; /* espacio entre los botones */
+  z-index: 9999;
+}
+
+/* 🎵 Botones de control (música, guardar, cargar) */
+.music-btn {
+  background: rgba(255, 255, 255, 0.3);
+  border: none;
+  border-radius: 50%;
+  padding: 8px 10px;
+  font-size: 1.3rem;
+  cursor: pointer;
+  backdrop-filter: blur(4px);
+  transition: background 0.3s ease, transform 0.2s ease;
+}
+.music-btn:hover {
+  background: rgba(255, 255, 255, 0.6);
+  transform: scale(1.1);
+}
+
+.music-btn:hover {
+  background: rgba(255, 255, 255, 0.6);
+  transform: scale(1.1);
+}
+
+header {
+  width: 100%;
+  max-width: 900px;
+  margin-bottom: 1.8rem;
+  text-align: center;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 2.6rem;
+  color: #61dafb;
+  text-shadow: 0 0 6px #61dafb88, 0 0 12px #61dafb66;
+  margin-bottom: 0.5rem;
+}
+
+button {
+  margin: 0 0.6rem;
+  padding: 0.65rem 1.4rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  border: none;
+  border-radius: 12px;
+  background: #61dafb;
+  color: #0a1e2c;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(97, 218, 251, 0.4);
+  transition: background-color 0.25s ease, box-shadow 0.25s ease,
+    transform 0.2s ease;
+  user-select: none;
+}
+
+button:hover {
+  background-color: #21a1f1;
+  box-shadow: 0 6px 12px rgba(33, 161, 241, 0.7);
+  transform: translateY(-2px);
+  color: #fff;
+}
+
+button:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 6px rgba(33, 161, 241, 0.5);
+}
+
+main {
+  width: 100%;
+  max-width: 900px;
+}
+
+h2 {
+  margin: 1rem 0;
+  font-weight: 600;
+  font-size: 1.7rem;
+  border-bottom: 2px solid #61dafb;
+  padding-bottom: 0.35rem;
+  color: #aad8f5;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* Contenedor de cartas */
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 14px 14px;
+  justify-items: center;
+  padding-bottom: 1rem;
+}
+
+/* Cartas */
+.card {
+  width: 130px;
+  height: 190px;
+  background: linear-gradient(145deg, #18232e, #1e2c3e);
+  border-radius: 14px;
+  box-shadow: inset 0 0 8px #3f8efc55, 0 6px 12px rgba(33, 161, 241, 0.6);
+  color: #b0c9f8;
+  font-weight: 600;
+  user-select: none;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  padding: 12px 8px;
+}
+
+.card:hover {
+  transform: scale(1.07);
+  box-shadow: inset 0 0 10px #61dafbaa, 0 10px 20px rgba(97, 218, 251, 0.8);
+}
+
+.card img {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+  border-radius: 8px;
+  user-select: none;
+  pointer-events: none;
+  margin-bottom: 10px;
+  box-shadow: inset 0 -4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.card .card-name {
+  font-size: 1rem;
+  text-align: center;
+  color: #c4d9fc;
+  text-shadow: 0 0 3px #1a2949;
+  user-select: text;
+  line-height: 1.2;
+  max-width: 100%;
+  overflow-wrap: break-word;
+}
+
+/* Cartas placeholder */
+.card.placeholder {
+  background: #2b394f;
+  color: #4b5a79;
+  font-size: 0.88rem;
+  font-weight: 500;
+  border: 2px dashed #4a5a7c;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  box-shadow: none;
+  cursor: default;
+  user-select: none;
+}
+
+/* Grupo álbum con tarjeta rectangular */
+.album-group {
+  margin-bottom: 2.8rem;
+  border-radius: 12px;
+  background: #1b2838cc;
+  padding: 1rem 1.2rem 1.4rem;
+  box-shadow: 0 4px 12px rgba(33, 161, 241, 0.35);
+  transition: background-color 0.3s ease;
+}
+
+.album-group:hover {
+  background: #234267cc;
+}
+
+/* Título de grupo */
+.album-group h3 {
+  color: #87bfff;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+  user-select: none;
+  text-transform: uppercase;
+}
+
+/* Mensaje álbum completo */
+.album-complete {
+  text-align: center;
+  font-size: 2.3rem;
+  color: #4dffa6;
+  margin-top: 2rem;
+  font-weight: 900;
+  text-shadow: 0 0 12px #2be08f, 0 0 25px #2be08faa;
+}
+
+/* Modal pantalla completa */
+.modal {
+  position: fixed;
+  inset: 0;
+  background-color: rgba(12, 20, 34, 0.95);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  opacity: 1;
+  transition: opacity 0.3s ease;
+  padding: 1rem;
+}
+
+.modal.hidden {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.modal-content {
+  max-width: 95vw;
+  max-height: 95vh;
+  background: transparent;
+  padding: 0;
+  border-radius: 0;
+  box-shadow: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  user-select: none;
+}
+
+.modal-content img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  border-radius: 10px;
+  box-shadow: 0 0 30px #61dafbaa;
+}
+
+#closeModal {
+  position: absolute;
+  top: 14px;
+  right: 18px;
+  font-size: 2.2rem;
+  color: #61dafbcc;
+  cursor: pointer;
+  user-select: none;
+  transition: color 0.25s ease;
+}
+
+#closeModal:hover {
+  color: #21a1f1;
+}
+
+/* Responsive */
+@media (max-width: 640px) {
+  .card-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .card {
+    width: 140px;
+    height: 200px;
+  }
+}
+
+@media (min-width: 900px) {
+  body {
+    padding: 2rem 0;
+  }
+}
+
+/* Cartas nuevas */
+.new-card {
+  animation: flashNew 1.5s ease-out;
+  background-color: #28a74533;
+  border: 2px solid #28a745;
+}
+
+@keyframes flashNew {
+  0% {
+    box-shadow: 0 0 0 rgba(40, 167, 69, 0);
+  }
+  50% {
+    box-shadow: 0 0 20px rgba(40, 167, 69, 0.8);
+  }
+  100% {
+    box-shadow: 0 0 0 rgba(40, 167, 69, 0);
+  }
+}
+
+.card.new-card {
+  background: linear-gradient(135deg, #28a745, #60d394);
+  animation: pulse 1s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 10px #60d394;
+  }
+  50% {
+    box-shadow: 0 0 20px #28a745;
+  }
+  100% {
+    box-shadow: 0 0 10px #60d394;
+  }
+}
+
+/* === NUEVO: Contenedor de páginas === */
+.album-page-card {
+  background: #1b2838cc;
+  border-radius: 12px;
+  padding: 1rem 1.2rem 1.4rem;
+  box-shadow: 0 4px 12px rgba(33, 161, 241, 0.35);
+  margin-bottom: 1.5rem;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.album-page-card .card-container {
+  grid-template-columns: repeat(5, 1fr);
+  gap: 8px 8px;
+  padding-bottom: 0.5rem;
+  justify-items: center;
+}
+
+.album-page-card .card {
+  width: 110px;
+  height: 160px;
+  padding: 8px 6px;
+}
+
+.album-page-card .card img {
+  width: 70px;
+  height: 70px;
+  margin-bottom: 8px;
+}
+.group-card-wrapper {
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 1200px;
+  background-color: #fafafa;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.group-title {
+  font-size: 1.4rem;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.group-card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 20px;
+  justify-items: center;
+}
+
+.card {
+  width: 130px;
+  height: 180px;
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  overflow: hidden;
+  text-align: center;
+  padding: 5px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.placeholder {
+  background-color: #eee;
+  color: #666;
+  font-style: italic;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 0.9rem;
+  padding: 10px;
+}
+.group-card-wrapper {
+  border: 1px solid #234267; /* borde azul oscuro */
+  border-radius: 12px;
+  padding: 25px 30px;
+  margin: 20px auto;
+  max-width: 1200px;
+  background-color: #1b2838cc; /* azul marino translúcido */
+  box-shadow: 0 4px 12px rgba(33, 161, 241, 0.35);
+}
+
+.group-title {
+  font-size: 1.6rem;
+  margin-bottom: 20px;
+  text-align: center;
+  color: #87bfff; /* texto azul claro */
+  font-weight: 700;
+  user-select: none;
+  text-transform: uppercase;
+}
+
+.group-card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 24px;
+  justify-items: center;
+}
+
+.card {
+  width: 160px;
+  height: 220px;
+  background: linear-gradient(145deg, #18232e, #1e2c3e);
+  border-radius: 14px;
+  box-shadow: inset 0 0 8px #3f8efc55, 0 6px 12px rgba(33, 161, 241, 0.6);
+  color: #b0c9f8;
+  font-weight: 600;
+  user-select: none;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px 12px 12px;
+  overflow: hidden;
+  position: relative;
+}
+
+.card:hover {
+  transform: scale(1.07);
+  box-shadow: inset 0 0 10px #61dafbaa, 0 10px 20px rgba(97, 218, 251, 0.8);
+}
+
+.card img {
+  width: 120px;
+  height: 140px;
+  object-fit: contain;
+  border-radius: 12px;
+  user-select: none;
+  pointer-events: none;
+  margin-bottom: 14px;
+  box-shadow: inset 0 -4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.card .card-name {
+  font-size: 1.1rem;
+  text-align: center;
+  color: #c4d9fc;
+  text-shadow: 0 0 3px #1a2949;
+  user-select: text;
+  line-height: 1.3;
+  max-width: 100%;
+  overflow-wrap: break-word;
+}
+
+/* Cartas placeholder */
+.card.placeholder {
+  background: #2b394f;
+  color: #4b5a79;
+  font-size: 0.95rem;
+  font-weight: 500;
+  border: 2px dashed #4a5a7c;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  box-shadow: none;
+  cursor: default;
+  user-select: none;
+  padding: 14px 10px;
+}
+
+/* Responsive (opcional ajustar según diseño) */
+@media (max-width: 640px) {
+  .group-card-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 18px;
+  }
+
+  .card {
+    width: 140px;
+    height: 190px;
+  }
+
+  .card img {
+    width: 100px;
+    height: 115px;
+  }
+}
+
+#triviaContainer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(20, 20, 20, 0.95);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+#triviaCard {
+  background: #222;
+  padding: 30px;
+  border-radius: 15px;
+  max-width: 600px;
+  width: 90%;
+  box-shadow: 0 0 30px #000;
+  text-align: center;
+}
+
+#triviaQuestion {
+  font-size: 1.3rem;
+  margin-bottom: 20px;
+  color: #fff;
+}
+
+.options-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 15px;
+}
+
+.trivia-option {
+  background: #333;
+  border: none;
+  color: #eee;
+  padding: 12px;
+  font-size: 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.trivia-option:hover {
+  background: #555;
+}
+
+.trivia-option.correct {
+  background: #28a745;
+}
+
+.trivia-option.incorrect {
+  background: #dc3545;
+}
+
+#triviaProgress {
+  margin-top: 20px;
+}
+
+.trivia-icon {
+  font-size: 1.5rem;
+  margin: 0 5px;
+}
+
+#triviaContainer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(30, 30, 30, 0.9);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  z-index: 1000;
+  flex-direction: column;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+#triviaCard {
+  background-color: #222;
+  border-radius: 10px;
+  padding: 20px;
+  max-width: 500px;
+  width: 100%;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.7);
+  text-align: center;
+}
+
+#triviaQuestion {
+  font-size: 1.3em;
+  margin-bottom: 20px;
+}
+
+.trivia-option {
+  background-color: #444;
+  border: none;
+  color: white;
+  padding: 12px 20px;
+  margin: 8px 0;
+  width: 100%;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 1em;
+  transition: background-color 0.3s ease;
+}
+
+.trivia-option:hover:not(:disabled) {
+  background-color: #666;
+}
+
+.trivia-option.correct {
+  background-color: #4caf50 !important; /* verde */
+  color: white;
+}
+
+.trivia-option.incorrect {
+  background-color: #f44336 !important; /* rojo */
+  color: white;
+}
+
+#triviaProgress {
+  margin-top: 15px;
+  font-size: 1.5em;
+  color: #4caf50;
+}
+
+.trivia-icon {
+  margin: 0 5px;
+  font-size: 1.8em;
+  user-select: none;
+}
+
+#triviaContainer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(20, 20, 20, 0.95);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  z-index: 1000;
+  flex-direction: column;
+  padding: 1rem;
+  font-family: Arial, sans-serif;
+}
+
+#triviaCard {
+  background-color: #1e1e1e; /* Fondo oscuro */
+  border-radius: 12px;
+  padding: 2rem;
+  max-width: 450px;
+  width: 90%;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.9);
+  text-align: center;
+  color: white; /* Texto claro */
+}
+
+#triviaQuestion {
+  font-size: 1.4rem;
+  margin-bottom: 1.5rem;
+}
+
+.trivia-option {
+  background-color: #333;
+  border: none;
+  color: white;
+  padding: 12px 20px;
+  margin: 8px 0;
+  width: 100%;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background-color 0.3s ease;
+}
+
+.trivia-option:hover:not(:disabled) {
+  background-color: #555;
+}
+
+.trivia-option.correct {
+  background-color: #4caf50 !important; /* verde */
+  color: white;
+}
+
+.trivia-option.incorrect {
+  background-color: #f44336 !important; /* rojo */
+  color: white;
+}
+
+#triviaProgress {
+  margin-top: 20px;
+  font-size: 2rem;
+  color: #4caf50;
+  user-select: none;
+}
+
+.trivia-icon {
+  margin: 0 6px;
+  font-size: 2.2rem;
+  user-select: none;
+}
+
+#triviaContainer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(
+    20,
+    20,
+    20,
+    0.95
+  ); /* fondo casi negro semitransparente */
+  display: none; /* oculto por defecto */
+  justify-content: center;
+  align-items: center;
+  color: white;
+  z-index: 1000;
+  flex-direction: column;
+  padding: 1rem;
+  font-family: Arial, sans-serif;
+}
+
+#triviaContainer.active {
+  display: flex; /* Mostrar cuando tenga clase active */
+}
+
+#triviaCard {
+  background-color: #1e1e1e; /* fondo oscuro */
+  border-radius: 12px;
+  padding: 2rem;
+  max-width: 450px;
+  width: 90%;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.9);
+  text-align: center;
+  color: white; /* texto blanco */
+}
+.card.new-card {
+  border: 3px solid gold;
+  box-shadow: 0 0 10px 4px gold;
+  animation: glow 1.5s ease-in-out infinite alternate;
+}
+
+@keyframes glow {
+  from {
+    box-shadow: 0 0 8px 2px gold;
+  }
+  to {
+    box-shadow: 0 0 16px 6px gold;
+  }
+}
+#triviaContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 60vh;
+}
+
+#triviaCard {
+  background-color: #222;
+  color: white;
+  padding: 1.5rem;
+  border-radius: 1rem;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+  text-align: center;
+  width: 90%;
+  max-width: 500px;
+  margin-top: 1rem;
+}
+.trivia-card {
+  border: 2px solid #333;
+  padding: 15px;
+  border-radius: 8px;
+  background: #f9f9f9;
+  max-width: 400px;
+  margin-bottom: 10px;
+}
+
+.trivia-aciertos {
+  margin-top: 10px;
+  font-size: 1.5rem;
+}
+#triviaOptions {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+#triviaOptions button {
+  width: 100%;
+  padding: 0.75rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+.trivia-option-btn {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+}
+
+/* css para la ruleta */
+
+#rouletteContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.85);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+  color: white;
+}
+
+#rouletteWrapper {
+  position: relative;
+  width: 320px;
+  height: 320px;
+}
+
+#rouletteArrow {
+  position: absolute;
+  bottom: -30px; /* Posicionada debajo de la ruleta */
+  left: 50%;
+  transform: translateX(-50%) rotate(180deg); /* Centrada y girada 180° */
+  font-size: 2.5rem;
+  color: red;
+  text-shadow: 0 2px 6px #000;
+  pointer-events: none;
+  z-index: 10;
+}
+
+#rouletteWheel {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  border: 5px solid #fff;
+  overflow: hidden;
+  transition: transform 5s ease;
+  background: conic-gradient(
+    #ffd700 0deg 36deg,
+    #ff6347 36deg 72deg,
+    #4682b4 72deg 108deg,
+    #8a2be2 108deg 144deg,
+    #3cb371 144deg 180deg,
+    #ffa500 180deg 216deg,
+    #20b2aa 216deg 252deg,
+    #dc143c 252deg 288deg,
+    #00bfff 288deg 324deg,
+    #4b0082 324deg 360deg
+  );
+}
+
+/* Centro decorativo */
+#rouletteWheel::after {
+  content: "";
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  background: #121212;
+  border-radius: 50%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  box-shadow: 0 0 10px #61dafb88;
+  z-index: 10;
+}
+
+/* Texto encima de cada sector */
+.label {
+  --num-sectors: 10;
+  --angle: calc(360deg / var(--num-sectors));
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  transform-origin: center;
+  transform: rotate(calc(var(--angle) * var(--i) + var(--angle) / 2))
+    translateY(-130px) translateX(-10px);
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: white;
+  text-shadow: 0 0 3px black;
+  pointer-events: none;
+}
+
+.label::before {
+  content: attr(data-label);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-100%, -150%)
+    rotate(calc(-1 * (var(--angle) * var(--i) + var(--angle) / 2)));
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: white;
+  text-shadow: 0 0 3px black;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+/* Botón */
+#spinButton {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 18px;
+  background-color: #61dafb;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+#spinButton:disabled {
+  background-color: #999;
+  cursor: not-allowed;
+}
+
+#rouletteWheel {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  border: 6px solid #444;
+  margin: auto;
+  transform: rotate(0deg);
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sector {
+  position: absolute;
+  width: 50%;
+  height: 50%;
+  top: 50%;
+  left: 50%;
+  transform-origin: 0% 0%;
+  text-align: right;
+  padding-right: 5px;
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: white;
+}
+
+#rouletteWrapper {
+  position: relative;
+  width: 300px;
+  margin: auto;
+}
+
+#rouletteArrow {
+  position: absolute;
+  top: -25px; /* Coloca la flecha encima del círculo */
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 2rem;
+  z-index: 10;
+}

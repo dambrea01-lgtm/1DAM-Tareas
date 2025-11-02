@@ -15,8 +15,7 @@
   - 📘 [Tareas sobre almacenamiento de la información](bases_de_datos/tarea_almacenamiento_informacion/tarea.md)
 
 - 📝 **[Lenguajes de Marcas]**
-- ⚙️ **[Entornos de Desarrollo]**
-- 💻 **[Sistemas Informáticos]**
+  - 📘 [Mini-proyecto personal: Album Android Educativo](lenguajes_de_marcas/mini_proyecto_personal_album_android/README.md)
 
 ---
 

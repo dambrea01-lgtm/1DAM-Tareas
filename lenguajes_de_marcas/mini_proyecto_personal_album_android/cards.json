@@ -1,0 +1,2202 @@
+[
+  {
+    "id": "ANDR001-00",
+    "name": "ANDR001-00",
+    "image": "img/ANDR001-00.jpg",
+    "probability": 0.3,
+    "rarity": "comun",
+    "group": "ANDR001",
+    "text": "¡Bienvenido al Mundo de C#! 🌍✨\nC# es un lenguaje mágico 🧙‍♂️ que te permite crear casi cualquier cosa 🎮📱🖥️. Se ejecuta sobre .NET, un ecosistema poderoso que respalda todo 💪.",
+    "triggers": ["lenguaje 💬", ".NET ⚙️", "propósito general 🌐"]
+  },
+  {
+    "id": "ANDR001-01",
+    "name": "ANDR001-01",
+    "image": "img/ANDR001-01.jpg",
+    "probability": 0.2,
+    "rarity": "poco comun",
+    "group": "ANDR001",
+    "text": "¿Qué Es .NET? 🔧🌐\n.NET es como el aire y la tierra para tus programas 🌬️🪵. Incluye entorno de ejecución 🧠, librerías 📚 y herramientas 🧰.",
+    "triggers": ["plataforma 🛠️", "librerías 📦", "ecosistema 🌳"]
+  },
+  {
+    "id": "ANDR001-02",
+    "name": "ANDR001-02",
+    "image": "img/ANDR001-02.jpg",
+    "probability": 0.12,
+    "rarity": "rara",
+    "group": "ANDR001",
+    "text": "¡Programadores = Magos! 🧙‍♀️💻\nLas computadoras son rápidas ⚡ pero tontas 😵. Los programadores las controlan para resolver problemas reales 💡.",
+    "triggers": ["magia ✨", "control 🕹️", "soluciones 💭"]
+  },
+  {
+    "id": "ANDR001-03",
+    "name": "ANDR001-03",
+    "image": "img/ANDR001-03.jpg",
+    "probability": 0.1,
+    "rarity": "super rara",
+    "group": "ANDR001",
+    "text": "Humanos vs Computadoras 🧠🤖\nNo hablamos el mismo idioma 😅. El lenguaje humano es vago 🌀 y el de las computadoras es binario 1️⃣0️⃣. ¡Los lenguajes de programación son el puente! 🌉",
+    "triggers": ["lenguaje 💬", "binario 💾", "traducción 🔄"]
+  },
+  {
+    "id": "ANDR001-04",
+    "name": "ANDR001-04",
+    "image": "img/ANDR001-04.jpg",
+    "probability": 0.06,
+    "rarity": "ultra rara",
+    "group": "ANDR001",
+    "text": "¡C# Para Todo! 🧰🌍\nPuedes crear juegos 🎮, apps móviles 📱, programas de escritorio 🖥️, ¡y más! C# está listo para todo 🔥.",
+    "triggers": ["versatilidad 🎨", "creación 🏗️", "tecnología 📱"]
+  },
+  {
+    "id": "ANDR001-05",
+    "name": "ANDR001-05",
+    "image": "img/ANDR001-05.jpg",
+    "probability": 0.05,
+    "rarity": "legendaria",
+    "group": "ANDR001",
+    "text": "¿Un Sistema Operativo en C#? 😮🖥️\nNo es lo ideal, pero ¡se ha hecho! C# no es solo para apps simples 💡.",
+    "triggers": ["potencia 💪", "límites 🚫", "flexibilidad 🧠"]
+  },
+  {
+    "id": "ANDR001-06",
+    "name": "ANDR001-06",
+    "image": "img/ANDR001-06.jpg",
+    "probability": 0.04,
+    "rarity": "epica",
+    "group": "ANDR001",
+    "text": "Poder + Simplicidad ⚖️💻\nC# encuentra el equilibrio perfecto entre tener poder y ser fácil de usar 😌. ¡Ni muy rígido ni muy peligroso! 🧘",
+    "triggers": ["balance ⚖️", "control 🎛️", "seguridad 🔒"]
+  },
+  {
+    "id": "ANDR001-07",
+    "name": "ANDR001-07",
+    "image": "img/ANDR001-07.jpg",
+    "probability": 0.03,
+    "rarity": "secreta",
+    "group": "ANDR001",
+    "text": "¡Lenguaje Vivo! 🧬🆕\nC# evoluciona con el tiempo 🧓➡️🧑. ¡Ya va por la versión 10.0 y sigue mejorando! 🔁",
+    "triggers": ["actualización 🔄", "moderno 🕶️", "evolución 🧬"]
+  },
+  {
+    "id": "ANDR001-08",
+    "name": "ANDR001-08",
+    "image": "img/ANDR001-08.jpg",
+    "probability": 0.025,
+    "rarity": "alternativa",
+    "group": "ANDR001",
+    "text": "Familiares Famosos 👨‍👦💻\nSi sabes C, C++ o Java, ¡C# será pan comido! 🍞 Y luego esos también serán más fáciles 😎.",
+    "triggers": ["familiaridad 👨‍👧", "comparación 🆚", "aprendizaje 📈"]
+  },
+  {
+    "id": "ANDR001-09",
+    "name": "ANDR001-09",
+    "image": "img/ANDR001-09.jpg",
+    "probability": 0.02,
+    "rarity": "premium",
+    "group": "ANDR001",
+    "text": "¡Corre Donde Sea! 🌐🏃\nC# funciona en Windows 🪟, Linux 🐧, macOS 🍎, iOS 📱 y Android 🤖. ¡Código libre por el mundo! 🌍",
+    "triggers": ["multiplataforma 🚀", "compatibilidad 🖥️", "portabilidad 🧳"]
+  },
+  {
+    "id": "ANDR001-10",
+    "name": "ANDR001-10",
+    "image": "img/ANDR001-10.jpg",
+    "probability": 0.015,
+    "rarity": "especial",
+    "group": "ANDR001",
+    "text": "¿Eres Pro? Este Es Para Ti 🧓🧑‍💻\nC# es: tipado estáticamente 📌, recolector de basura 🗑️, orientado a objetos 🧱, imperativo ✍️, funcional 📐 y por eventos 🔔.",
+    "triggers": ["avanzado 💡", "técnico 🔬", "completo 📚"]
+  },
+  {
+    "id": "ANDR001-11",
+    "name": "ANDR001-11",
+    "image": "img/ANDR001-11.jpg",
+    "probability": 0.01,
+    "rarity": "dorada oscura",
+    "group": "ANDR001",
+    "text": ".NET: Mucho Más que un Nombre 🧱🌈\n.NET no es solo un framework… ¡es TODO un ecosistema! 🚀 Ayuda al código, al programador y al desarrollo completo 👨‍💻👩‍💻.",
+    "triggers": ["entorno 🌎", "soporte 💁", "base sólida 🧱"]
+  },
+  {
+    "id": "ANDR001-12",
+    "name": "ANDR001-12",
+    "image": "img/ANDR001-12.jpg",
+    "probability": 0.008,
+    "rarity": "prismatica",
+    "group": "ANDR001",
+    "text": "Base Class Library 📦🎯\n¡No reinventes la rueda! Usa la BCL para tareas como abrir archivos 📂 o sacar raíces cuadradas ➗.",
+    "triggers": ["reutilización 🔁", "herramientas 🛠️", "productividad 📈"]
+  },
+  {
+    "id": "ANDR001-13",
+    "name": "ANDR001-13",
+    "image": "img/ANDR001-13.jpg",
+    "probability": 0.005,
+    "rarity": "mistica",
+    "group": "ANDR001",
+    "text": "¡SDK al Rescate! 🧰🦸\nEl SDK de .NET hace tu vida más fácil 😌: compilar, depurar, probar… ¡todo desde un solo lugar! 💼",
+    "triggers": ["desarrollo 👨‍💻", "herramientas 🛠️", "facilidad 😎"]
+  },
+  {
+    "id": "ANDR001-14",
+    "name": "ANDR001-14",
+    "image": "img/ANDR001-14.jpg",
+    "probability": 0.004,
+    "rarity": "infernal",
+    "group": "ANDR001",
+    "text": "¡CLR: El Corazón de .NET ❤️⚙️\nEl Common Language Runtime (CLR) ejecuta tu código 🏃, lo protege 🔐 y lo optimiza 🧠.",
+    "triggers": ["ejecución 🔄", "seguridad 🔒", "rendimiento 🚀"]
+  },
+  {
+    "id": "ANDR001-15",
+    "name": "ANDR001-15",
+    "image": "img/ANDR001-15.jpg",
+    "probability": 0.0035,
+    "rarity": "explosiva",
+    "group": "ANDR001",
+    "text": "¡IL: El Idioma Intermedio! 🗣️🧩\nC# se traduce a IL (Intermediate Language) 📜 antes de ejecutarse. ¡Es como magia entre bastidores! 🎩✨",
+    "triggers": ["IL 📜", "compilación 🧪", "abstracción 🎭"]
+  },
+  {
+    "id": "ANDR001-16",
+    "name": "ANDR001-16",
+    "image": "img/ANDR001-16.jpg",
+    "probability": 0.003,
+    "rarity": "caotica",
+    "group": "ANDR001",
+    "text": "JIT: ¡Corre en el Momento Justo! ⏱️💥\nEl compilador JIT convierte IL a código nativo justo antes de ejecutarlo 🧬. ¡Rápido y listo! 🛠️",
+    "triggers": ["JIT 🚀", "rendimiento ⚡", "compilación en tiempo real ⌛"]
+  },
+  {
+    "id": "ANDR001-17",
+    "name": "ANDR001-17",
+    "image": "img/ANDR001-17.jpg",
+    "probability": 0.0025,
+    "rarity": "arcana",
+    "group": "ANDR001",
+    "text": "¡Lenguajes Unidos! 🤝🌐\nVB.NET, F#, C#... todos pueden vivir juntos en .NET 🏡. ¡Una gran familia feliz de lenguajes! 👨‍👩‍👧‍👦",
+    "triggers": ["multi-lenguaje 🌍", "interoperabilidad 🔁", "unidad 🧩"]
+  },
+  {
+    "id": "ANDR001-18",
+    "name": "ANDR001-18",
+    "image": "img/ANDR001-18.jpg",
+    "probability": 0.002,
+    "rarity": "magnifico",
+    "group": "ANDR001",
+    "text": "¡NuGet: El Cofre del Tesoro! 💎📦\nNuGet es el sistema de paquetes de .NET. Instala librerías fácilmente y comparte las tuyas 🪄.",
+    "triggers": ["paquetes 📦", "dependencias 🔗", "modularidad 🧱"]
+  },
+  {
+    "id": "ANDR001-19",
+    "name": "ANDR001-19",
+    "image": "img/ANDR001-19.jpg",
+    "probability": 0.0015,
+    "rarity": "aureo",
+    "group": "ANDR001",
+    "text": "¡Open Source y Orgulloso! 👐🌍\n.NET es de código abierto 🧑‍💻. ¡Tú también puedes aportar, explorar y mejorar el ecosistema! 🛠️✨",
+    "triggers": ["open source 👐", "comunidad 🤝", "libertad 🎈"]
+  },
+  {
+    "id": "ANDR002-00",
+    "name": "ANDR002-00",
+    "image": "img/ANDR002-00.jpg",
+    "probability": 0.3,
+    "rarity": "comun",
+    "group": "ANDR002",
+    "text": "¡Bienvenido al Mundo de C#! 🌍✨\nC# es un lenguaje mágico 🧙‍♂️ que te permite crear casi cualquier cosa 🎮📱🖥️. Se ejecuta sobre .NET, un ecosistema poderoso que respalda todo 💪.",
+    "triggers": ["lenguaje 💬", ".NET ⚙️", "propósito general 🌐"]
+  },
+  {
+    "id": "ANDR002-01",
+    "name": "ANDR002-01",
+    "image": "img/ANDR002-01.jpg",
+    "probability": 0.2,
+    "rarity": "poco comun",
+    "group": "ANDR002",
+    "text": "¿Qué Es .NET? 🔧🌐\n.NET es como el aire y la tierra para tus programas 🌬️🪵. Incluye entorno de ejecución 🧠, librerías 📚 y herramientas 🧰.",
+    "triggers": ["plataforma 🛠️", "librerías 📦", "ecosistema 🌳"]
+  },
+  {
+    "id": "ANDR002-02",
+    "name": "ANDR002-02",
+    "image": "img/ANDR002-02.jpg",
+    "probability": 0.12,
+    "rarity": "rara",
+    "group": "ANDR002",
+    "text": "¡Programadores = Magos! 🧙‍♀️💻\nLas computadoras son rápidas ⚡ pero tontas 😵. Los programadores las controlan para resolver problemas reales 💡.",
+    "triggers": ["magia ✨", "control 🕹️", "soluciones 💭"]
+  },
+  {
+    "id": "ANDR002-03",
+    "name": "ANDR002-03",
+    "image": "img/ANDR002-03.jpg",
+    "probability": 0.1,
+    "rarity": "super rara",
+    "group": "ANDR002",
+    "text": "Humanos vs Computadoras 🧠🤖\nNo hablamos el mismo idioma 😅. El lenguaje humano es vago 🌀 y el de las computadoras es binario 1️⃣0️⃣. ¡Los lenguajes de programación son el puente! 🌉",
+    "triggers": ["lenguaje 💬", "binario 💾", "traducción 🔄"]
+  },
+  {
+    "id": "ANDR002-04",
+    "name": "ANDR002-04",
+    "image": "img/ANDR002-04.jpg",
+    "probability": 0.06,
+    "rarity": "ultra rara",
+    "group": "ANDR002",
+    "text": "¡C# Para Todo! 🧰🌍\nPuedes crear juegos 🎮, apps móviles 📱, programas de escritorio 🖥️, ¡y más! C# está listo para todo 🔥.",
+    "triggers": ["versatilidad 🎨", "creación 🏗️", "tecnología 📱"]
+  },
+  {
+    "id": "ANDR002-05",
+    "name": "ANDR002-05",
+    "image": "img/ANDR002-05.jpg",
+    "probability": 0.05,
+    "rarity": "legendaria",
+    "group": "ANDR002",
+    "text": "¿Un Sistema Operativo en C#? 😮🖥️\nNo es lo ideal, pero ¡se ha hecho! C# no es solo para apps simples 💡.",
+    "triggers": ["potencia 💪", "límites 🚫", "flexibilidad 🧠"]
+  },
+  {
+    "id": "ANDR002-06",
+    "name": "ANDR002-06",
+    "image": "img/ANDR002-06.jpg",
+    "probability": 0.04,
+    "rarity": "epica",
+    "group": "ANDR002",
+    "text": "Poder + Simplicidad ⚖️💻\nC# encuentra el equilibrio perfecto entre tener poder y ser fácil de usar 😌. ¡Ni muy rígido ni muy peligroso! 🧘",
+    "triggers": ["balance ⚖️", "control 🎛️", "seguridad 🔒"]
+  },
+  {
+    "id": "ANDR002-07",
+    "name": "ANDR002-07",
+    "image": "img/ANDR002-07.jpg",
+    "probability": 0.03,
+    "rarity": "secreta",
+    "group": "ANDR002",
+    "text": "¡Lenguaje Vivo! 🧬🆕\nC# evoluciona con el tiempo 🧓➡️🧑. ¡Ya va por la versión 10.0 y sigue mejorando! 🔁",
+    "triggers": ["actualización 🔄", "moderno 🕶️", "evolución 🧬"]
+  },
+  {
+    "id": "ANDR002-08",
+    "name": "ANDR002-08",
+    "image": "img/ANDR002-08.jpg",
+    "probability": 0.025,
+    "rarity": "alternativa",
+    "group": "ANDR002",
+    "text": "Familiares Famosos 👨‍👦💻\nSi sabes C, C++ o Java, ¡C# será pan comido! 🍞 Y luego esos también serán más fáciles 😎.",
+    "triggers": ["familiaridad 👨‍👧", "comparación 🆚", "aprendizaje 📈"]
+  },
+  {
+    "id": "ANDR002-09",
+    "name": "ANDR002-09",
+    "image": "img/ANDR002-09.jpg",
+    "probability": 0.02,
+    "rarity": "premium",
+    "group": "ANDR002",
+    "text": "¡Corre Donde Sea! 🌐🏃\nC# funciona en Windows 🪟, Linux 🐧, macOS 🍎, iOS 📱 y Android 🤖. ¡Código libre por el mundo! 🌍",
+    "triggers": ["multiplataforma 🚀", "compatibilidad 🖥️", "portabilidad 🧳"]
+  },
+  {
+    "id": "ANDR002-10",
+    "name": "ANDR002-10",
+    "image": "img/ANDR002-10.jpg",
+    "probability": 0.015,
+    "rarity": "especial",
+    "group": "ANDR002",
+    "text": "¿Eres Pro? Este Es Para Ti 🧓🧑‍💻\nC# es: tipado estáticamente 📌, recolector de basura 🗑️, orientado a objetos 🧱, imperativo ✍️, funcional 📐 y por eventos 🔔.",
+    "triggers": ["avanzado 💡", "técnico 🔬", "completo 📚"]
+  },
+  {
+    "id": "ANDR002-11",
+    "name": "ANDR002-11",
+    "image": "img/ANDR002-11.jpg",
+    "probability": 0.01,
+    "rarity": "dorada oscura",
+    "group": "ANDR002",
+    "text": ".NET: Mucho Más que un Nombre 🧱🌈\n.NET no es solo un framework… ¡es TODO un ecosistema! 🚀 Ayuda al código, al programador y al desarrollo completo 👨‍💻👩‍💻.",
+    "triggers": ["entorno 🌎", "soporte 💁", "base sólida 🧱"]
+  },
+  {
+    "id": "ANDR002-12",
+    "name": "ANDR002-12",
+    "image": "img/ANDR002-12.jpg",
+    "probability": 0.008,
+    "rarity": "prismatica",
+    "group": "ANDR002",
+    "text": "Base Class Library 📦🎯\n¡No reinventes la rueda! Usa la BCL para tareas como abrir archivos 📂 o sacar raíces cuadradas ➗.",
+    "triggers": ["reutilización 🔁", "herramientas 🛠️", "productividad 📈"]
+  },
+  {
+    "id": "ANDR002-13",
+    "name": "ANDR002-13",
+    "image": "img/ANDR002-13.jpg",
+    "probability": 0.005,
+    "rarity": "mistica",
+    "group": "ANDR002",
+    "text": "¡SDK al Rescate! 🧰🦸\nEl SDK de .NET hace tu vida más fácil 😌: compilar, depurar, probar… ¡todo desde un solo lugar! 💼",
+    "triggers": ["desarrollo 👨‍💻", "herramientas 🛠️", "facilidad 😎"]
+  },
+  {
+    "id": "ANDR002-14",
+    "name": "ANDR002-14",
+    "image": "img/ANDR002-14.jpg",
+    "probability": 0.004,
+    "rarity": "infernal",
+    "group": "ANDR002",
+    "text": "¡CLR: El Corazón de .NET ❤️⚙️\nEl Common Language Runtime (CLR) ejecuta tu código 🏃, lo protege 🔐 y lo optimiza 🧠.",
+    "triggers": ["ejecución 🔄", "seguridad 🔒", "rendimiento 🚀"]
+  },
+  {
+    "id": "ANDR002-15",
+    "name": "ANDR002-15",
+    "image": "img/ANDR002-15.jpg",
+    "probability": 0.0035,
+    "rarity": "explosiva",
+    "group": "ANDR002",
+    "text": "¡IL: El Idioma Intermedio! 🗣️🧩\nC# se traduce a IL (Intermediate Language) 📜 antes de ejecutarse. ¡Es como magia entre bastidores! 🎩✨",
+    "triggers": ["IL 📜", "compilación 🧪", "abstracción 🎭"]
+  },
+  {
+    "id": "ANDR002-16",
+    "name": "ANDR002-16",
+    "image": "img/ANDR002-16.jpg",
+    "probability": 0.003,
+    "rarity": "caotica",
+    "group": "ANDR002",
+    "text": "JIT: ¡Corre en el Momento Justo! ⏱️💥\nEl compilador JIT convierte IL a código nativo justo antes de ejecutarlo 🧬. ¡Rápido y listo! 🛠️",
+    "triggers": ["JIT 🚀", "rendimiento ⚡", "compilación en tiempo real ⌛"]
+  },
+  {
+    "id": "ANDR002-17",
+    "name": "ANDR002-17",
+    "image": "img/ANDR002-17.jpg",
+    "probability": 0.0025,
+    "rarity": "arcana",
+    "group": "ANDR002",
+    "text": "¡Lenguajes Unidos! 🤝🌐\nVB.NET, F#, C#... todos pueden vivir juntos en .NET 🏡. ¡Una gran familia feliz de lenguajes! 👨‍👩‍👧‍👦",
+    "triggers": ["multi-lenguaje 🌍", "interoperabilidad 🔁", "unidad 🧩"]
+  },
+  {
+    "id": "ANDR002-18",
+    "name": "ANDR002-18",
+    "image": "img/ANDR002-18.jpg",
+    "probability": 0.002,
+    "rarity": "magnifico",
+    "group": "ANDR002",
+    "text": "¡NuGet: El Cofre del Tesoro! 💎📦\nNuGet es el sistema de paquetes de .NET. Instala librerías fácilmente y comparte las tuyas 🪄.",
+    "triggers": ["paquetes 📦", "dependencias 🔗", "modularidad 🧱"]
+  },
+  {
+    "id": "ANDR002-19",
+    "name": "ANDR002-19",
+    "image": "img/ANDR002-19.jpg",
+    "probability": 0.0015,
+    "rarity": "aureo",
+    "group": "ANDR002",
+    "text": "¡Open Source y Orgulloso! 👐🌍\n.NET es de código abierto 🧑‍💻. ¡Tú también puedes aportar, explorar y mejorar el ecosistema! 🛠️✨",
+    "triggers": ["open source 👐", "comunidad 🤝", "libertad 🎈"]
+  },
+  {
+    "id": "ANDR003-00",
+    "name": "ANDR003-00",
+    "image": "img/ANDR003-00.jpg",
+    "probability": 0.3,
+    "rarity": "comun",
+    "group": "ANDR003",
+    "text": "¡Bienvenido al Mundo de C#! 🌍✨\nC# es un lenguaje mágico 🧙‍♂️ que te permite crear casi cualquier cosa 🎮📱🖥️. Se ejecuta sobre .NET, un ecosistema poderoso que respalda todo 💪.",
+    "triggers": ["lenguaje 💬", ".NET ⚙️", "propósito general 🌐"]
+  },
+  {
+    "id": "ANDR003-01",
+    "name": "ANDR003-01",
+    "image": "img/ANDR003-01.jpg",
+    "probability": 0.2,
+    "rarity": "poco comun",
+    "group": "ANDR003",
+    "text": "¿Qué Es .NET? 🔧🌐\n.NET es como el aire y la tierra para tus programas 🌬️🪵. Incluye entorno de ejecución 🧠, librerías 📚 y herramientas 🧰.",
+    "triggers": ["plataforma 🛠️", "librerías 📦", "ecosistema 🌳"]
+  },
+  {
+    "id": "ANDR003-02",
+    "name": "ANDR003-02",
+    "image": "img/ANDR003-02.jpg",
+    "probability": 0.12,
+    "rarity": "rara",
+    "group": "ANDR003",
+    "text": "¡Programadores = Magos! 🧙‍♀️💻\nLas computadoras son rápidas ⚡ pero tontas 😵. Los programadores las controlan para resolver problemas reales 💡.",
+    "triggers": ["magia ✨", "control 🕹️", "soluciones 💭"]
+  },
+  {
+    "id": "ANDR003-03",
+    "name": "ANDR003-03",
+    "image": "img/ANDR003-03.jpg",
+    "probability": 0.1,
+    "rarity": "super rara",
+    "group": "ANDR003",
+    "text": "Humanos vs Computadoras 🧠🤖\nNo hablamos el mismo idioma 😅. El lenguaje humano es vago 🌀 y el de las computadoras es binario 1️⃣0️⃣. ¡Los lenguajes de programación son el puente! 🌉",
+    "triggers": ["lenguaje 💬", "binario 💾", "traducción 🔄"]
+  },
+  {
+    "id": "ANDR003-04",
+    "name": "ANDR003-04",
+    "image": "img/ANDR003-04.jpg",
+    "probability": 0.06,
+    "rarity": "ultra rara",
+    "group": "ANDR003",
+    "text": "¡C# Para Todo! 🧰🌍\nPuedes crear juegos 🎮, apps móviles 📱, programas de escritorio 🖥️, ¡y más! C# está listo para todo 🔥.",
+    "triggers": ["versatilidad 🎨", "creación 🏗️", "tecnología 📱"]
+  },
+  {
+    "id": "ANDR003-05",
+    "name": "ANDR003-05",
+    "image": "img/ANDR003-05.jpg",
+    "probability": 0.05,
+    "rarity": "legendaria",
+    "group": "ANDR003",
+    "text": "¿Un Sistema Operativo en C#? 😮🖥️\nNo es lo ideal, pero ¡se ha hecho! C# no es solo para apps simples 💡.",
+    "triggers": ["potencia 💪", "límites 🚫", "flexibilidad 🧠"]
+  },
+  {
+    "id": "ANDR003-06",
+    "name": "ANDR003-06",
+    "image": "img/ANDR003-06.jpg",
+    "probability": 0.04,
+    "rarity": "epica",
+    "group": "ANDR003",
+    "text": "Poder + Simplicidad ⚖️💻\nC# encuentra el equilibrio perfecto entre tener poder y ser fácil de usar 😌. ¡Ni muy rígido ni muy peligroso! 🧘",
+    "triggers": ["balance ⚖️", "control 🎛️", "seguridad 🔒"]
+  },
+  {
+    "id": "ANDR003-07",
+    "name": "ANDR003-07",
+    "image": "img/ANDR003-07.jpg",
+    "probability": 0.03,
+    "rarity": "secreta",
+    "group": "ANDR003",
+    "text": "¡Lenguaje Vivo! 🧬🆕\nC# evoluciona con el tiempo 🧓➡️🧑. ¡Ya va por la versión 10.0 y sigue mejorando! 🔁",
+    "triggers": ["actualización 🔄", "moderno 🕶️", "evolución 🧬"]
+  },
+  {
+    "id": "ANDR003-08",
+    "name": "ANDR003-08",
+    "image": "img/ANDR003-08.jpg",
+    "probability": 0.025,
+    "rarity": "alternativa",
+    "group": "ANDR003",
+    "text": "Familiares Famosos 👨‍👦💻\nSi sabes C, C++ o Java, ¡C# será pan comido! 🍞 Y luego esos también serán más fáciles 😎.",
+    "triggers": ["familiaridad 👨‍👧", "comparación 🆚", "aprendizaje 📈"]
+  },
+  {
+    "id": "ANDR003-09",
+    "name": "ANDR003-09",
+    "image": "img/ANDR003-09.jpg",
+    "probability": 0.02,
+    "rarity": "premium",
+    "group": "ANDR003",
+    "text": "¡Corre Donde Sea! 🌐🏃\nC# funciona en Windows 🪟, Linux 🐧, macOS 🍎, iOS 📱 y Android 🤖. ¡Código libre por el mundo! 🌍",
+    "triggers": ["multiplataforma 🚀", "compatibilidad 🖥️", "portabilidad 🧳"]
+  },
+  {
+    "id": "ANDR003-10",
+    "name": "ANDR003-10",
+    "image": "img/ANDR003-10.jpg",
+    "probability": 0.015,
+    "rarity": "especial",
+    "group": "ANDR003",
+    "text": "¿Eres Pro? Este Es Para Ti 🧓🧑‍💻\nC# es: tipado estáticamente 📌, recolector de basura 🗑️, orientado a objetos 🧱, imperativo ✍️, funcional 📐 y por eventos 🔔.",
+    "triggers": ["avanzado 💡", "técnico 🔬", "completo 📚"]
+  },
+  {
+    "id": "ANDR003-11",
+    "name": "ANDR003-11",
+    "image": "img/ANDR003-11.jpg",
+    "probability": 0.01,
+    "rarity": "dorada oscura",
+    "group": "ANDR003",
+    "text": ".NET: Mucho Más que un Nombre 🧱🌈\n.NET no es solo un framework… ¡es TODO un ecosistema! 🚀 Ayuda al código, al programador y al desarrollo completo 👨‍💻👩‍💻.",
+    "triggers": ["entorno 🌎", "soporte 💁", "base sólida 🧱"]
+  },
+  {
+    "id": "ANDR003-12",
+    "name": "ANDR003-12",
+    "image": "img/ANDR003-12.jpg",
+    "probability": 0.008,
+    "rarity": "prismatica",
+    "group": "ANDR003",
+    "text": "Base Class Library 📦🎯\n¡No reinventes la rueda! Usa la BCL para tareas como abrir archivos 📂 o sacar raíces cuadradas ➗.",
+    "triggers": ["reutilización 🔁", "herramientas 🛠️", "productividad 📈"]
+  },
+  {
+    "id": "ANDR003-13",
+    "name": "ANDR003-13",
+    "image": "img/ANDR003-13.jpg",
+    "probability": 0.005,
+    "rarity": "mistica",
+    "group": "ANDR003",
+    "text": "¡SDK al Rescate! 🧰🦸\nEl SDK de .NET hace tu vida más fácil 😌: compilar, depurar, probar… ¡todo desde un solo lugar! 💼",
+    "triggers": ["desarrollo 👨‍💻", "herramientas 🛠️", "facilidad 😎"]
+  },
+  {
+    "id": "ANDR003-14",
+    "name": "ANDR003-14",
+    "image": "img/ANDR003-14.jpg",
+    "probability": 0.004,
+    "rarity": "infernal",
+    "group": "ANDR003",
+    "text": "¡CLR: El Corazón de .NET ❤️⚙️\nEl Common Language Runtime (CLR) ejecuta tu código 🏃, lo protege 🔐 y lo optimiza 🧠.",
+    "triggers": ["ejecución 🔄", "seguridad 🔒", "rendimiento 🚀"]
+  },
+  {
+    "id": "ANDR003-15",
+    "name": "ANDR003-15",
+    "image": "img/ANDR003-15.jpg",
+    "probability": 0.0035,
+    "rarity": "explosiva",
+    "group": "ANDR003",
+    "text": "¡IL: El Idioma Intermedio! 🗣️🧩\nC# se traduce a IL (Intermediate Language) 📜 antes de ejecutarse. ¡Es como magia entre bastidores! 🎩✨",
+    "triggers": ["IL 📜", "compilación 🧪", "abstracción 🎭"]
+  },
+  {
+    "id": "ANDR003-16",
+    "name": "ANDR003-16",
+    "image": "img/ANDR003-16.jpg",
+    "probability": 0.003,
+    "rarity": "caotica",
+    "group": "ANDR003",
+    "text": "JIT: ¡Corre en el Momento Justo! ⏱️💥\nEl compilador JIT convierte IL a código nativo justo antes de ejecutarlo 🧬. ¡Rápido y listo! 🛠️",
+    "triggers": ["JIT 🚀", "rendimiento ⚡", "compilación en tiempo real ⌛"]
+  },
+  {
+    "id": "ANDR003-17",
+    "name": "ANDR003-17",
+    "image": "img/ANDR003-17.jpg",
+    "probability": 0.0025,
+    "rarity": "arcana",
+    "group": "ANDR003",
+    "text": "¡Lenguajes Unidos! 🤝🌐\nVB.NET, F#, C#... todos pueden vivir juntos en .NET 🏡. ¡Una gran familia feliz de lenguajes! 👨‍👩‍👧‍👦",
+    "triggers": ["multi-lenguaje 🌍", "interoperabilidad 🔁", "unidad 🧩"]
+  },
+  {
+    "id": "ANDR003-18",
+    "name": "ANDR003-18",
+    "image": "img/ANDR003-18.jpg",
+    "probability": 0.002,
+    "rarity": "magnifico",
+    "group": "ANDR003",
+    "text": "¡NuGet: El Cofre del Tesoro! 💎📦\nNuGet es el sistema de paquetes de .NET. Instala librerías fácilmente y comparte las tuyas 🪄.",
+    "triggers": ["paquetes 📦", "dependencias 🔗", "modularidad 🧱"]
+  },
+  {
+    "id": "ANDR003-19",
+    "name": "ANDR003-19",
+    "image": "img/ANDR003-19.jpg",
+    "probability": 0.0015,
+    "rarity": "aureo",
+    "group": "ANDR003",
+    "text": "¡Open Source y Orgulloso! 👐🌍\n.NET es de código abierto 🧑‍💻. ¡Tú también puedes aportar, explorar y mejorar el ecosistema! 🛠️✨",
+    "triggers": ["open source 👐", "comunidad 🤝", "libertad 🎈"]
+  },
+  {
+    "id": "ANDR004-00",
+    "name": "ANDR004-00",
+    "image": "img/ANDR004-00.jpg",
+    "probability": 0.3,
+    "rarity": "comun",
+    "group": "ANDR004",
+    "text": "¡Bienvenido al Mundo de C#! 🌍✨\nC# es un lenguaje mágico 🧙‍♂️ que te permite crear casi cualquier cosa 🎮📱🖥️. Se ejecuta sobre .NET, un ecosistema poderoso que respalda todo 💪.",
+    "triggers": ["lenguaje 💬", ".NET ⚙️", "propósito general 🌐"]
+  },
+  {
+    "id": "ANDR004-01",
+    "name": "ANDR004-01",
+    "image": "img/ANDR004-01.jpg",
+    "probability": 0.2,
+    "rarity": "poco comun",
+    "group": "ANDR004",
+    "text": "¿Qué Es .NET? 🔧🌐\n.NET es como el aire y la tierra para tus programas 🌬️🪵. Incluye entorno de ejecución 🧠, librerías 📚 y herramientas 🧰.",
+    "triggers": ["plataforma 🛠️", "librerías 📦", "ecosistema 🌳"]
+  },
+  {
+    "id": "ANDR004-02",
+    "name": "ANDR004-02",
+    "image": "img/ANDR004-02.jpg",
+    "probability": 0.12,
+    "rarity": "rara",
+    "group": "ANDR004",
+    "text": "¡Programadores = Magos! 🧙‍♀️💻\nLas computadoras son rápidas ⚡ pero tontas 😵. Los programadores las controlan para resolver problemas reales 💡.",
+    "triggers": ["magia ✨", "control 🕹️", "soluciones 💭"]
+  },
+  {
+    "id": "ANDR004-03",
+    "name": "ANDR004-03",
+    "image": "img/ANDR004-03.jpg",
+    "probability": 0.1,
+    "rarity": "super rara",
+    "group": "ANDR004",
+    "text": "Humanos vs Computadoras 🧠🤖\nNo hablamos el mismo idioma 😅. El lenguaje humano es vago 🌀 y el de las computadoras es binario 1️⃣0️⃣. ¡Los lenguajes de programación son el puente! 🌉",
+    "triggers": ["lenguaje 💬", "binario 💾", "traducción 🔄"]
+  },
+  {
+    "id": "ANDR004-04",
+    "name": "ANDR004-04",
+    "image": "img/ANDR004-04.jpg",
+    "probability": 0.06,
+    "rarity": "ultra rara",
+    "group": "ANDR004",
+    "text": "¡C# Para Todo! 🧰🌍\nPuedes crear juegos 🎮, apps móviles 📱, programas de escritorio 🖥️, ¡y más! C# está listo para todo 🔥.",
+    "triggers": ["versatilidad 🎨", "creación 🏗️", "tecnología 📱"]
+  },
+  {
+    "id": "ANDR004-05",
+    "name": "ANDR004-05",
+    "image": "img/ANDR004-05.jpg",
+    "probability": 0.05,
+    "rarity": "legendaria",
+    "group": "ANDR004",
+    "text": "¿Un Sistema Operativo en C#? 😮🖥️\nNo es lo ideal, pero ¡se ha hecho! C# no es solo para apps simples 💡.",
+    "triggers": ["potencia 💪", "límites 🚫", "flexibilidad 🧠"]
+  },
+  {
+    "id": "ANDR004-06",
+    "name": "ANDR004-06",
+    "image": "img/ANDR004-06.jpg",
+    "probability": 0.04,
+    "rarity": "epica",
+    "group": "ANDR004",
+    "text": "Poder + Simplicidad ⚖️💻\nC# encuentra el equilibrio perfecto entre tener poder y ser fácil de usar 😌. ¡Ni muy rígido ni muy peligroso! 🧘",
+    "triggers": ["balance ⚖️", "control 🎛️", "seguridad 🔒"]
+  },
+  {
+    "id": "ANDR004-07",
+    "name": "ANDR004-07",
+    "image": "img/ANDR004-07.jpg",
+    "probability": 0.03,
+    "rarity": "secreta",
+    "group": "ANDR004",
+    "text": "¡Lenguaje Vivo! 🧬🆕\nC# evoluciona con el tiempo 🧓➡️🧑. ¡Ya va por la versión 10.0 y sigue mejorando! 🔁",
+    "triggers": ["actualización 🔄", "moderno 🕶️", "evolución 🧬"]
+  },
+  {
+    "id": "ANDR004-08",
+    "name": "ANDR004-08",
+    "image": "img/ANDR004-08.jpg",
+    "probability": 0.025,
+    "rarity": "alternativa",
+    "group": "ANDR004",
+    "text": "Familiares Famosos 👨‍👦💻\nSi sabes C, C++ o Java, ¡C# será pan comido! 🍞 Y luego esos también serán más fáciles 😎.",
+    "triggers": ["familiaridad 👨‍👧", "comparación 🆚", "aprendizaje 📈"]
+  },
+  {
+    "id": "ANDR004-09",
+    "name": "ANDR004-09",
+    "image": "img/ANDR004-09.jpg",
+    "probability": 0.02,
+    "rarity": "premium",
+    "group": "ANDR004",
+    "text": "¡Corre Donde Sea! 🌐🏃\nC# funciona en Windows 🪟, Linux 🐧, macOS 🍎, iOS 📱 y Android 🤖. ¡Código libre por el mundo! 🌍",
+    "triggers": ["multiplataforma 🚀", "compatibilidad 🖥️", "portabilidad 🧳"]
+  },
+  {
+    "id": "ANDR004-10",
+    "name": "ANDR004-10",
+    "image": "img/ANDR004-10.jpg",
+    "probability": 0.015,
+    "rarity": "especial",
+    "group": "ANDR004",
+    "text": "¿Eres Pro? Este Es Para Ti 🧓🧑‍💻\nC# es: tipado estáticamente 📌, recolector de basura 🗑️, orientado a objetos 🧱, imperativo ✍️, funcional 📐 y por eventos 🔔.",
+    "triggers": ["avanzado 💡", "técnico 🔬", "completo 📚"]
+  },
+  {
+    "id": "ANDR004-11",
+    "name": "ANDR004-11",
+    "image": "img/ANDR004-11.jpg",
+    "probability": 0.01,
+    "rarity": "dorada oscura",
+    "group": "ANDR004",
+    "text": ".NET: Mucho Más que un Nombre 🧱🌈\n.NET no es solo un framework… ¡es TODO un ecosistema! 🚀 Ayuda al código, al programador y al desarrollo completo 👨‍💻👩‍💻.",
+    "triggers": ["entorno 🌎", "soporte 💁", "base sólida 🧱"]
+  },
+  {
+    "id": "ANDR004-12",
+    "name": "ANDR004-12",
+    "image": "img/ANDR004-12.jpg",
+    "probability": 0.008,
+    "rarity": "prismatica",
+    "group": "ANDR004",
+    "text": "Base Class Library 📦🎯\n¡No reinventes la rueda! Usa la BCL para tareas como abrir archivos 📂 o sacar raíces cuadradas ➗.",
+    "triggers": ["reutilización 🔁", "herramientas 🛠️", "productividad 📈"]
+  },
+  {
+    "id": "ANDR004-13",
+    "name": "ANDR004-13",
+    "image": "img/ANDR004-13.jpg",
+    "probability": 0.005,
+    "rarity": "mistica",
+    "group": "ANDR004",
+    "text": "¡SDK al Rescate! 🧰🦸\nEl SDK de .NET hace tu vida más fácil 😌: compilar, depurar, probar… ¡todo desde un solo lugar! 💼",
+    "triggers": ["desarrollo 👨‍💻", "herramientas 🛠️", "facilidad 😎"]
+  },
+  {
+    "id": "ANDR004-14",
+    "name": "ANDR004-14",
+    "image": "img/ANDR004-14.jpg",
+    "probability": 0.004,
+    "rarity": "infernal",
+    "group": "ANDR004",
+    "text": "¡CLR: El Corazón de .NET ❤️⚙️\nEl Common Language Runtime (CLR) ejecuta tu código 🏃, lo protege 🔐 y lo optimiza 🧠.",
+    "triggers": ["ejecución 🔄", "seguridad 🔒", "rendimiento 🚀"]
+  },
+  {
+    "id": "ANDR004-15",
+    "name": "ANDR004-15",
+    "image": "img/ANDR004-15.jpg",
+    "probability": 0.0035,
+    "rarity": "explosiva",
+    "group": "ANDR004",
+    "text": "¡IL: El Idioma Intermedio! 🗣️🧩\nC# se traduce a IL (Intermediate Language) 📜 antes de ejecutarse. ¡Es como magia entre bastidores! 🎩✨",
+    "triggers": ["IL 📜", "compilación 🧪", "abstracción 🎭"]
+  },
+  {
+    "id": "ANDR004-16",
+    "name": "ANDR004-16",
+    "image": "img/ANDR004-16.jpg",
+    "probability": 0.003,
+    "rarity": "caotica",
+    "group": "ANDR004",
+    "text": "JIT: ¡Corre en el Momento Justo! ⏱️💥\nEl compilador JIT convierte IL a código nativo justo antes de ejecutarlo 🧬. ¡Rápido y listo! 🛠️",
+    "triggers": ["JIT 🚀", "rendimiento ⚡", "compilación en tiempo real ⌛"]
+  },
+  {
+    "id": "ANDR004-17",
+    "name": "ANDR004-17",
+    "image": "img/ANDR004-17.jpg",
+    "probability": 0.0025,
+    "rarity": "arcana",
+    "group": "ANDR004",
+    "text": "¡Lenguajes Unidos! 🤝🌐\nVB.NET, F#, C#... todos pueden vivir juntos en .NET 🏡. ¡Una gran familia feliz de lenguajes! 👨‍👩‍👧‍👦",
+    "triggers": ["multi-lenguaje 🌍", "interoperabilidad 🔁", "unidad 🧩"]
+  },
+  {
+    "id": "ANDR004-18",
+    "name": "ANDR004-18",
+    "image": "img/ANDR004-18.jpg",
+    "probability": 0.002,
+    "rarity": "magnifico",
+    "group": "ANDR004",
+    "text": "¡NuGet: El Cofre del Tesoro! 💎📦\nNuGet es el sistema de paquetes de .NET. Instala librerías fácilmente y comparte las tuyas 🪄.",
+    "triggers": ["paquetes 📦", "dependencias 🔗", "modularidad 🧱"]
+  },
+  {
+    "id": "ANDR004-19",
+    "name": "ANDR004-19",
+    "image": "img/ANDR004-19.jpg",
+    "probability": 0.0015,
+    "rarity": "aureo",
+    "group": "ANDR004",
+    "text": "¡Open Source y Orgulloso! 👐🌍\n.NET es de código abierto 🧑‍💻. ¡Tú también puedes aportar, explorar y mejorar el ecosistema! 🛠️✨",
+    "triggers": ["open source 👐", "comunidad 🤝", "libertad 🎈"]
+  },
+  {
+    "id": "ANDR005-00",
+    "name": "ANDR005-00",
+    "image": "img/ANDR005-00.jpg",
+    "probability": 0.3,
+    "rarity": "comun",
+    "group": "ANDR005",
+    "text": "¡Bienvenido al Mundo de C#! 🌍✨\nC# es un lenguaje mágico 🧙‍♂️ que te permite crear casi cualquier cosa 🎮📱🖥️. Se ejecuta sobre .NET, un ecosistema poderoso que respalda todo 💪.",
+    "triggers": ["lenguaje 💬", ".NET ⚙️", "propósito general 🌐"]
+  },
+  {
+    "id": "ANDR005-01",
+    "name": "ANDR005-01",
+    "image": "img/ANDR005-01.jpg",
+    "probability": 0.2,
+    "rarity": "poco comun",
+    "group": "ANDR005",
+    "text": "¿Qué Es .NET? 🔧🌐\n.NET es como el aire y la tierra para tus programas 🌬️🪵. Incluye entorno de ejecución 🧠, librerías 📚 y herramientas 🧰.",
+    "triggers": ["plataforma 🛠️", "librerías 📦", "ecosistema 🌳"]
+  },
+  {
+    "id": "ANDR005-02",
+    "name": "ANDR005-02",
+    "image": "img/ANDR005-02.jpg",
+    "probability": 0.12,
+    "rarity": "rara",
+    "group": "ANDR005",
+    "text": "¡Programadores = Magos! 🧙‍♀️💻\nLas computadoras son rápidas ⚡ pero tontas 😵. Los programadores las controlan para resolver problemas reales 💡.",
+    "triggers": ["magia ✨", "control 🕹️", "soluciones 💭"]
+  },
+  {
+    "id": "ANDR005-03",
+    "name": "ANDR005-03",
+    "image": "img/ANDR005-03.jpg",
+    "probability": 0.1,
+    "rarity": "super rara",
+    "group": "ANDR005",
+    "text": "Humanos vs Computadoras 🧠🤖\nNo hablamos el mismo idioma 😅. El lenguaje humano es vago 🌀 y el de las computadoras es binario 1️⃣0️⃣. ¡Los lenguajes de programación son el puente! 🌉",
+    "triggers": ["lenguaje 💬", "binario 💾", "traducción 🔄"]
+  },
+  {
+    "id": "ANDR005-04",
+    "name": "ANDR005-04",
+    "image": "img/ANDR005-04.jpg",
+    "probability": 0.06,
+    "rarity": "ultra rara",
+    "group": "ANDR005",
+    "text": "¡C# Para Todo! 🧰🌍\nPuedes crear juegos 🎮, apps móviles 📱, programas de escritorio 🖥️, ¡y más! C# está listo para todo 🔥.",
+    "triggers": ["versatilidad 🎨", "creación 🏗️", "tecnología 📱"]
+  },
+  {
+    "id": "ANDR005-05",
+    "name": "ANDR005-05",
+    "image": "img/ANDR005-05.jpg",
+    "probability": 0.05,
+    "rarity": "legendaria",
+    "group": "ANDR005",
+    "text": "¿Un Sistema Operativo en C#? 😮🖥️\nNo es lo ideal, pero ¡se ha hecho! C# no es solo para apps simples 💡.",
+    "triggers": ["potencia 💪", "límites 🚫", "flexibilidad 🧠"]
+  },
+  {
+    "id": "ANDR005-06",
+    "name": "ANDR005-06",
+    "image": "img/ANDR005-06.jpg",
+    "probability": 0.04,
+    "rarity": "epica",
+    "group": "ANDR005",
+    "text": "Poder + Simplicidad ⚖️💻\nC# encuentra el equilibrio perfecto entre tener poder y ser fácil de usar 😌. ¡Ni muy rígido ni muy peligroso! 🧘",
+    "triggers": ["balance ⚖️", "control 🎛️", "seguridad 🔒"]
+  },
+  {
+    "id": "ANDR005-07",
+    "name": "ANDR005-07",
+    "image": "img/ANDR005-07.jpg",
+    "probability": 0.03,
+    "rarity": "secreta",
+    "group": "ANDR005",
+    "text": "¡Lenguaje Vivo! 🧬🆕\nC# evoluciona con el tiempo 🧓➡️🧑. ¡Ya va por la versión 10.0 y sigue mejorando! 🔁",
+    "triggers": ["actualización 🔄", "moderno 🕶️", "evolución 🧬"]
+  },
+  {
+    "id": "ANDR005-08",
+    "name": "ANDR005-08",
+    "image": "img/ANDR005-08.jpg",
+    "probability": 0.025,
+    "rarity": "alternativa",
+    "group": "ANDR005",
+    "text": "Familiares Famosos 👨‍👦💻\nSi sabes C, C++ o Java, ¡C# será pan comido! 🍞 Y luego esos también serán más fáciles 😎.",
+    "triggers": ["familiaridad 👨‍👧", "comparación 🆚", "aprendizaje 📈"]
+  },
+  {
+    "id": "ANDR005-09",
+    "name": "ANDR005-09",
+    "image": "img/ANDR005-09.jpg",
+    "probability": 0.02,
+    "rarity": "premium",
+    "group": "ANDR005",
+    "text": "¡Corre Donde Sea! 🌐🏃\nC# funciona en Windows 🪟, Linux 🐧, macOS 🍎, iOS 📱 y Android 🤖. ¡Código libre por el mundo! 🌍",
+    "triggers": ["multiplataforma 🚀", "compatibilidad 🖥️", "portabilidad 🧳"]
+  },
+  {
+    "id": "ANDR005-10",
+    "name": "ANDR005-10",
+    "image": "img/ANDR005-10.jpg",
+    "probability": 0.015,
+    "rarity": "especial",
+    "group": "ANDR005",
+    "text": "¿Eres Pro? Este Es Para Ti 🧓🧑‍💻\nC# es: tipado estáticamente 📌, recolector de basura 🗑️, orientado a objetos 🧱, imperativo ✍️, funcional 📐 y por eventos 🔔.",
+    "triggers": ["avanzado 💡", "técnico 🔬", "completo 📚"]
+  },
+  {
+    "id": "ANDR005-11",
+    "name": "ANDR005-11",
+    "image": "img/ANDR005-11.jpg",
+    "probability": 0.01,
+    "rarity": "dorada oscura",
+    "group": "ANDR005",
+    "text": ".NET: Mucho Más que un Nombre 🧱🌈\n.NET no es solo un framework… ¡es TODO un ecosistema! 🚀 Ayuda al código, al programador y al desarrollo completo 👨‍💻👩‍💻.",
+    "triggers": ["entorno 🌎", "soporte 💁", "base sólida 🧱"]
+  },
+  {
+    "id": "ANDR005-12",
+    "name": "ANDR005-12",
+    "image": "img/ANDR005-12.jpg",
+    "probability": 0.008,
+    "rarity": "prismatica",
+    "group": "ANDR005",
+    "text": "Base Class Library 📦🎯\n¡No reinventes la rueda! Usa la BCL para tareas como abrir archivos 📂 o sacar raíces cuadradas ➗.",
+    "triggers": ["reutilización 🔁", "herramientas 🛠️", "productividad 📈"]
+  },
+  {
+    "id": "ANDR005-13",
+    "name": "ANDR005-13",
+    "image": "img/ANDR005-13.jpg",
+    "probability": 0.005,
+    "rarity": "mistica",
+    "group": "ANDR005",
+    "text": "¡SDK al Rescate! 🧰🦸\nEl SDK de .NET hace tu vida más fácil 😌: compilar, depurar, probar… ¡todo desde un solo lugar! 💼",
+    "triggers": ["desarrollo 👨‍💻", "herramientas 🛠️", "facilidad 😎"]
+  },
+  {
+    "id": "ANDR005-14",
+    "name": "ANDR005-14",
+    "image": "img/ANDR005-14.jpg",
+    "probability": 0.004,
+    "rarity": "infernal",
+    "group": "ANDR005",
+    "text": "¡CLR: El Corazón de .NET ❤️⚙️\nEl Common Language Runtime (CLR) ejecuta tu código 🏃, lo protege 🔐 y lo optimiza 🧠.",
+    "triggers": ["ejecución 🔄", "seguridad 🔒", "rendimiento 🚀"]
+  },
+  {
+    "id": "ANDR005-15",
+    "name": "ANDR005-15",
+    "image": "img/ANDR005-15.jpg",
+    "probability": 0.0035,
+    "rarity": "explosiva",
+    "group": "ANDR005",
+    "text": "¡IL: El Idioma Intermedio! 🗣️🧩\nC# se traduce a IL (Intermediate Language) 📜 antes de ejecutarse. ¡Es como magia entre bastidores! 🎩✨",
+    "triggers": ["IL 📜", "compilación 🧪", "abstracción 🎭"]
+  },
+  {
+    "id": "ANDR005-16",
+    "name": "ANDR005-16",
+    "image": "img/ANDR005-16.jpg",
+    "probability": 0.003,
+    "rarity": "caotica",
+    "group": "ANDR005",
+    "text": "JIT: ¡Corre en el Momento Justo! ⏱️💥\nEl compilador JIT convierte IL a código nativo justo antes de ejecutarlo 🧬. ¡Rápido y listo! 🛠️",
+    "triggers": ["JIT 🚀", "rendimiento ⚡", "compilación en tiempo real ⌛"]
+  },
+  {
+    "id": "ANDR005-17",
+    "name": "ANDR005-17",
+    "image": "img/ANDR005-17.jpg",
+    "probability": 0.0025,
+    "rarity": "arcana",
+    "group": "ANDR005",
+    "text": "¡Lenguajes Unidos! 🤝🌐\nVB.NET, F#, C#... todos pueden vivir juntos en .NET 🏡. ¡Una gran familia feliz de lenguajes! 👨‍👩‍👧‍👦",
+    "triggers": ["multi-lenguaje 🌍", "interoperabilidad 🔁", "unidad 🧩"]
+  },
+  {
+    "id": "ANDR005-18",
+    "name": "ANDR005-18",
+    "image": "img/ANDR005-18.jpg",
+    "probability": 0.002,
+    "rarity": "magnifico",
+    "group": "ANDR005",
+    "text": "¡NuGet: El Cofre del Tesoro! 💎📦\nNuGet es el sistema de paquetes de .NET. Instala librerías fácilmente y comparte las tuyas 🪄.",
+    "triggers": ["paquetes 📦", "dependencias 🔗", "modularidad 🧱"]
+  },
+  {
+    "id": "ANDR005-19",
+    "name": "ANDR005-19",
+    "image": "img/ANDR005-19.jpg",
+    "probability": 0.0015,
+    "rarity": "aureo",
+    "group": "ANDR005",
+    "text": "¡Open Source y Orgulloso! 👐🌍\n.NET es de código abierto 🧑‍💻. ¡Tú también puedes aportar, explorar y mejorar el ecosistema! 🛠️✨",
+    "triggers": ["open source 👐", "comunidad 🤝", "libertad 🎈"]
+  },
+  {
+    "id": "ANDR006-00",
+    "name": "ANDR006-00",
+    "image": "img/ANDR006-00.jpg",
+    "probability": 0.3,
+    "rarity": "comun",
+    "group": "ANDR006",
+    "text": "¡Bienvenido al Mundo de C#! 🌍✨\nC# es un lenguaje mágico 🧙‍♂️ que te permite crear casi cualquier cosa 🎮📱🖥️. Se ejecuta sobre .NET, un ecosistema poderoso que respalda todo 💪.",
+    "triggers": ["lenguaje 💬", ".NET ⚙️", "propósito general 🌐"]
+  },
+  {
+    "id": "ANDR006-01",
+    "name": "ANDR006-01",
+    "image": "img/ANDR006-01.jpg",
+    "probability": 0.2,
+    "rarity": "poco comun",
+    "group": "ANDR006",
+    "text": "¿Qué Es .NET? 🔧🌐\n.NET es como el aire y la tierra para tus programas 🌬️🪵. Incluye entorno de ejecución 🧠, librerías 📚 y herramientas 🧰.",
+    "triggers": ["plataforma 🛠️", "librerías 📦", "ecosistema 🌳"]
+  },
+  {
+    "id": "ANDR006-02",
+    "name": "ANDR006-02",
+    "image": "img/ANDR006-02.jpg",
+    "probability": 0.12,
+    "rarity": "rara",
+    "group": "ANDR006",
+    "text": "¡Programadores = Magos! 🧙‍♀️💻\nLas computadoras son rápidas ⚡ pero tontas 😵. Los programadores las controlan para resolver problemas reales 💡.",
+    "triggers": ["magia ✨", "control 🕹️", "soluciones 💭"]
+  },
+  {
+    "id": "ANDR006-03",
+    "name": "ANDR006-03",
+    "image": "img/ANDR006-03.jpg",
+    "probability": 0.1,
+    "rarity": "super rara",
+    "group": "ANDR006",
+    "text": "Humanos vs Computadoras 🧠🤖\nNo hablamos el mismo idioma 😅. El lenguaje humano es vago 🌀 y el de las computadoras es binario 1️⃣0️⃣. ¡Los lenguajes de programación son el puente! 🌉",
+    "triggers": ["lenguaje 💬", "binario 💾", "traducción 🔄"]
+  },
+  {
+    "id": "ANDR006-04",
+    "name": "ANDR006-04",
+    "image": "img/ANDR006-04.jpg",
+    "probability": 0.06,
+    "rarity": "ultra rara",
+    "group": "ANDR006",
+    "text": "¡C# Para Todo! 🧰🌍\nPuedes crear juegos 🎮, apps móviles 📱, programas de escritorio 🖥️, ¡y más! C# está listo para todo 🔥.",
+    "triggers": ["versatilidad 🎨", "creación 🏗️", "tecnología 📱"]
+  },
+  {
+    "id": "ANDR006-05",
+    "name": "ANDR006-05",
+    "image": "img/ANDR006-05.jpg",
+    "probability": 0.05,
+    "rarity": "legendaria",
+    "group": "ANDR006",
+    "text": "¿Un Sistema Operativo en C#? 😮🖥️\nNo es lo ideal, pero ¡se ha hecho! C# no es solo para apps simples 💡.",
+    "triggers": ["potencia 💪", "límites 🚫", "flexibilidad 🧠"]
+  },
+  {
+    "id": "ANDR006-06",
+    "name": "ANDR006-06",
+    "image": "img/ANDR006-06.jpg",
+    "probability": 0.04,
+    "rarity": "epica",
+    "group": "ANDR006",
+    "text": "Poder + Simplicidad ⚖️💻\nC# encuentra el equilibrio perfecto entre tener poder y ser fácil de usar 😌. ¡Ni muy rígido ni muy peligroso! 🧘",
+    "triggers": ["balance ⚖️", "control 🎛️", "seguridad 🔒"]
+  },
+  {
+    "id": "ANDR006-07",
+    "name": "ANDR006-07",
+    "image": "img/ANDR006-07.jpg",
+    "probability": 0.03,
+    "rarity": "secreta",
+    "group": "ANDR006",
+    "text": "¡Lenguaje Vivo! 🧬🆕\nC# evoluciona con el tiempo 🧓➡️🧑. ¡Ya va por la versión 10.0 y sigue mejorando! 🔁",
+    "triggers": ["actualización 🔄", "moderno 🕶️", "evolución 🧬"]
+  },
+  {
+    "id": "ANDR006-08",
+    "name": "ANDR006-08",
+    "image": "img/ANDR006-08.jpg",
+    "probability": 0.025,
+    "rarity": "alternativa",
+    "group": "ANDR006",
+    "text": "Familiares Famosos 👨‍👦💻\nSi sabes C, C++ o Java, ¡C# será pan comido! 🍞 Y luego esos también serán más fáciles 😎.",
+    "triggers": ["familiaridad 👨‍👧", "comparación 🆚", "aprendizaje 📈"]
+  },
+  {
+    "id": "ANDR006-09",
+    "name": "ANDR006-09",
+    "image": "img/ANDR006-09.jpg",
+    "probability": 0.02,
+    "rarity": "premium",
+    "group": "ANDR006",
+    "text": "¡Corre Donde Sea! 🌐🏃\nC# funciona en Windows 🪟, Linux 🐧, macOS 🍎, iOS 📱 y Android 🤖. ¡Código libre por el mundo! 🌍",
+    "triggers": ["multiplataforma 🚀", "compatibilidad 🖥️", "portabilidad 🧳"]
+  },
+  {
+    "id": "ANDR006-10",
+    "name": "ANDR006-10",
+    "image": "img/ANDR006-10.jpg",
+    "probability": 0.015,
+    "rarity": "especial",
+    "group": "ANDR006",
+    "text": "¿Eres Pro? Este Es Para Ti 🧓🧑‍💻\nC# es: tipado estáticamente 📌, recolector de basura 🗑️, orientado a objetos 🧱, imperativo ✍️, funcional 📐 y por eventos 🔔.",
+    "triggers": ["avanzado 💡", "técnico 🔬", "completo 📚"]
+  },
+  {
+    "id": "ANDR006-11",
+    "name": "ANDR006-11",
+    "image": "img/ANDR006-11.jpg",
+    "probability": 0.01,
+    "rarity": "dorada oscura",
+    "group": "ANDR006",
+    "text": ".NET: Mucho Más que un Nombre 🧱🌈\n.NET no es solo un framework… ¡es TODO un ecosistema! 🚀 Ayuda al código, al programador y al desarrollo completo 👨‍💻👩‍💻.",
+    "triggers": ["entorno 🌎", "soporte 💁", "base sólida 🧱"]
+  },
+  {
+    "id": "ANDR006-12",
+    "name": "ANDR006-12",
+    "image": "img/ANDR006-12.jpg",
+    "probability": 0.008,
+    "rarity": "prismatica",
+    "group": "ANDR006",
+    "text": "Base Class Library 📦🎯\n¡No reinventes la rueda! Usa la BCL para tareas como abrir archivos 📂 o sacar raíces cuadradas ➗.",
+    "triggers": ["reutilización 🔁", "herramientas 🛠️", "productividad 📈"]
+  },
+  {
+    "id": "ANDR006-13",
+    "name": "ANDR006-13",
+    "image": "img/ANDR006-13.jpg",
+    "probability": 0.005,
+    "rarity": "mistica",
+    "group": "ANDR006",
+    "text": "¡SDK al Rescate! 🧰🦸\nEl SDK de .NET hace tu vida más fácil 😌: compilar, depurar, probar… ¡todo desde un solo lugar! 💼",
+    "triggers": ["desarrollo 👨‍💻", "herramientas 🛠️", "facilidad 😎"]
+  },
+  {
+    "id": "ANDR006-14",
+    "name": "ANDR006-14",
+    "image": "img/ANDR006-14.jpg",
+    "probability": 0.004,
+    "rarity": "infernal",
+    "group": "ANDR006",
+    "text": "¡CLR: El Corazón de .NET ❤️⚙️\nEl Common Language Runtime (CLR) ejecuta tu código 🏃, lo protege 🔐 y lo optimiza 🧠.",
+    "triggers": ["ejecución 🔄", "seguridad 🔒", "rendimiento 🚀"]
+  },
+  {
+    "id": "ANDR006-15",
+    "name": "ANDR006-15",
+    "image": "img/ANDR006-15.jpg",
+    "probability": 0.0035,
+    "rarity": "explosiva",
+    "group": "ANDR006",
+    "text": "¡IL: El Idioma Intermedio! 🗣️🧩\nC# se traduce a IL (Intermediate Language) 📜 antes de ejecutarse. ¡Es como magia entre bastidores! 🎩✨",
+    "triggers": ["IL 📜", "compilación 🧪", "abstracción 🎭"]
+  },
+  {
+    "id": "ANDR006-16",
+    "name": "ANDR006-16",
+    "image": "img/ANDR006-16.jpg",
+    "probability": 0.003,
+    "rarity": "caotica",
+    "group": "ANDR006",
+    "text": "JIT: ¡Corre en el Momento Justo! ⏱️💥\nEl compilador JIT convierte IL a código nativo justo antes de ejecutarlo 🧬. ¡Rápido y listo! 🛠️",
+    "triggers": ["JIT 🚀", "rendimiento ⚡", "compilación en tiempo real ⌛"]
+  },
+  {
+    "id": "ANDR006-17",
+    "name": "ANDR006-17",
+    "image": "img/ANDR006-17.jpg",
+    "probability": 0.0025,
+    "rarity": "arcana",
+    "group": "ANDR006",
+    "text": "¡Lenguajes Unidos! 🤝🌐\nVB.NET, F#, C#... todos pueden vivir juntos en .NET 🏡. ¡Una gran familia feliz de lenguajes! 👨‍👩‍👧‍👦",
+    "triggers": ["multi-lenguaje 🌍", "interoperabilidad 🔁", "unidad 🧩"]
+  },
+  {
+    "id": "ANDR006-18",
+    "name": "ANDR006-18",
+    "image": "img/ANDR006-18.jpg",
+    "probability": 0.002,
+    "rarity": "magnifico",
+    "group": "ANDR006",
+    "text": "¡NuGet: El Cofre del Tesoro! 💎📦\nNuGet es el sistema de paquetes de .NET. Instala librerías fácilmente y comparte las tuyas 🪄.",
+    "triggers": ["paquetes 📦", "dependencias 🔗", "modularidad 🧱"]
+  },
+  {
+    "id": "ANDR006-19",
+    "name": "ANDR006-19",
+    "image": "img/ANDR006-19.jpg",
+    "probability": 0.0015,
+    "rarity": "aureo",
+    "group": "ANDR006",
+    "text": "¡Open Source y Orgulloso! 👐🌍\n.NET es de código abierto 🧑‍💻. ¡Tú también puedes aportar, explorar y mejorar el ecosistema! 🛠️✨",
+    "triggers": ["open source 👐", "comunidad 🤝", "libertad 🎈"]
+  },
+  {
+    "id": "ANDR007-00",
+    "name": "ANDR007-00",
+    "image": "img/ANDR007-00.jpg",
+    "probability": 0.3,
+    "rarity": "comun",
+    "group": "ANDR007",
+    "text": "¡Bienvenido al Mundo de C#! 🌍✨\nC# es un lenguaje mágico 🧙‍♂️ que te permite crear casi cualquier cosa 🎮📱🖥️. Se ejecuta sobre .NET, un ecosistema poderoso que respalda todo 💪.",
+    "triggers": ["lenguaje 💬", ".NET ⚙️", "propósito general 🌐"]
+  },
+  {
+    "id": "ANDR007-01",
+    "name": "ANDR007-01",
+    "image": "img/ANDR007-01.jpg",
+    "probability": 0.2,
+    "rarity": "poco comun",
+    "group": "ANDR007",
+    "text": "¿Qué Es .NET? 🔧🌐\n.NET es como el aire y la tierra para tus programas 🌬️🪵. Incluye entorno de ejecución 🧠, librerías 📚 y herramientas 🧰.",
+    "triggers": ["plataforma 🛠️", "librerías 📦", "ecosistema 🌳"]
+  },
+  {
+    "id": "ANDR007-02",
+    "name": "ANDR007-02",
+    "image": "img/ANDR007-02.jpg",
+    "probability": 0.12,
+    "rarity": "rara",
+    "group": "ANDR007",
+    "text": "¡Programadores = Magos! 🧙‍♀️💻\nLas computadoras son rápidas ⚡ pero tontas 😵. Los programadores las controlan para resolver problemas reales 💡.",
+    "triggers": ["magia ✨", "control 🕹️", "soluciones 💭"]
+  },
+  {
+    "id": "ANDR007-03",
+    "name": "ANDR007-03",
+    "image": "img/ANDR007-03.jpg",
+    "probability": 0.1,
+    "rarity": "super rara",
+    "group": "ANDR007",
+    "text": "Humanos vs Computadoras 🧠🤖\nNo hablamos el mismo idioma 😅. El lenguaje humano es vago 🌀 y el de las computadoras es binario 1️⃣0️⃣. ¡Los lenguajes de programación son el puente! 🌉",
+    "triggers": ["lenguaje 💬", "binario 💾", "traducción 🔄"]
+  },
+  {
+    "id": "ANDR007-04",
+    "name": "ANDR007-04",
+    "image": "img/ANDR007-04.jpg",
+    "probability": 0.06,
+    "rarity": "ultra rara",
+    "group": "ANDR007",
+    "text": "¡C# Para Todo! 🧰🌍\nPuedes crear juegos 🎮, apps móviles 📱, programas de escritorio 🖥️, ¡y más! C# está listo para todo 🔥.",
+    "triggers": ["versatilidad 🎨", "creación 🏗️", "tecnología 📱"]
+  },
+  {
+    "id": "ANDR007-05",
+    "name": "ANDR007-05",
+    "image": "img/ANDR007-05.jpg",
+    "probability": 0.05,
+    "rarity": "legendaria",
+    "group": "ANDR007",
+    "text": "¿Un Sistema Operativo en C#? 😮🖥️\nNo es lo ideal, pero ¡se ha hecho! C# no es solo para apps simples 💡.",
+    "triggers": ["potencia 💪", "límites 🚫", "flexibilidad 🧠"]
+  },
+  {
+    "id": "ANDR007-06",
+    "name": "ANDR007-06",
+    "image": "img/ANDR007-06.jpg",
+    "probability": 0.04,
+    "rarity": "epica",
+    "group": "ANDR007",
+    "text": "Poder + Simplicidad ⚖️💻\nC# encuentra el equilibrio perfecto entre tener poder y ser fácil de usar 😌. ¡Ni muy rígido ni muy peligroso! 🧘",
+    "triggers": ["balance ⚖️", "control 🎛️", "seguridad 🔒"]
+  },
+  {
+    "id": "ANDR007-07",
+    "name": "ANDR007-07",
+    "image": "img/ANDR007-07.jpg",
+    "probability": 0.03,
+    "rarity": "secreta",
+    "group": "ANDR007",
+    "text": "¡Lenguaje Vivo! 🧬🆕\nC# evoluciona con el tiempo 🧓➡️🧑. ¡Ya va por la versión 10.0 y sigue mejorando! 🔁",
+    "triggers": ["actualización 🔄", "moderno 🕶️", "evolución 🧬"]
+  },
+  {
+    "id": "ANDR007-08",
+    "name": "ANDR007-08",
+    "image": "img/ANDR007-08.jpg",
+    "probability": 0.025,
+    "rarity": "alternativa",
+    "group": "ANDR007",
+    "text": "Familiares Famosos 👨‍👦💻\nSi sabes C, C++ o Java, ¡C# será pan comido! 🍞 Y luego esos también serán más fáciles 😎.",
+    "triggers": ["familiaridad 👨‍👧", "comparación 🆚", "aprendizaje 📈"]
+  },
+  {
+    "id": "ANDR007-09",
+    "name": "ANDR007-09",
+    "image": "img/ANDR007-09.jpg",
+    "probability": 0.02,
+    "rarity": "premium",
+    "group": "ANDR007",
+    "text": "¡Corre Donde Sea! 🌐🏃\nC# funciona en Windows 🪟, Linux 🐧, macOS 🍎, iOS 📱 y Android 🤖. ¡Código libre por el mundo! 🌍",
+    "triggers": ["multiplataforma 🚀", "compatibilidad 🖥️", "portabilidad 🧳"]
+  },
+  {
+    "id": "ANDR007-10",
+    "name": "ANDR007-10",
+    "image": "img/ANDR007-10.jpg",
+    "probability": 0.015,
+    "rarity": "especial",
+    "group": "ANDR007",
+    "text": "¿Eres Pro? Este Es Para Ti 🧓🧑‍💻\nC# es: tipado estáticamente 📌, recolector de basura 🗑️, orientado a objetos 🧱, imperativo ✍️, funcional 📐 y por eventos 🔔.",
+    "triggers": ["avanzado 💡", "técnico 🔬", "completo 📚"]
+  },
+  {
+    "id": "ANDR007-11",
+    "name": "ANDR007-11",
+    "image": "img/ANDR007-11.jpg",
+    "probability": 0.01,
+    "rarity": "dorada oscura",
+    "group": "ANDR007",
+    "text": ".NET: Mucho Más que un Nombre 🧱🌈\n.NET no es solo un framework… ¡es TODO un ecosistema! 🚀 Ayuda al código, al programador y al desarrollo completo 👨‍💻👩‍💻.",
+    "triggers": ["entorno 🌎", "soporte 💁", "base sólida 🧱"]
+  },
+  {
+    "id": "ANDR007-12",
+    "name": "ANDR007-12",
+    "image": "img/ANDR007-12.jpg",
+    "probability": 0.008,
+    "rarity": "prismatica",
+    "group": "ANDR007",
+    "text": "Base Class Library 📦🎯\n¡No reinventes la rueda! Usa la BCL para tareas como abrir archivos 📂 o sacar raíces cuadradas ➗.",
+    "triggers": ["reutilización 🔁", "herramientas 🛠️", "productividad 📈"]
+  },
+  {
+    "id": "ANDR007-13",
+    "name": "ANDR007-13",
+    "image": "img/ANDR007-13.jpg",
+    "probability": 0.005,
+    "rarity": "mistica",
+    "group": "ANDR007",
+    "text": "¡SDK al Rescate! 🧰🦸\nEl SDK de .NET hace tu vida más fácil 😌: compilar, depurar, probar… ¡todo desde un solo lugar! 💼",
+    "triggers": ["desarrollo 👨‍💻", "herramientas 🛠️", "facilidad 😎"]
+  },
+  {
+    "id": "ANDR007-14",
+    "name": "ANDR007-14",
+    "image": "img/ANDR007-14.jpg",
+    "probability": 0.004,
+    "rarity": "infernal",
+    "group": "ANDR007",
+    "text": "¡CLR: El Corazón de .NET ❤️⚙️\nEl Common Language Runtime (CLR) ejecuta tu código 🏃, lo protege 🔐 y lo optimiza 🧠.",
+    "triggers": ["ejecución 🔄", "seguridad 🔒", "rendimiento 🚀"]
+  },
+  {
+    "id": "ANDR007-15",
+    "name": "ANDR007-15",
+    "image": "img/ANDR007-15.jpg",
+    "probability": 0.0035,
+    "rarity": "explosiva",
+    "group": "ANDR007",
+    "text": "¡IL: El Idioma Intermedio! 🗣️🧩\nC# se traduce a IL (Intermediate Language) 📜 antes de ejecutarse. ¡Es como magia entre bastidores! 🎩✨",
+    "triggers": ["IL 📜", "compilación 🧪", "abstracción 🎭"]
+  },
+  {
+    "id": "ANDR007-16",
+    "name": "ANDR007-16",
+    "image": "img/ANDR007-16.jpg",
+    "probability": 0.003,
+    "rarity": "caotica",
+    "group": "ANDR007",
+    "text": "JIT: ¡Corre en el Momento Justo! ⏱️💥\nEl compilador JIT convierte IL a código nativo justo antes de ejecutarlo 🧬. ¡Rápido y listo! 🛠️",
+    "triggers": ["JIT 🚀", "rendimiento ⚡", "compilación en tiempo real ⌛"]
+  },
+  {
+    "id": "ANDR007-17",
+    "name": "ANDR007-17",
+    "image": "img/ANDR007-17.jpg",
+    "probability": 0.0025,
+    "rarity": "arcana",
+    "group": "ANDR007",
+    "text": "¡Lenguajes Unidos! 🤝🌐\nVB.NET, F#, C#... todos pueden vivir juntos en .NET 🏡. ¡Una gran familia feliz de lenguajes! 👨‍👩‍👧‍👦",
+    "triggers": ["multi-lenguaje 🌍", "interoperabilidad 🔁", "unidad 🧩"]
+  },
+  {
+    "id": "ANDR007-18",
+    "name": "ANDR007-18",
+    "image": "img/ANDR007-18.jpg",
+    "probability": 0.002,
+    "rarity": "magnifico",
+    "group": "ANDR007",
+    "text": "¡NuGet: El Cofre del Tesoro! 💎📦\nNuGet es el sistema de paquetes de .NET. Instala librerías fácilmente y comparte las tuyas 🪄.",
+    "triggers": ["paquetes 📦", "dependencias 🔗", "modularidad 🧱"]
+  },
+  {
+    "id": "ANDR007-19",
+    "name": "ANDR007-19",
+    "image": "img/ANDR007-19.jpg",
+    "probability": 0.0015,
+    "rarity": "aureo",
+    "group": "ANDR007",
+    "text": "¡Open Source y Orgulloso! 👐🌍\n.NET es de código abierto 🧑‍💻. ¡Tú también puedes aportar, explorar y mejorar el ecosistema! 🛠️✨",
+    "triggers": ["open source 👐", "comunidad 🤝", "libertad 🎈"]
+  },
+  {
+    "id": "ANDR008-00",
+    "name": "ANDR008-00",
+    "image": "img/ANDR008-00.jpg",
+    "probability": 0.3,
+    "rarity": "comun",
+    "group": "ANDR008",
+    "text": "¡Bienvenido al Mundo de C#! 🌍✨\nC# es un lenguaje mágico 🧙‍♂️ que te permite crear casi cualquier cosa 🎮📱🖥️. Se ejecuta sobre .NET, un ecosistema poderoso que respalda todo 💪.",
+    "triggers": ["lenguaje 💬", ".NET ⚙️", "propósito general 🌐"]
+  },
+  {
+    "id": "ANDR008-01",
+    "name": "ANDR008-01",
+    "image": "img/ANDR008-01.jpg",
+    "probability": 0.2,
+    "rarity": "poco comun",
+    "group": "ANDR008",
+    "text": "¿Qué Es .NET? 🔧🌐\n.NET es como el aire y la tierra para tus programas 🌬️🪵. Incluye entorno de ejecución 🧠, librerías 📚 y herramientas 🧰.",
+    "triggers": ["plataforma 🛠️", "librerías 📦", "ecosistema 🌳"]
+  },
+  {
+    "id": "ANDR008-02",
+    "name": "ANDR008-02",
+    "image": "img/ANDR008-02.jpg",
+    "probability": 0.12,
+    "rarity": "rara",
+    "group": "ANDR008",
+    "text": "¡Programadores = Magos! 🧙‍♀️💻\nLas computadoras son rápidas ⚡ pero tontas 😵. Los programadores las controlan para resolver problemas reales 💡.",
+    "triggers": ["magia ✨", "control 🕹️", "soluciones 💭"]
+  },
+  {
+    "id": "ANDR008-03",
+    "name": "ANDR008-03",
+    "image": "img/ANDR008-03.jpg",
+    "probability": 0.1,
+    "rarity": "super rara",
+    "group": "ANDR008",
+    "text": "Humanos vs Computadoras 🧠🤖\nNo hablamos el mismo idioma 😅. El lenguaje humano es vago 🌀 y el de las computadoras es binario 1️⃣0️⃣. ¡Los lenguajes de programación son el puente! 🌉",
+    "triggers": ["lenguaje 💬", "binario 💾", "traducción 🔄"]
+  },
+  {
+    "id": "ANDR008-04",
+    "name": "ANDR008-04",
+    "image": "img/ANDR008-04.jpg",
+    "probability": 0.06,
+    "rarity": "ultra rara",
+    "group": "ANDR008",
+    "text": "¡C# Para Todo! 🧰🌍\nPuedes crear juegos 🎮, apps móviles 📱, programas de escritorio 🖥️, ¡y más! C# está listo para todo 🔥.",
+    "triggers": ["versatilidad 🎨", "creación 🏗️", "tecnología 📱"]
+  },
+  {
+    "id": "ANDR008-05",
+    "name": "ANDR008-05",
+    "image": "img/ANDR008-05.jpg",
+    "probability": 0.05,
+    "rarity": "legendaria",
+    "group": "ANDR008",
+    "text": "¿Un Sistema Operativo en C#? 😮🖥️\nNo es lo ideal, pero ¡se ha hecho! C# no es solo para apps simples 💡.",
+    "triggers": ["potencia 💪", "límites 🚫", "flexibilidad 🧠"]
+  },
+  {
+    "id": "ANDR008-06",
+    "name": "ANDR008-06",
+    "image": "img/ANDR008-06.jpg",
+    "probability": 0.04,
+    "rarity": "epica",
+    "group": "ANDR008",
+    "text": "Poder + Simplicidad ⚖️💻\nC# encuentra el equilibrio perfecto entre tener poder y ser fácil de usar 😌. ¡Ni muy rígido ni muy peligroso! 🧘",
+    "triggers": ["balance ⚖️", "control 🎛️", "seguridad 🔒"]
+  },
+  {
+    "id": "ANDR008-07",
+    "name": "ANDR008-07",
+    "image": "img/ANDR008-07.jpg",
+    "probability": 0.03,
+    "rarity": "secreta",
+    "group": "ANDR008",
+    "text": "¡Lenguaje Vivo! 🧬🆕\nC# evoluciona con el tiempo 🧓➡️🧑. ¡Ya va por la versión 10.0 y sigue mejorando! 🔁",
+    "triggers": ["actualización 🔄", "moderno 🕶️", "evolución 🧬"]
+  },
+  {
+    "id": "ANDR008-08",
+    "name": "ANDR008-08",
+    "image": "img/ANDR008-08.jpg",
+    "probability": 0.025,
+    "rarity": "alternativa",
+    "group": "ANDR008",
+    "text": "Familiares Famosos 👨‍👦💻\nSi sabes C, C++ o Java, ¡C# será pan comido! 🍞 Y luego esos también serán más fáciles 😎.",
+    "triggers": ["familiaridad 👨‍👧", "comparación 🆚", "aprendizaje 📈"]
+  },
+  {
+    "id": "ANDR008-09",
+    "name": "ANDR008-09",
+    "image": "img/ANDR008-09.jpg",
+    "probability": 0.02,
+    "rarity": "premium",
+    "group": "ANDR008",
+    "text": "¡Corre Donde Sea! 🌐🏃\nC# funciona en Windows 🪟, Linux 🐧, macOS 🍎, iOS 📱 y Android 🤖. ¡Código libre por el mundo! 🌍",
+    "triggers": ["multiplataforma 🚀", "compatibilidad 🖥️", "portabilidad 🧳"]
+  },
+  {
+    "id": "ANDR008-10",
+    "name": "ANDR008-10",
+    "image": "img/ANDR008-10.jpg",
+    "probability": 0.015,
+    "rarity": "especial",
+    "group": "ANDR008",
+    "text": "¿Eres Pro? Este Es Para Ti 🧓🧑‍💻\nC# es: tipado estáticamente 📌, recolector de basura 🗑️, orientado a objetos 🧱, imperativo ✍️, funcional 📐 y por eventos 🔔.",
+    "triggers": ["avanzado 💡", "técnico 🔬", "completo 📚"]
+  },
+  {
+    "id": "ANDR008-11",
+    "name": "ANDR008-11",
+    "image": "img/ANDR008-11.jpg",
+    "probability": 0.01,
+    "rarity": "dorada oscura",
+    "group": "ANDR008",
+    "text": ".NET: Mucho Más que un Nombre 🧱🌈\n.NET no es solo un framework… ¡es TODO un ecosistema! 🚀 Ayuda al código, al programador y al desarrollo completo 👨‍💻👩‍💻.",
+    "triggers": ["entorno 🌎", "soporte 💁", "base sólida 🧱"]
+  },
+  {
+    "id": "ANDR008-12",
+    "name": "ANDR008-12",
+    "image": "img/ANDR008-12.jpg",
+    "probability": 0.008,
+    "rarity": "prismatica",
+    "group": "ANDR008",
+    "text": "Base Class Library 📦🎯\n¡No reinventes la rueda! Usa la BCL para tareas como abrir archivos 📂 o sacar raíces cuadradas ➗.",
+    "triggers": ["reutilización 🔁", "herramientas 🛠️", "productividad 📈"]
+  },
+  {
+    "id": "ANDR008-13",
+    "name": "ANDR008-13",
+    "image": "img/ANDR008-13.jpg",
+    "probability": 0.005,
+    "rarity": "mistica",
+    "group": "ANDR008",
+    "text": "¡SDK al Rescate! 🧰🦸\nEl SDK de .NET hace tu vida más fácil 😌: compilar, depurar, probar… ¡todo desde un solo lugar! 💼",
+    "triggers": ["desarrollo 👨‍💻", "herramientas 🛠️", "facilidad 😎"]
+  },
+  {
+    "id": "ANDR008-14",
+    "name": "ANDR008-14",
+    "image": "img/ANDR008-14.jpg",
+    "probability": 0.004,
+    "rarity": "infernal",
+    "group": "ANDR008",
+    "text": "¡CLR: El Corazón de .NET ❤️⚙️\nEl Common Language Runtime (CLR) ejecuta tu código 🏃, lo protege 🔐 y lo optimiza 🧠.",
+    "triggers": ["ejecución 🔄", "seguridad 🔒", "rendimiento 🚀"]
+  },
+  {
+    "id": "ANDR008-15",
+    "name": "ANDR008-15",
+    "image": "img/ANDR008-15.jpg",
+    "probability": 0.0035,
+    "rarity": "explosiva",
+    "group": "ANDR008",
+    "text": "¡IL: El Idioma Intermedio! 🗣️🧩\nC# se traduce a IL (Intermediate Language) 📜 antes de ejecutarse. ¡Es como magia entre bastidores! 🎩✨",
+    "triggers": ["IL 📜", "compilación 🧪", "abstracción 🎭"]
+  },
+  {
+    "id": "ANDR008-16",
+    "name": "ANDR008-16",
+    "image": "img/ANDR008-16.jpg",
+    "probability": 0.003,
+    "rarity": "caotica",
+    "group": "ANDR008",
+    "text": "JIT: ¡Corre en el Momento Justo! ⏱️💥\nEl compilador JIT convierte IL a código nativo justo antes de ejecutarlo 🧬. ¡Rápido y listo! 🛠️",
+    "triggers": ["JIT 🚀", "rendimiento ⚡", "compilación en tiempo real ⌛"]
+  },
+  {
+    "id": "ANDR008-17",
+    "name": "ANDR008-17",
+    "image": "img/ANDR008-17.jpg",
+    "probability": 0.0025,
+    "rarity": "arcana",
+    "group": "ANDR008",
+    "text": "¡Lenguajes Unidos! 🤝🌐\nVB.NET, F#, C#... todos pueden vivir juntos en .NET 🏡. ¡Una gran familia feliz de lenguajes! 👨‍👩‍👧‍👦",
+    "triggers": ["multi-lenguaje 🌍", "interoperabilidad 🔁", "unidad 🧩"]
+  },
+  {
+    "id": "ANDR008-18",
+    "name": "ANDR008-18",
+    "image": "img/ANDR008-18.jpg",
+    "probability": 0.002,
+    "rarity": "magnifico",
+    "group": "ANDR008",
+    "text": "¡NuGet: El Cofre del Tesoro! 💎📦\nNuGet es el sistema de paquetes de .NET. Instala librerías fácilmente y comparte las tuyas 🪄.",
+    "triggers": ["paquetes 📦", "dependencias 🔗", "modularidad 🧱"]
+  },
+  {
+    "id": "ANDR008-19",
+    "name": "ANDR008-19",
+    "image": "img/ANDR008-19.jpg",
+    "probability": 0.0015,
+    "rarity": "aureo",
+    "group": "ANDR008",
+    "text": "¡Open Source y Orgulloso! 👐🌍\n.NET es de código abierto 🧑‍💻. ¡Tú también puedes aportar, explorar y mejorar el ecosistema! 🛠️✨",
+    "triggers": ["open source 👐", "comunidad 🤝", "libertad 🎈"]
+  },
+  {
+    "id": "ANDR009-00",
+    "name": "ANDR009-00",
+    "image": "img/ANDR009-00.jpg",
+    "probability": 0.3,
+    "rarity": "comun",
+    "group": "ANDR009",
+    "text": "¡Bienvenido al Mundo de C#! 🌍✨\nC# es un lenguaje mágico 🧙‍♂️ que te permite crear casi cualquier cosa 🎮📱🖥️. Se ejecuta sobre .NET, un ecosistema poderoso que respalda todo 💪.",
+    "triggers": ["lenguaje 💬", ".NET ⚙️", "propósito general 🌐"]
+  },
+  {
+    "id": "ANDR009-01",
+    "name": "ANDR009-01",
+    "image": "img/ANDR009-01.jpg",
+    "probability": 0.2,
+    "rarity": "poco comun",
+    "group": "ANDR009",
+    "text": "¿Qué Es .NET? 🔧🌐\n.NET es como el aire y la tierra para tus programas 🌬️🪵. Incluye entorno de ejecución 🧠, librerías 📚 y herramientas 🧰.",
+    "triggers": ["plataforma 🛠️", "librerías 📦", "ecosistema 🌳"]
+  },
+  {
+    "id": "ANDR009-02",
+    "name": "ANDR009-02",
+    "image": "img/ANDR009-02.jpg",
+    "probability": 0.12,
+    "rarity": "rara",
+    "group": "ANDR009",
+    "text": "¡Programadores = Magos! 🧙‍♀️💻\nLas computadoras son rápidas ⚡ pero tontas 😵. Los programadores las controlan para resolver problemas reales 💡.",
+    "triggers": ["magia ✨", "control 🕹️", "soluciones 💭"]
+  },
+  {
+    "id": "ANDR009-03",
+    "name": "ANDR009-03",
+    "image": "img/ANDR009-03.jpg",
+    "probability": 0.1,
+    "rarity": "super rara",
+    "group": "ANDR009",
+    "text": "Humanos vs Computadoras 🧠🤖\nNo hablamos el mismo idioma 😅. El lenguaje humano es vago 🌀 y el de las computadoras es binario 1️⃣0️⃣. ¡Los lenguajes de programación son el puente! 🌉",
+    "triggers": ["lenguaje 💬", "binario 💾", "traducción 🔄"]
+  },
+  {
+    "id": "ANDR009-04",
+    "name": "ANDR009-04",
+    "image": "img/ANDR009-04.jpg",
+    "probability": 0.06,
+    "rarity": "ultra rara",
+    "group": "ANDR009",
+    "text": "¡C# Para Todo! 🧰🌍\nPuedes crear juegos 🎮, apps móviles 📱, programas de escritorio 🖥️, ¡y más! C# está listo para todo 🔥.",
+    "triggers": ["versatilidad 🎨", "creación 🏗️", "tecnología 📱"]
+  },
+  {
+    "id": "ANDR009-05",
+    "name": "ANDR009-05",
+    "image": "img/ANDR009-05.jpg",
+    "probability": 0.05,
+    "rarity": "legendaria",
+    "group": "ANDR009",
+    "text": "¿Un Sistema Operativo en C#? 😮🖥️\nNo es lo ideal, pero ¡se ha hecho! C# no es solo para apps simples 💡.",
+    "triggers": ["potencia 💪", "límites 🚫", "flexibilidad 🧠"]
+  },
+  {
+    "id": "ANDR009-06",
+    "name": "ANDR009-06",
+    "image": "img/ANDR009-06.jpg",
+    "probability": 0.04,
+    "rarity": "epica",
+    "group": "ANDR009",
+    "text": "Poder + Simplicidad ⚖️💻\nC# encuentra el equilibrio perfecto entre tener poder y ser fácil de usar 😌. ¡Ni muy rígido ni muy peligroso! 🧘",
+    "triggers": ["balance ⚖️", "control 🎛️", "seguridad 🔒"]
+  },
+  {
+    "id": "ANDR009-07",
+    "name": "ANDR009-07",
+    "image": "img/ANDR009-07.jpg",
+    "probability": 0.03,
+    "rarity": "secreta",
+    "group": "ANDR009",
+    "text": "¡Lenguaje Vivo! 🧬🆕\nC# evoluciona con el tiempo 🧓➡️🧑. ¡Ya va por la versión 10.0 y sigue mejorando! 🔁",
+    "triggers": ["actualización 🔄", "moderno 🕶️", "evolución 🧬"]
+  },
+  {
+    "id": "ANDR009-08",
+    "name": "ANDR009-08",
+    "image": "img/ANDR009-08.jpg",
+    "probability": 0.025,
+    "rarity": "alternativa",
+    "group": "ANDR009",
+    "text": "Familiares Famosos 👨‍👦💻\nSi sabes C, C++ o Java, ¡C# será pan comido! 🍞 Y luego esos también serán más fáciles 😎.",
+    "triggers": ["familiaridad 👨‍👧", "comparación 🆚", "aprendizaje 📈"]
+  },
+  {
+    "id": "ANDR009-09",
+    "name": "ANDR009-09",
+    "image": "img/ANDR009-09.jpg",
+    "probability": 0.02,
+    "rarity": "premium",
+    "group": "ANDR009",
+    "text": "¡Corre Donde Sea! 🌐🏃\nC# funciona en Windows 🪟, Linux 🐧, macOS 🍎, iOS 📱 y Android 🤖. ¡Código libre por el mundo! 🌍",
+    "triggers": ["multiplataforma 🚀", "compatibilidad 🖥️", "portabilidad 🧳"]
+  },
+  {
+    "id": "ANDR009-10",
+    "name": "ANDR009-10",
+    "image": "img/ANDR009-10.jpg",
+    "probability": 0.015,
+    "rarity": "especial",
+    "group": "ANDR009",
+    "text": "¿Eres Pro? Este Es Para Ti 🧓🧑‍💻\nC# es: tipado estáticamente 📌, recolector de basura 🗑️, orientado a objetos 🧱, imperativo ✍️, funcional 📐 y por eventos 🔔.",
+    "triggers": ["avanzado 💡", "técnico 🔬", "completo 📚"]
+  },
+  {
+    "id": "ANDR009-11",
+    "name": "ANDR009-11",
+    "image": "img/ANDR009-11.jpg",
+    "probability": 0.01,
+    "rarity": "dorada oscura",
+    "group": "ANDR009",
+    "text": ".NET: Mucho Más que un Nombre 🧱🌈\n.NET no es solo un framework… ¡es TODO un ecosistema! 🚀 Ayuda al código, al programador y al desarrollo completo 👨‍💻👩‍💻.",
+    "triggers": ["entorno 🌎", "soporte 💁", "base sólida 🧱"]
+  },
+  {
+    "id": "ANDR009-12",
+    "name": "ANDR009-12",
+    "image": "img/ANDR009-12.jpg",
+    "probability": 0.008,
+    "rarity": "prismatica",
+    "group": "ANDR009",
+    "text": "Base Class Library 📦🎯\n¡No reinventes la rueda! Usa la BCL para tareas como abrir archivos 📂 o sacar raíces cuadradas ➗.",
+    "triggers": ["reutilización 🔁", "herramientas 🛠️", "productividad 📈"]
+  },
+  {
+    "id": "ANDR009-13",
+    "name": "ANDR009-13",
+    "image": "img/ANDR009-13.jpg",
+    "probability": 0.005,
+    "rarity": "mistica",
+    "group": "ANDR009",
+    "text": "¡SDK al Rescate! 🧰🦸\nEl SDK de .NET hace tu vida más fácil 😌: compilar, depurar, probar… ¡todo desde un solo lugar! 💼",
+    "triggers": ["desarrollo 👨‍💻", "herramientas 🛠️", "facilidad 😎"]
+  },
+  {
+    "id": "ANDR009-14",
+    "name": "ANDR009-14",
+    "image": "img/ANDR009-14.jpg",
+    "probability": 0.004,
+    "rarity": "infernal",
+    "group": "ANDR009",
+    "text": "¡CLR: El Corazón de .NET ❤️⚙️\nEl Common Language Runtime (CLR) ejecuta tu código 🏃, lo protege 🔐 y lo optimiza 🧠.",
+    "triggers": ["ejecución 🔄", "seguridad 🔒", "rendimiento 🚀"]
+  },
+  {
+    "id": "ANDR009-15",
+    "name": "ANDR009-15",
+    "image": "img/ANDR009-15.jpg",
+    "probability": 0.0035,
+    "rarity": "explosiva",
+    "group": "ANDR009",
+    "text": "¡IL: El Idioma Intermedio! 🗣️🧩\nC# se traduce a IL (Intermediate Language) 📜 antes de ejecutarse. ¡Es como magia entre bastidores! 🎩✨",
+    "triggers": ["IL 📜", "compilación 🧪", "abstracción 🎭"]
+  },
+  {
+    "id": "ANDR009-16",
+    "name": "ANDR009-16",
+    "image": "img/ANDR009-16.jpg",
+    "probability": 0.003,
+    "rarity": "caotica",
+    "group": "ANDR009",
+    "text": "JIT: ¡Corre en el Momento Justo! ⏱️💥\nEl compilador JIT convierte IL a código nativo justo antes de ejecutarlo 🧬. ¡Rápido y listo! 🛠️",
+    "triggers": ["JIT 🚀", "rendimiento ⚡", "compilación en tiempo real ⌛"]
+  },
+  {
+    "id": "ANDR009-17",
+    "name": "ANDR009-17",
+    "image": "img/ANDR009-17.jpg",
+    "probability": 0.0025,
+    "rarity": "arcana",
+    "group": "ANDR009",
+    "text": "¡Lenguajes Unidos! 🤝🌐\nVB.NET, F#, C#... todos pueden vivir juntos en .NET 🏡. ¡Una gran familia feliz de lenguajes! 👨‍👩‍👧‍👦",
+    "triggers": ["multi-lenguaje 🌍", "interoperabilidad 🔁", "unidad 🧩"]
+  },
+  {
+    "id": "ANDR009-18",
+    "name": "ANDR009-18",
+    "image": "img/ANDR009-18.jpg",
+    "probability": 0.002,
+    "rarity": "magnifico",
+    "group": "ANDR009",
+    "text": "¡NuGet: El Cofre del Tesoro! 💎📦\nNuGet es el sistema de paquetes de .NET. Instala librerías fácilmente y comparte las tuyas 🪄.",
+    "triggers": ["paquetes 📦", "dependencias 🔗", "modularidad 🧱"]
+  },
+  {
+    "id": "ANDR009-19",
+    "name": "ANDR009-19",
+    "image": "img/ANDR009-19.jpg",
+    "probability": 0.0015,
+    "rarity": "aureo",
+    "group": "ANDR009",
+    "text": "¡Open Source y Orgulloso! 👐🌍\n.NET es de código abierto 🧑‍💻. ¡Tú también puedes aportar, explorar y mejorar el ecosistema! 🛠️✨",
+    "triggers": ["open source 👐", "comunidad 🤝", "libertad 🎈"]
+  },
+  {
+    "id": "ANDR010-00",
+    "name": "ANDR010-00",
+    "image": "img/ANDR010-00.jpg",
+    "probability": 0.3,
+    "rarity": "comun",
+    "group": "ANDR010",
+    "text": "¡Bienvenido al Mundo de C#! 🌍✨\nC# es un lenguaje mágico 🧙‍♂️ que te permite crear casi cualquier cosa 🎮📱🖥️. Se ejecuta sobre .NET, un ecosistema poderoso que respalda todo 💪.",
+    "triggers": ["lenguaje 💬", ".NET ⚙️", "propósito general 🌐"]
+  },
+  {
+    "id": "ANDR010-01",
+    "name": "ANDR010-01",
+    "image": "img/ANDR010-01.jpg",
+    "probability": 0.2,
+    "rarity": "poco comun",
+    "group": "ANDR010",
+    "text": "¿Qué Es .NET? 🔧🌐\n.NET es como el aire y la tierra para tus programas 🌬️🪵. Incluye entorno de ejecución 🧠, librerías 📚 y herramientas 🧰.",
+    "triggers": ["plataforma 🛠️", "librerías 📦", "ecosistema 🌳"]
+  },
+  {
+    "id": "ANDR010-02",
+    "name": "ANDR010-02",
+    "image": "img/ANDR010-02.jpg",
+    "probability": 0.12,
+    "rarity": "rara",
+    "group": "ANDR010",
+    "text": "¡Programadores = Magos! 🧙‍♀️💻\nLas computadoras son rápidas ⚡ pero tontas 😵. Los programadores las controlan para resolver problemas reales 💡.",
+    "triggers": ["magia ✨", "control 🕹️", "soluciones 💭"]
+  },
+  {
+    "id": "ANDR010-03",
+    "name": "ANDR010-03",
+    "image": "img/ANDR010-03.jpg",
+    "probability": 0.1,
+    "rarity": "super rara",
+    "group": "ANDR010",
+    "text": "Humanos vs Computadoras 🧠🤖\nNo hablamos el mismo idioma 😅. El lenguaje humano es vago 🌀 y el de las computadoras es binario 1️⃣0️⃣. ¡Los lenguajes de programación son el puente! 🌉",
+    "triggers": ["lenguaje 💬", "binario 💾", "traducción 🔄"]
+  },
+  {
+    "id": "ANDR010-04",
+    "name": "ANDR010-04",
+    "image": "img/ANDR010-04.jpg",
+    "probability": 0.06,
+    "rarity": "ultra rara",
+    "group": "ANDR010",
+    "text": "¡C# Para Todo! 🧰🌍\nPuedes crear juegos 🎮, apps móviles 📱, programas de escritorio 🖥️, ¡y más! C# está listo para todo 🔥.",
+    "triggers": ["versatilidad 🎨", "creación 🏗️", "tecnología 📱"]
+  },
+  {
+    "id": "ANDR010-05",
+    "name": "ANDR010-05",
+    "image": "img/ANDR010-05.jpg",
+    "probability": 0.05,
+    "rarity": "legendaria",
+    "group": "ANDR010",
+    "text": "¿Un Sistema Operativo en C#? 😮🖥️\nNo es lo ideal, pero ¡se ha hecho! C# no es solo para apps simples 💡.",
+    "triggers": ["potencia 💪", "límites 🚫", "flexibilidad 🧠"]
+  },
+  {
+    "id": "ANDR010-06",
+    "name": "ANDR010-06",
+    "image": "img/ANDR010-06.jpg",
+    "probability": 0.04,
+    "rarity": "epica",
+    "group": "ANDR010",
+    "text": "Poder + Simplicidad ⚖️💻\nC# encuentra el equilibrio perfecto entre tener poder y ser fácil de usar 😌. ¡Ni muy rígido ni muy peligroso! 🧘",
+    "triggers": ["balance ⚖️", "control 🎛️", "seguridad 🔒"]
+  },
+  {
+    "id": "ANDR010-07",
+    "name": "ANDR010-07",
+    "image": "img/ANDR010-07.jpg",
+    "probability": 0.03,
+    "rarity": "secreta",
+    "group": "ANDR010",
+    "text": "¡Lenguaje Vivo! 🧬🆕\nC# evoluciona con el tiempo 🧓➡️🧑. ¡Ya va por la versión 10.0 y sigue mejorando! 🔁",
+    "triggers": ["actualización 🔄", "moderno 🕶️", "evolución 🧬"]
+  },
+  {
+    "id": "ANDR010-08",
+    "name": "ANDR010-08",
+    "image": "img/ANDR010-08.jpg",
+    "probability": 0.025,
+    "rarity": "alternativa",
+    "group": "ANDR010",
+    "text": "Familiares Famosos 👨‍👦💻\nSi sabes C, C++ o Java, ¡C# será pan comido! 🍞 Y luego esos también serán más fáciles 😎.",
+    "triggers": ["familiaridad 👨‍👧", "comparación 🆚", "aprendizaje 📈"]
+  },
+  {
+    "id": "ANDR010-09",
+    "name": "ANDR010-09",
+    "image": "img/ANDR010-09.jpg",
+    "probability": 0.02,
+    "rarity": "premium",
+    "group": "ANDR010",
+    "text": "¡Corre Donde Sea! 🌐🏃\nC# funciona en Windows 🪟, Linux 🐧, macOS 🍎, iOS 📱 y Android 🤖. ¡Código libre por el mundo! 🌍",
+    "triggers": ["multiplataforma 🚀", "compatibilidad 🖥️", "portabilidad 🧳"]
+  },
+  {
+    "id": "ANDR010-10",
+    "name": "ANDR010-10",
+    "image": "img/ANDR010-10.jpg",
+    "probability": 0.015,
+    "rarity": "especial",
+    "group": "ANDR010",
+    "text": "¿Eres Pro? Este Es Para Ti 🧓🧑‍💻\nC# es: tipado estáticamente 📌, recolector de basura 🗑️, orientado a objetos 🧱, imperativo ✍️, funcional 📐 y por eventos 🔔.",
+    "triggers": ["avanzado 💡", "técnico 🔬", "completo 📚"]
+  },
+  {
+    "id": "ANDR010-11",
+    "name": "ANDR010-11",
+    "image": "img/ANDR010-11.jpg",
+    "probability": 0.01,
+    "rarity": "dorada oscura",
+    "group": "ANDR010",
+    "text": ".NET: Mucho Más que un Nombre 🧱🌈\n.NET no es solo un framework… ¡es TODO un ecosistema! 🚀 Ayuda al código, al programador y al desarrollo completo 👨‍💻👩‍💻.",
+    "triggers": ["entorno 🌎", "soporte 💁", "base sólida 🧱"]
+  },
+  {
+    "id": "ANDR010-12",
+    "name": "ANDR010-12",
+    "image": "img/ANDR010-12.jpg",
+    "probability": 0.008,
+    "rarity": "prismatica",
+    "group": "ANDR010",
+    "text": "Base Class Library 📦🎯\n¡No reinventes la rueda! Usa la BCL para tareas como abrir archivos 📂 o sacar raíces cuadradas ➗.",
+    "triggers": ["reutilización 🔁", "herramientas 🛠️", "productividad 📈"]
+  },
+  {
+    "id": "ANDR010-13",
+    "name": "ANDR010-13",
+    "image": "img/ANDR010-13.jpg",
+    "probability": 0.005,
+    "rarity": "mistica",
+    "group": "ANDR010",
+    "text": "¡SDK al Rescate! 🧰🦸\nEl SDK de .NET hace tu vida más fácil 😌: compilar, depurar, probar… ¡todo desde un solo lugar! 💼",
+    "triggers": ["desarrollo 👨‍💻", "herramientas 🛠️", "facilidad 😎"]
+  },
+  {
+    "id": "ANDR010-14",
+    "name": "ANDR010-14",
+    "image": "img/ANDR010-14.jpg",
+    "probability": 0.004,
+    "rarity": "infernal",
+    "group": "ANDR010",
+    "text": "¡CLR: El Corazón de .NET ❤️⚙️\nEl Common Language Runtime (CLR) ejecuta tu código 🏃, lo protege 🔐 y lo optimiza 🧠.",
+    "triggers": ["ejecución 🔄", "seguridad 🔒", "rendimiento 🚀"]
+  },
+  {
+    "id": "ANDR010-15",
+    "name": "ANDR010-15",
+    "image": "img/ANDR010-15.jpg",
+    "probability": 0.0035,
+    "rarity": "explosiva",
+    "group": "ANDR010",
+    "text": "¡IL: El Idioma Intermedio! 🗣️🧩\nC# se traduce a IL (Intermediate Language) 📜 antes de ejecutarse. ¡Es como magia entre bastidores! 🎩✨",
+    "triggers": ["IL 📜", "compilación 🧪", "abstracción 🎭"]
+  },
+  {
+    "id": "ANDR010-16",
+    "name": "ANDR010-16",
+    "image": "img/ANDR010-16.jpg",
+    "probability": 0.003,
+    "rarity": "caotica",
+    "group": "ANDR010",
+    "text": "JIT: ¡Corre en el Momento Justo! ⏱️💥\nEl compilador JIT convierte IL a código nativo justo antes de ejecutarlo 🧬. ¡Rápido y listo! 🛠️",
+    "triggers": ["JIT 🚀", "rendimiento ⚡", "compilación en tiempo real ⌛"]
+  },
+  {
+    "id": "ANDR010-17",
+    "name": "ANDR010-17",
+    "image": "img/ANDR010-17.jpg",
+    "probability": 0.0025,
+    "rarity": "arcana",
+    "group": "ANDR010",
+    "text": "¡Lenguajes Unidos! 🤝🌐\nVB.NET, F#, C#... todos pueden vivir juntos en .NET 🏡. ¡Una gran familia feliz de lenguajes! 👨‍👩‍👧‍👦",
+    "triggers": ["multi-lenguaje 🌍", "interoperabilidad 🔁", "unidad 🧩"]
+  },
+  {
+    "id": "ANDR010-18",
+    "name": "ANDR010-18",
+    "image": "img/ANDR010-18.jpg",
+    "probability": 0.002,
+    "rarity": "magnifico",
+    "group": "ANDR010",
+    "text": "¡NuGet: El Cofre del Tesoro! 💎📦\nNuGet es el sistema de paquetes de .NET. Instala librerías fácilmente y comparte las tuyas 🪄.",
+    "triggers": ["paquetes 📦", "dependencias 🔗", "modularidad 🧱"]
+  },
+  {
+    "id": "ANDR010-19",
+    "name": "ANDR010-19",
+    "image": "img/ANDR010-19.jpg",
+    "probability": 0.0015,
+    "rarity": "aureo",
+    "group": "ANDR010",
+    "text": "¡Open Source y Orgulloso! 👐🌍\n.NET es de código abierto 🧑‍💻. ¡Tú también puedes aportar, explorar y mejorar el ecosistema! 🛠️✨",
+    "triggers": ["open source 👐", "comunidad 🤝", "libertad 🎈"]
+  },
+  {
+    "id": "ANDR011-00",
+    "name": "ANDR011-00",
+    "image": "img/ANDR011-00.jpg",
+    "probability": 0.3,
+    "rarity": "comun",
+    "group": "ANDR011",
+    "text": "¡Bienvenido al Mundo de C#! 🌍✨\nC# es un lenguaje mágico 🧙‍♂️ que te permite crear casi cualquier cosa 🎮📱🖥️. Se ejecuta sobre .NET, un ecosistema poderoso que respalda todo 💪.",
+    "triggers": ["lenguaje 💬", ".NET ⚙️", "propósito general 🌐"]
+  },
+  {
+    "id": "ANDR011-01",
+    "name": "ANDR011-01",
+    "image": "img/ANDR011-01.jpg",
+    "probability": 0.2,
+    "rarity": "poco comun",
+    "group": "ANDR011",
+    "text": "¿Qué Es .NET? 🔧🌐\n.NET es como el aire y la tierra para tus programas 🌬️🪵. Incluye entorno de ejecución 🧠, librerías 📚 y herramientas 🧰.",
+    "triggers": ["plataforma 🛠️", "librerías 📦", "ecosistema 🌳"]
+  },
+  {
+    "id": "ANDR011-02",
+    "name": "ANDR011-02",
+    "image": "img/ANDR011-02.jpg",
+    "probability": 0.12,
+    "rarity": "rara",
+    "group": "ANDR011",
+    "text": "¡Programadores = Magos! 🧙‍♀️💻\nLas computadoras son rápidas ⚡ pero tontas 😵. Los programadores las controlan para resolver problemas reales 💡.",
+    "triggers": ["magia ✨", "control 🕹️", "soluciones 💭"]
+  },
+  {
+    "id": "ANDR011-03",
+    "name": "ANDR011-03",
+    "image": "img/ANDR011-03.jpg",
+    "probability": 0.1,
+    "rarity": "super rara",
+    "group": "ANDR011",
+    "text": "Humanos vs Computadoras 🧠🤖\nNo hablamos el mismo idioma 😅. El lenguaje humano es vago 🌀 y el de las computadoras es binario 1️⃣0️⃣. ¡Los lenguajes de programación son el puente! 🌉",
+    "triggers": ["lenguaje 💬", "binario 💾", "traducción 🔄"]
+  },
+  {
+    "id": "ANDR011-04",
+    "name": "ANDR011-04",
+    "image": "img/ANDR011-04.jpg",
+    "probability": 0.06,
+    "rarity": "ultra rara",
+    "group": "ANDR011",
+    "text": "¡C# Para Todo! 🧰🌍\nPuedes crear juegos 🎮, apps móviles 📱, programas de escritorio 🖥️, ¡y más! C# está listo para todo 🔥.",
+    "triggers": ["versatilidad 🎨", "creación 🏗️", "tecnología 📱"]
+  },
+  {
+    "id": "ANDR011-05",
+    "name": "ANDR011-05",
+    "image": "img/ANDR011-05.jpg",
+    "probability": 0.05,
+    "rarity": "legendaria",
+    "group": "ANDR011",
+    "text": "¿Un Sistema Operativo en C#? 😮🖥️\nNo es lo ideal, pero ¡se ha hecho! C# no es solo para apps simples 💡.",
+    "triggers": ["potencia 💪", "límites 🚫", "flexibilidad 🧠"]
+  },
+  {
+    "id": "ANDR011-06",
+    "name": "ANDR011-06",
+    "image": "img/ANDR011-06.jpg",
+    "probability": 0.04,
+    "rarity": "epica",
+    "group": "ANDR011",
+    "text": "Poder + Simplicidad ⚖️💻\nC# encuentra el equilibrio perfecto entre tener poder y ser fácil de usar 😌. ¡Ni muy rígido ni muy peligroso! 🧘",
+    "triggers": ["balance ⚖️", "control 🎛️", "seguridad 🔒"]
+  },
+  {
+    "id": "ANDR011-07",
+    "name": "ANDR011-07",
+    "image": "img/ANDR011-07.jpg",
+    "probability": 0.03,
+    "rarity": "secreta",
+    "group": "ANDR011",
+    "text": "¡Lenguaje Vivo! 🧬🆕\nC# evoluciona con el tiempo 🧓➡️🧑. ¡Ya va por la versión 10.0 y sigue mejorando! 🔁",
+    "triggers": ["actualización 🔄", "moderno 🕶️", "evolución 🧬"]
+  },
+  {
+    "id": "ANDR011-08",
+    "name": "ANDR011-08",
+    "image": "img/ANDR011-08.jpg",
+    "probability": 0.025,
+    "rarity": "alternativa",
+    "group": "ANDR011",
+    "text": "Familiares Famosos 👨‍👦💻\nSi sabes C, C++ o Java, ¡C# será pan comido! 🍞 Y luego esos también serán más fáciles 😎.",
+    "triggers": ["familiaridad 👨‍👧", "comparación 🆚", "aprendizaje 📈"]
+  },
+  {
+    "id": "ANDR011-09",
+    "name": "ANDR011-09",
+    "image": "img/ANDR011-09.jpg",
+    "probability": 0.02,
+    "rarity": "premium",
+    "group": "ANDR011",
+    "text": "¡Corre Donde Sea! 🌐🏃\nC# funciona en Windows 🪟, Linux 🐧, macOS 🍎, iOS 📱 y Android 🤖. ¡Código libre por el mundo! 🌍",
+    "triggers": ["multiplataforma 🚀", "compatibilidad 🖥️", "portabilidad 🧳"]
+  },
+  {
+    "id": "ANDR011-10",
+    "name": "ANDR011-10",
+    "image": "img/ANDR011-10.jpg",
+    "probability": 0.015,
+    "rarity": "especial",
+    "group": "ANDR011",
+    "text": "¿Eres Pro? Este Es Para Ti 🧓🧑‍💻\nC# es: tipado estáticamente 📌, recolector de basura 🗑️, orientado a objetos 🧱, imperativo ✍️, funcional 📐 y por eventos 🔔.",
+    "triggers": ["avanzado 💡", "técnico 🔬", "completo 📚"]
+  },
+  {
+    "id": "ANDR011-11",
+    "name": "ANDR011-11",
+    "image": "img/ANDR011-11.jpg",
+    "probability": 0.01,
+    "rarity": "dorada oscura",
+    "group": "ANDR011",
+    "text": ".NET: Mucho Más que un Nombre 🧱🌈\n.NET no es solo un framework… ¡es TODO un ecosistema! 🚀 Ayuda al código, al programador y al desarrollo completo 👨‍💻👩‍💻.",
+    "triggers": ["entorno 🌎", "soporte 💁", "base sólida 🧱"]
+  },
+  {
+    "id": "ANDR011-12",
+    "name": "ANDR011-12",
+    "image": "img/ANDR011-12.jpg",
+    "probability": 0.008,
+    "rarity": "prismatica",
+    "group": "ANDR011",
+    "text": "Base Class Library 📦🎯\n¡No reinventes la rueda! Usa la BCL para tareas como abrir archivos 📂 o sacar raíces cuadradas ➗.",
+    "triggers": ["reutilización 🔁", "herramientas 🛠️", "productividad 📈"]
+  },
+  {
+    "id": "ANDR011-13",
+    "name": "ANDR011-13",
+    "image": "img/ANDR011-13.jpg",
+    "probability": 0.005,
+    "rarity": "mistica",
+    "group": "ANDR011",
+    "text": "¡SDK al Rescate! 🧰🦸\nEl SDK de .NET hace tu vida más fácil 😌: compilar, depurar, probar… ¡todo desde un solo lugar! 💼",
+    "triggers": ["desarrollo 👨‍💻", "herramientas 🛠️", "facilidad 😎"]
+  },
+  {
+    "id": "ANDR011-14",
+    "name": "ANDR011-14",
+    "image": "img/ANDR011-14.jpg",
+    "probability": 0.004,
+    "rarity": "infernal",
+    "group": "ANDR011",
+    "text": "¡CLR: El Corazón de .NET ❤️⚙️\nEl Common Language Runtime (CLR) ejecuta tu código 🏃, lo protege 🔐 y lo optimiza 🧠.",
+    "triggers": ["ejecución 🔄", "seguridad 🔒", "rendimiento 🚀"]
+  },
+  {
+    "id": "ANDR011-15",
+    "name": "ANDR011-15",
+    "image": "img/ANDR011-15.jpg",
+    "probability": 0.0035,
+    "rarity": "explosiva",
+    "group": "ANDR011",
+    "text": "¡IL: El Idioma Intermedio! 🗣️🧩\nC# se traduce a IL (Intermediate Language) 📜 antes de ejecutarse. ¡Es como magia entre bastidores! 🎩✨",
+    "triggers": ["IL 📜", "compilación 🧪", "abstracción 🎭"]
+  },
+  {
+    "id": "ANDR011-16",
+    "name": "ANDR011-16",
+    "image": "img/ANDR011-16.jpg",
+    "probability": 0.003,
+    "rarity": "caotica",
+    "group": "ANDR011",
+    "text": "JIT: ¡Corre en el Momento Justo! ⏱️💥\nEl compilador JIT convierte IL a código nativo justo antes de ejecutarlo 🧬. ¡Rápido y listo! 🛠️",
+    "triggers": ["JIT 🚀", "rendimiento ⚡", "compilación en tiempo real ⌛"]
+  },
+  {
+    "id": "ANDR011-17",
+    "name": "ANDR011-17",
+    "image": "img/ANDR011-17.jpg",
+    "probability": 0.0025,
+    "rarity": "arcana",
+    "group": "ANDR011",
+    "text": "¡Lenguajes Unidos! 🤝🌐\nVB.NET, F#, C#... todos pueden vivir juntos en .NET 🏡. ¡Una gran familia feliz de lenguajes! 👨‍👩‍👧‍👦",
+    "triggers": ["multi-lenguaje 🌍", "interoperabilidad 🔁", "unidad 🧩"]
+  },
+  {
+    "id": "ANDR011-18",
+    "name": "ANDR011-18",
+    "image": "img/ANDR011-18.jpg",
+    "probability": 0.002,
+    "rarity": "magnifico",
+    "group": "ANDR011",
+    "text": "¡NuGet: El Cofre del Tesoro! 💎📦\nNuGet es el sistema de paquetes de .NET. Instala librerías fácilmente y comparte las tuyas 🪄.",
+    "triggers": ["paquetes 📦", "dependencias 🔗", "modularidad 🧱"]
+  },
+  {
+    "id": "ANDR011-19",
+    "name": "ANDR011-19",
+    "image": "img/ANDR011-19.jpg",
+    "probability": 0.0015,
+    "rarity": "aureo",
+    "group": "ANDR011",
+    "text": "¡Open Source y Orgulloso! 👐🌍\n.NET es de código abierto 🧑‍💻. ¡Tú también puedes aportar, explorar y mejorar el ecosistema! 🛠️✨",
+    "triggers": ["open source 👐", "comunidad 🤝", "libertad 🎈"]
+  }
+]

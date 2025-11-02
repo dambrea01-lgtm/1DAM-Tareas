@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Álbum de Cartas</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <!-- 🔊 Botón para música y botones guardar/cargar -->
+    <div id="musicControlGroup">
+      <button id="musicToggleBtn" class="music-btn" title="Activar/Desactivar música">🔊</button>
+      <button id="saveProgressBtn" class="music-btn" title="Guardar progreso">💾</button>
+      <button id="loadProgressBtn" class="music-btn" title="Cargar progreso">📂</button>
+    </div>
+    <header>
+      <h1>💻🎨🎧 DESARROLLO MULTIMEDIA 🎥🕹️📱</h1>
+      <div class="actions">
+        <button id="openPackBtn">🎁 Abrir Sobre</button>
+        <button id="openPremiumPackBtn">💎 Sobre Premium (0)</button>
+        <button id="toggleAlbumBtn">📖 Álbum</button>
+        <button id="btnTrivia">📬 Obtener Sobre</button>
+    </header>
+
+    <main>
+      <div
+        id="triviaMessage"
+        style="
+          text-align: center;
+          margin-top: 1rem;
+          font-size: 1.2rem;
+          color: white;
+        "
+      ></div>
+
+      <!-- Contenedor de las cartas del sobre -->
+      <section id="packSection">
+        <h2>🃏 Cartas del Sobre</h2>
+        <div id="pack" class="card-container"></div>
+      </section>
+      <div id="card-container"></div>
+
+      <!-- Contenedor del álbum -->
+      <section id="albumSection" style="display: none">
+        <h2>📘 Álbum</h2>
+        <div id="objetivosActuales" class="objetivos-box"></div> 
+        <div id="mensajeObjetivo" style="display:none; color: green; font-weight: bold;"></div> 
+        <div id="album"></div>
+      </section>
+    </main>
+
+    <!-- Modal para carta ampliada -->
+    <div id="modal" class="modal hidden">
+      <span id="closeModal" class="close">&times;</span>
+      <img id="modalImage" class="modal-content" />
+    </div>
+
+    <div id="triviaContainer" style="display: none; flex-direction: column">
+      <div id="triviaCard" class="trivia-card">
+        <div id="triviaQuestion"></div>
+        <div id="triviaOptions"></div>
+        <div id="triviaAciertos" class="trivia-aciertos"></div>
+      </div>
+      <div id="triviaProgress"></div>
+    </div>
+
+    <div id="rouletteContainer">
+      <div id="rouletteWrapper">
+        <div id="rouletteArrow">▼</div>
+        <div id="rouletteWheel">
+          <div class="label" style="--i: 0" data-label="1"></div>
+          <div class="label" style="--i: 1" data-label="2"></div>
+          <div class="label" style="--i: 2" data-label="3"></div>
+          <div class="label" style="--i: 3" data-label="5"></div>
+          <div class="label" style="--i: 4" data-label="7"></div>
+          <div class="label" style="--i: 5" data-label="8"></div>
+          <div class="label" style="--i: 6" data-label="10"></div>
+          <div class="label" style="--i: 7" data-label="12"></div>
+          <div class="label" style="--i: 8" data-label="15"></div>
+          <div class="label" style="--i: 9" data-label="20"></div>
+        </div>
+      </div>
+      <button id="spinButton">Girar</button>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
