@@ -6,7 +6,7 @@
 
 - 🗄️ **[Bases de Datos](BasesDatos/)**
 
-  - 📘 [Tareas sobre sentencias SQL](bases%20de%20datos/Tareas%20sobre%20sentencias%20SQL/tareas.md)
+  - 📘 [Tareas sobre sentencias SQL](bases-de-datos/tarea-sobre-sentencias-SQL/tareas.md)
 
 - 📝 **[Lenguajes de Marcas](LenguajesMarcas/)**
 - ⚙️ **[Entornos de Desarrollo](EntornosDesarrollo/)**
