@@ -134,8 +134,8 @@ Pasos cuando un usuario solicita datos:
 
 ## Recursos Utilizados
 
-- [Temario que estudie](/recursos/almacenamiento_informacion.pdf): teoría sobre almacenamiento de información, bases de datos relacionales y NoSQL.
-- [Apuntes adicionales](/recursos/bbdd-nosql.pdf): apuntes extras sobre bases de datos no-sql.
+- [Temario que estudie](recursos/almacenamiento_informacion.pdf): teoría sobre almacenamiento de información, bases de datos relacionales y NoSQL.
+- [Apuntes adicionales](recursos/bbdd-nosql.pdf): apuntes extras sobre bases de datos no-sql.
 
 ---
 
