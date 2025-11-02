@@ -14,7 +14,7 @@
 
 > Realice tareas extras de normalización para afianzar conceptos.
 
-[![Tarea de normalizacion extra](img/tareas_normalizacion_extra)](docs/tarea_normalizacion_extra.pdf)
+[![Tarea de normalizacion extra](img/tareas_normalizacion_extra.png)](docs/tarea_normalizacion_extra.pdf)
 
 ---
 
