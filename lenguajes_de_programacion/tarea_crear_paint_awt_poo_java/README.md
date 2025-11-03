@@ -8,7 +8,8 @@
 
 > Este proyecto consiste en el desarrollo de una aplicación de dibujo sencilla, similar a Paint, realizada con Java 8 y el uso de Swing/AWT.
 
-[![Enunciado de la tarea Programa Paint](img/programa_paint.png)](docs/tarea_programa_paint.pdf)
+- **Haz click sobre la imagen para acceder al enunciado de la tarea**
+  [![Enunciado de la tarea Programa Paint](img/programa_paint.png)](docs/tarea_programa_paint.pdf)
 
 > El objetivo principal es aplicar conceptos de Programación Orientada a Objetos (POO) y familiarizarnos con componentes gráficos en Java, como JFrame, JLabel, JButton, JComboBox, JToolBar y BufferedImage.
 
@@ -39,7 +40,6 @@ Durante esta práctica, he aprendido y aplicado los siguientes conceptos:
 - Programación Orientada a Objetos (POO) en Java
 
 ![Texto alternativo](img/capturaPaint-04.png)
-
 
 - Creación de interfaces (Pincel) y su implementación en múltiples clases (PincelCirculo, PincelRectangulo, PincelEstrella).
 
