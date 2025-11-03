@@ -4,6 +4,7 @@
 
 - 👨‍💻 **[Lenguajes de Programación]**
 
+  - 📘 [Tarea creación de un Paint con AWT/POO en Java](lenguajes_de_programacion/tarea_crear_paint_awt_poo_java/README.md)
   - 📘 [Tareas laboratorio SAP ABAP](lenguajes_de_programacion/tarea_laboratorio_SAP_ABAP/tarea.md)
 
 - 🗄️ **[Bases de Datos]**
