@@ -1,5 +1,9 @@
 # 1DAM-Tareas
 
+<p align="center">
+  <img src="recursos/banner.png" alt="Tutorial ABAP Cloud" width="1280"/>
+</p>
+
 ## 📚 Asignaturas del curso
 
 - 👨‍💻 **[Lenguajes de Programación]**
